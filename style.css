@@ -161,72 +161,72 @@ div.text-wrapper {
     color: #dddddd;
     display: inline-block;
 }
-div.revolution {
-    background-color: #890000;
+div.reform {
+    background-color: #42c2f5;
     text-align: left;
     border-right-style: solid;
 }
-div.reform {
-    background-color: #FC5959;
+div.preserve {
+    background-color: #3ea2c9;
+    text-align: right;
+    border-left-style: solid;
+}
+div.stateown {
+    background-color: #174f8a;
+    text-align: left;
+    border-right-style: solid;
+}
+div.market {
+    background-color: #c7c406;
     text-align: right;
     border-left-style: solid;
 }
 div.central {
-    background-color: #560000;
-    text-align: left;
-    border-right-style: solid;
+    background-color: #070091;
+    text-align: right;
+    border-left-style: solid;
 }
 div.decentral {
-    background-color: #000000;
-    text-align: right;
-    border-left-style: solid;
-}
-div.utopian {
-    background-color: #7F0037;
-    text-align: right;
-    border-left-style: solid;
-}
-div.scientific {
-    background-color: #88232B;
+    background-color: #010733;
     text-align: left;
     border-right-style: solid;
 }
-div.national {
+div.world {
+    background-color: #90bcd6;
+    text-align: right;
+    border-left-style: solid;
+}
+div.nation {
     background-color: #7F3300;
-    text-align: right;
-    border-left-style: solid;
-}
-div.international {
-    background-color: #782F52;
     text-align: left;
     border-right-style: solid;
 }
-div.party {
-    background-color: #963B33;
+div.religious {
+    background-color: #d48817;
     text-align: left;
     border-right-style: solid;
 }
-div.union {
-    background-color: #7F333B;
+div.secular {
+    background-color: #d1ccae;
     text-align: right;
     border-left-style: solid;
 }
-div.industry {
-    background-color: #804E00;
+div.economy {
+    background-color: #389cd1;
     text-align: left;
     border-right-style: solid;
 }
-div.ecology {
-    background-color: #76890B;
+div.nature {
+    background-color: #c4b631;
     text-align: right;
     border-left-style: solid;
 }
-div.conservative {
+div.race {
     background-color: #27577A;
     text-align: left;
     border-right-style: solid;
 }
-div.progressive {
+div.equality {
     background-color: #C4A717;
     text-align: right;
     border-left-style: solid;
