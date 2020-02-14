@@ -185,7 +185,7 @@ ideologies = [
 			"f": 50,
 			"g": 10
         }
-    }
+    },
     {
         "name": "Anarcho-Capitalism",
         "desc": "Anarcho-Capitalism is an anarchist ideology that wants big cooperations to rule over society. It is an extreme form of anarchy and capitalism. ",
@@ -200,6 +200,6 @@ ideologies = [
             "e": 50,
             "f": 50,
             "g": 10
-        }
+    }
 
 ];
