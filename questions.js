@@ -601,11 +601,7 @@ questions = [
             "f": 0,
             "g": 5
         }
-    },
-
-
-
-
+    }
     //Remember to not include comma in last question
 
 ];
