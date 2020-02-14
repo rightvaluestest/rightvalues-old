@@ -13,23 +13,24 @@
 </head>
 <body>
 <h1>RightValues</h1>
+<select id="langPicker"></select>
 <hr>
 
 <h1 data-i18n="result-h1">Results</h1>
 
 <h2><span class="weight-300" id="a-label"></span></h2>
 <div class="axis">
-    <img id="img-reform" src="value_images/reform.png" height="128pt"/>
+    <img id="img-revolution" src="value_images/revolution.png" height="128pt"/>
+    <div class="bar revolution" id="bar-revolution"><div class="text-wrapper" id="revolution"></div></div>
     <div class="bar reform" id="bar-reform"><div class="text-wrapper" id="reform"></div></div>
-    <div class="bar preserve" id="bar-preserve"><div class="text-wrapper" id="preserve"></div></div>
-    <img id="img-preserve" src="value_images/preserve.png" height="128pt"/>
+    <img id="img-reform" src="value_images/reform.png" height="128pt"/>
 </div>
 <h2><span class="weight-300" id="b-label"></span></h2>
 <div class="axis">
-    <img id="img-stateown" src="value_images/stateown.png" height="128pt"/>
-    <div class="bar stateown" id="bar-stateown"><div class="text-wrapper" id="stateown"></div></div>
-    <div class="bar market" id="bar-market"><div class="text-wrapper" id="market"></div></div>
-    <img id="img-market" src="value_images/market.png" height="128pt"/>
+    <img id="img-scientific" src="value_images/scientific.png" height="128pt"/>
+    <div class="bar scientific" id="bar-scientific"><div class="text-wrapper" id="scientific"></div></div>
+    <div class="bar utopian" id="bar-utopian"><div class="text-wrapper" id="utopian"></div></div>
+    <img id="img-utopian" src="value_images/utopian.png" height="128pt"/>
 </div>
 <h2><span class="weight-300" id="c-label"></span></h2>
 <div class="axis">
@@ -40,31 +41,31 @@
 </div>
 <h2><span class="weight-300" id="d-label"></span></h2>
 <div class="axis">
-    <img id="img-world" src="value_images/world.png" height="128pt"/>
-    <div class="bar world" id="bar-world"><div class="text-wrapper" id="world"></div></div>
-    <div class="bar nation" id="bar-nation"><div class="text-wrapper" id="nation"></div></div>
-    <img id="img-nation" src="value_images/nation.png" height="128pt"/>
+    <img id="img-international" src="value_images/international.png" height="128pt"/>
+    <div class="bar international" id="bar-international"><div class="text-wrapper" id="international"></div></div>
+    <div class="bar national" id="bar-national"><div class="text-wrapper" id="national"></div></div>
+    <img id="img-national" src="value_images/national.png" height="128pt"/>
 </div>
 <h2><span class="weight-300" id="e-label"></span></h2>
 <div class="axis">
-    <img id="img-religious" src="value_images/religious.png" height="128pt"/>
-    <div class="bar religious" id="bar-religious"><div class="text-wrapper" id="religious"></div></div>
-    <div class="bar secular" id="bar-secular"><div class="text-wrapper" id="secular"></div></div>
-    <img id="img-secular" src="value_images/secular.png" height="128pt"/>
+    <img id="img-party" src="value_images/party.png" height="128pt"/>
+    <div class="bar party" id="bar-party"><div class="text-wrapper" id="party"></div></div>
+    <div class="bar union" id="bar-union"><div class="text-wrapper" id="union"></div></div>
+    <img id="img-union" src="value_images/union.png" height="128pt"/>
 </div>
 <h2><span class="weight-300" id="f-label"></span></h2>
 <div class="axis">
-    <img id="img-economy" src="value_images/economy.png" height="128pt"/>
-    <div class="bar economy" id="bar-economy"><div class="text-wrapper" id="economy"></div></div>
-    <div class="bar nature" id="bar-nature"><div class="text-wrapper" id="nature"></div></div>
-    <img id="img-nature" src="value_images/nature.png" height="128pt"/>
+    <img id="img-industry" src="value_images/industry.png" height="128pt"/>
+    <div class="bar industry" id="bar-industry"><div class="text-wrapper" id="industry"></div></div>
+    <div class="bar ecology" id="bar-ecology"><div class="text-wrapper" id="ecology"></div></div>
+    <img id="img-ecology" src="value_images/ecology.png" height="128pt"/>
 </div>
 <h2><span class="weight-300" id="g-label"></span></h2>
 <div class="axis">
-    <img id="img-race" src="value_images/race.png" height="128pt"/>
-    <div class="bar race" id="bar-race"><div class="text-wrapper" id="race"></div></div>
-    <div class="bar equality" id="bar-equality"><div class="text-wrapper" id="equality"></div></div>
-    <img id="img-equality" src="value_images/equality.png" height="128pt"/>
+    <img id="img-conservative" src="value_images/conservative.png" height="128pt"/>
+    <div class="bar conservative" id="bar-conservative"><div class="text-wrapper" id="conservative"></div></div>
+    <div class="bar progressive" id="bar-progressive"><div class="text-wrapper" id="progressive"></div></div>
+    <img id="img-progressive" src="value_images/progressive.png" height="128pt"/>
 </div>
 <h2 data-i18n="result-h2-match">Closest Match:<span class="weight-300" id="ideology-label"></span></h2>
 <h3><span class="weight-300" id="ideodesc-label"></span></h3>
@@ -138,43 +139,43 @@ document.getElementsByTagName("body")[0].appendChild(statcounterscript);
         return (userLang in ideologies[i].i18n) ? ideologies[i].i18n[userLang].desc : ideologies[i].desc;
     }
 
-    reform  = getQueryVariable("a")
-    stateown  = getQueryVariable("b")
+    revolution  = getQueryVariable("a")
+    scientific  = getQueryVariable("b")
     central   = getQueryVariable("c")
-    world  = getQueryVariable("d")
-	religious  = getQueryVariable("e")
-	economy  = getQueryVariable("f")
-	race  = getQueryVariable("g")
-    preserve    = (100 - reform).toFixed(1)
-    market     = (100 - stateown   ).toFixed(1)
+    international  = getQueryVariable("d")
+	party  = getQueryVariable("e")
+	industry  = getQueryVariable("f")
+	conservative  = getQueryVariable("g")
+    reform    = (100 - revolution).toFixed(1)
+    utopian     = (100 - scientific   ).toFixed(1)
     decentral = (100 - central ).toFixed(1)
-    nation = (100 - world).toFixed(1)
-	secular = (100 - religious).toFixed(1)
-	nature = (100 - economy).toFixed(1)
-	equality = (100 - race).toFixed(1)
+    national = (100 - international).toFixed(1)
+	union = (100 - party).toFixed(1)
+	ecology = (100 - industry).toFixed(1)
+	progressive = (100 - conservative).toFixed(1)
 
+    setBarValue("revolution", revolution)
     setBarValue("reform", reform)
-    setBarValue("preserve", preserve)
-    setBarValue("market", market)
-    setBarValue("stateown", stateown)
+    setBarValue("utopian", utopian)
+    setBarValue("scientific", scientific)
     setBarValue("central", central)
     setBarValue("decentral", decentral)
-    setBarValue("nation", nation)
-    setBarValue("world", world)
-	setBarValue("religious", religious)
-    setBarValue("secular", secular)
-	setBarValue("economy", economy)
-    setBarValue("nature", nature)
-	setBarValue("race", race)
-    setBarValue("equality", equality)
+    setBarValue("national", national)
+    setBarValue("international", international)
+	setBarValue("party", party)
+    setBarValue("union", union)
+	setBarValue("industry", industry)
+    setBarValue("ecology", ecology)
+	setBarValue("conservative", conservative)
+    setBarValue("progressive", progressive)
 
-    document.getElementById("a-label").innerHTML = setLabel(reform, i18n.getString("result-a-label"))
-    document.getElementById("b-label").innerHTML = setLabel(stateown, i18n.getString("result-b-label"))
+    document.getElementById("a-label").innerHTML = setLabel(revolution, i18n.getString("result-a-label"))
+    document.getElementById("b-label").innerHTML = setLabel(scientific, i18n.getString("result-b-label"))
     document.getElementById("c-label").innerHTML = setLabel(central, i18n.getString("result-c-label"))
-    document.getElementById("d-label").innerHTML = setLabel(world, i18n.getString("result-d-label"))
-	document.getElementById("e-label").innerHTML = setLabel(religious, i18n.getString("result-e-label"))
-	document.getElementById("f-label").innerHTML = setLabel(economy, i18n.getString("result-f-label"))
-	document.getElementById("g-label").innerHTML = setLabel(race, i18n.getString("result-g-label"))
+    document.getElementById("d-label").innerHTML = setLabel(international, i18n.getString("result-d-label"))
+	document.getElementById("e-label").innerHTML = setLabel(party, i18n.getString("result-e-label"))
+	document.getElementById("f-label").innerHTML = setLabel(industry, i18n.getString("result-f-label"))
+	document.getElementById("g-label").innerHTML = setLabel(conservative, i18n.getString("result-g-label"))
 
     ideology = ""
 	ideodesc = ""
@@ -184,13 +185,13 @@ document.getElementsByTagName("body")[0].appendChild(statcounterscript);
     ideologyIndexAndDistance = [];
     for (var i = 0; i < ideologies.length; i++) {
         dist = 0
-        dist += Math.pow(Math.abs(ideologies[i].stats.a - reform), 2)
+        dist += Math.pow(Math.abs(ideologies[i].stats.a - revolution), 2)
         dist += Math.pow(Math.abs(ideologies[i].stats.c - central), 2)
-        dist += Math.pow(Math.abs(ideologies[i].stats.b - stateown), 2)
-        dist += Math.pow(Math.abs(ideologies[i].stats.d - world), 2)
-		dist += Math.pow(Math.abs(ideologies[i].stats.e - religious), 2)
-		dist += Math.pow(Math.abs(ideologies[i].stats.f - economy), 2)
-		dist += Math.pow(Math.abs(ideologies[i].stats.g - race), 2)
+        dist += Math.pow(Math.abs(ideologies[i].stats.b - scientific), 2)
+        dist += Math.pow(Math.abs(ideologies[i].stats.d - international), 2)
+		dist += Math.pow(Math.abs(ideologies[i].stats.e - party), 2)
+		dist += Math.pow(Math.abs(ideologies[i].stats.f - industry), 2)
+		dist += Math.pow(Math.abs(ideologies[i].stats.g - conservative), 2)
 
         ideologyToDistance[ideologies[i].name] = dist;
         ideologyIndexAndDistance.push({index: i, distance: dist});
@@ -237,33 +238,33 @@ document.getElementsByTagName("body")[0].appendChild(statcounterscript);
         ctx.fillStyle = "#EEEEEE"
         ctx.fillRect(0,0,800,1000)
 
-        img = document.getElementById("img-reform")
+        img = document.getElementById("img-revolution")
         ctx.drawImage(img, 20, 170, 100, 100);
-        img = document.getElementById("img-preserve")
+        img = document.getElementById("img-reform")
         ctx.drawImage(img, 680, 170, 100, 100)
-        img = document.getElementById("img-stateown")
+        img = document.getElementById("img-scientific")
         ctx.drawImage(img, 20, 290, 100, 100)
-        img = document.getElementById("img-market")
+        img = document.getElementById("img-utopian")
         ctx.drawImage(img, 680, 290, 100, 100)
         img = document.getElementById("img-central")
         ctx.drawImage(img, 20, 410, 100, 100)
         img = document.getElementById("img-decentral")
         ctx.drawImage(img, 680, 410, 100, 100)
-        img = document.getElementById("img-world")
+        img = document.getElementById("img-international")
         ctx.drawImage(img, 20, 530, 100, 100)
-        img = document.getElementById("img-nation")
+        img = document.getElementById("img-national")
         ctx.drawImage(img, 680, 530, 100, 100)
-		img = document.getElementById("img-religious")
+		img = document.getElementById("img-party")
         ctx.drawImage(img, 20, 650, 100, 100)
-        img = document.getElementById("img-secular")
+        img = document.getElementById("img-union")
         ctx.drawImage(img, 680, 650, 100, 100)
-		img = document.getElementById("img-economy")
+		img = document.getElementById("img-industry")
         ctx.drawImage(img, 20, 770, 100, 100)
-        img = document.getElementById("img-nature")
+        img = document.getElementById("img-ecology")
         ctx.drawImage(img, 680, 770, 100, 100)
-		img = document.getElementById("img-race")
+		img = document.getElementById("img-conservative")
         ctx.drawImage(img, 20, 890, 100, 100)
-        img = document.getElementById("img-equality")
+        img = document.getElementById("img-progressive")
         ctx.drawImage(img, 680, 890, 100, 100)
 
         ctx.fillStyle="#222222"
@@ -275,33 +276,33 @@ document.getElementsByTagName("body")[0].appendChild(statcounterscript);
 		ctx.fillRect(120, 780, 560, 80)
 		ctx.fillRect(120, 900, 560, 80)
         ctx.fillStyle="#890000"
-        ctx.fillRect(120, 184, 5.6*reform-2, 72)
+        ctx.fillRect(120, 184, 5.6*revolution-2, 72)
         ctx.fillStyle="#FC5959"
-        ctx.fillRect(682-5.6*preserve, 184, 5.6*preserve-2, 72)
+        ctx.fillRect(682-5.6*reform, 184, 5.6*reform-2, 72)
         ctx.fillStyle="#88232B"
-        ctx.fillRect(120, 304, 5.6*stateown-2, 72)
+        ctx.fillRect(120, 304, 5.6*scientific-2, 72)
         ctx.fillStyle="#7F0037"
-        ctx.fillRect(682-5.6*market, 304, 5.6*market-2, 72)
+        ctx.fillRect(682-5.6*utopian, 304, 5.6*utopian-2, 72)
         ctx.fillStyle="#560000"
         ctx.fillRect(120, 424, 5.6*central-2, 72)
         ctx.fillStyle="#000000"
         ctx.fillRect(682-5.6*decentral, 424, 5.6*decentral-2, 72)
         ctx.fillStyle="#782F52"
-        ctx.fillRect(120, 544, 5.6*world-2, 72)
+        ctx.fillRect(120, 544, 5.6*international-2, 72)
         ctx.fillStyle="#7F3300"
-        ctx.fillRect(682-5.6*nation, 544, 5.6*nation-2, 72)
+        ctx.fillRect(682-5.6*national, 544, 5.6*national-2, 72)
 		ctx.fillStyle="#963B33"
-        ctx.fillRect(120, 664, 5.6*religious-2, 72)
+        ctx.fillRect(120, 664, 5.6*party-2, 72)
         ctx.fillStyle="#7F333B"
-        ctx.fillRect(682-5.6*secular, 664, 5.6*secular-2, 72)
+        ctx.fillRect(682-5.6*union, 664, 5.6*union-2, 72)
 		ctx.fillStyle="#804E00"
-        ctx.fillRect(120, 784, 5.6*economy-2, 72)
+        ctx.fillRect(120, 784, 5.6*industry-2, 72)
         ctx.fillStyle="#76890B"
-        ctx.fillRect(682-5.6*nature, 784, 5.6*nature-2, 72)
+        ctx.fillRect(682-5.6*ecology, 784, 5.6*ecology-2, 72)
 		ctx.fillStyle="#27577A"
-        ctx.fillRect(120, 904, 5.6*race-2, 72)
+        ctx.fillRect(120, 904, 5.6*conservative-2, 72)
         ctx.fillStyle="#C4A717"
-        ctx.fillRect(682-5.6*equality, 904, 5.6*equality-2, 72)
+        ctx.fillRect(682-5.6*progressive, 904, 5.6*progressive-2, 72)
         ctx.fillStyle="#222222"
         ctx.font="700 80px Montserrat"
         ctx.textAlign="left"
@@ -311,21 +312,21 @@ document.getElementsByTagName("body")[0].appendChild(statcounterscript);
 
 		ctx.fillStyle="#dddddd"
         ctx.textAlign="left"
-        if (reform  > 30) {ctx.fillText(reform + "%", 130, 237.5)}
-        if (stateown     > 30) {ctx.fillText(stateown + "%", 130, 357.5)}
+        if (revolution  > 30) {ctx.fillText(revolution + "%", 130, 237.5)}
+        if (scientific     > 30) {ctx.fillText(scientific + "%", 130, 357.5)}
         if (central   > 30) {ctx.fillText(central + "%", 130, 477.5)}
-        if (world > 30) {ctx.fillText(world + "%", 130, 597.5)}
-		if (religious > 30) {ctx.fillText(religious + "%", 130, 717.5)}
-		if (economy > 30) {ctx.fillText(economy + "%", 130, 837.5)}
-		if (race > 30) {ctx.fillText(race + "%", 130, 957.5)}
+        if (international > 30) {ctx.fillText(international + "%", 130, 597.5)}
+		if (party > 30) {ctx.fillText(party + "%", 130, 717.5)}
+		if (industry > 30) {ctx.fillText(industry + "%", 130, 837.5)}
+		if (conservative > 30) {ctx.fillText(conservative + "%", 130, 957.5)}
         ctx.textAlign="right"
-        if (preserve    > 30) {ctx.fillText(preserve + "%", 670, 237.5)}
-        if (market     > 30) {ctx.fillText(market + "%", 670, 357.5)}
+        if (reform    > 30) {ctx.fillText(reform + "%", 670, 237.5)}
+        if (utopian     > 30) {ctx.fillText(utopian + "%", 670, 357.5)}
         if (decentral > 30) {ctx.fillText(decentral + "%", 670, 477.5)}
-        if (nation  > 30) {ctx.fillText(nation + "%", 670, 597.5)}
-		if (secular  > 30) {ctx.fillText(secular + "%", 670, 717.5)}
-		if (nature  > 30) {ctx.fillText(nature + "%", 670, 837.5)}
-		if (equality  > 30) {ctx.fillText(equality + "%", 670, 957.5)}
+        if (national  > 30) {ctx.fillText(national + "%", 670, 597.5)}
+		if (union  > 30) {ctx.fillText(union + "%", 670, 717.5)}
+		if (ecology  > 30) {ctx.fillText(ecology + "%", 670, 837.5)}
+		if (progressive  > 30) {ctx.fillText(progressive + "%", 670, 957.5)}
 		
 		ctx.fillStyle="#222222"
         ctx.font="300 30px Montserrat"
