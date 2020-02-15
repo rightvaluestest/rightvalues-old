@@ -153,7 +153,7 @@ const i18n = {
         "ko": ["극단적 과학주의","강경한 과학주의","과학주의","중립","공상주의","강경한 공상주의","극단적 공상주의"]
     },
     "result-c-label": {
-        "en": ["Totalitarian","Very Centralist","Centralist","Neutral","Democratic","Libetarian","Anarchist"],
+        "en": ["Totalitarian","Very Centralist","Centralist","Neutral","Democratic","Libertarian","Anarchist"],
         "de": ["Extrem Zentralisiert", "Sehr Zentralisiert", "Zentralisiert", "Neutral", "Dezentralisiert", "Sehr Dezentralisiert", "Extrem Dezentralisiert"],
         "ko": ["극단적 중앙집권주의", "강경한 중앙집권주의", "중앙집권주의", "중립", "분권주의", "강경한 분권주의", "극단적 분권주의"]
     },
