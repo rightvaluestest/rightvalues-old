@@ -1,8 +1,9 @@
+<!DOCTYPE html>
 <html>
 <head>
 <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700%7CRoboto:400,700" rel="stylesheet">
 <link href='style.css' rel='stylesheet' type='text/css'>
-<title>RightValues Quiz</title>
+<title>LeftValues Quiz</title>
 <link rel="icon" type="image/png" href="icon.png">
 <link rel="shortcut icon" type="image/png" href="icon.png">
 <meta charset="utf-8">
@@ -11,10 +12,11 @@
 <script type="application/javascript"
         src="questions.js">
 </script>
-<h1>RightValues</h1>
+<h1>LeftValues</h1>
+<select id="langPicker"></select>
 <hr>
-<p class="question" id="question-text"></p>
 <h2 data-i18n="quiz-loading" style="text-align:center;" id="question-number">Loading...</h2>
+<p class="question" id="question-text"></p>
 <button data-i18n="quiz-strongly-agree" class="button" onclick="next_question( 1.0)" style="background-color: #1b5e20;">Strongly Agree</button> <br>
 <button data-i18n="quiz-agree" class="button" onclick="next_question( 0.5)" style="background-color: #4caf50;">Agree</button> <br>
 <button data-i18n="quiz-neutral" class="button" onclick="next_question( 0.0)" style="background-color: #bbbbbb;">Neutral/Unsure</button> <br>
@@ -24,7 +26,7 @@
 <button data-i18n="quiz-back" class="small_button_off" id="back_button_off">Back</button>
 <br>
 
-<!-- Privacy respecting Statcounter code for LeftValues http://leftvalues.github.io -->
+ <!-- Privacy respecting Statcounter code for LeftValues http://leftvalues.github.io -->
 <script type="text/javascript">
 var sc_project=12079783; 
 var sc_invisible=1; 
@@ -39,7 +41,7 @@ document.getElementsByTagName("body")[0].appendChild(statcounterscript);
 </script>
 <!-- End of Statcounter Code -->
 
-<!-- JavaScript for the test itself -->
+ <!-- JavaScript for the test itself -->
 <script type="application/javascript" src="i18n.js"></script>
 <script>
     var max_a, max_b, max_c, max_d, max_e, max_f, max_g// Max possible scores
@@ -69,9 +71,9 @@ document.getElementsByTagName("body")[0].appendChild(statcounterscript);
             document.getElementById("back_button_off").style.display = 'none'
         }
 
-    }
+     }
 
-    function next_question(mult) {
+     function next_question(mult) {
         a += mult*questions[qn].effect.a
         b += mult*questions[qn].effect.b
         c += mult*questions[qn].effect.c
@@ -102,7 +104,7 @@ document.getElementsByTagName("body")[0].appendChild(statcounterscript);
         prev_answer = null
         init_question()
 
-    }
+     }
     function calc_score(score,max) {
         return (100*(max+score)/(2*max)).toFixed(1)
     }
