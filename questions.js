@@ -1,5 +1,5 @@
 questions = [
-    //revolution vs reform
+    //preserve vs reform
     {
         "question": "The current Western political model is good.",
         "i18n": {
@@ -84,6 +84,7 @@ questions = [
             "g": 0
         }
     },
+//Stateown vs Market
     {
         "question": "Everything should belong to the state.",
         "i18n": {
@@ -210,6 +211,7 @@ questions = [
             "g": 0
         }
     },
+//Central vs Decentral
     {
         "question": "A strong government is required for a safe society",
         "i18n": {
@@ -280,6 +282,7 @@ questions = [
             "g": 0
         }
     },
+//Nation vs World
     {
         "question": "My nation is the better than most other ones.",
         "i18n": {
@@ -364,6 +367,7 @@ questions = [
             "g": 0
         }
     },
+//Religious vs Secular
     {
         "question": "My religion should be spread as much as possible.",
         "i18n": {
@@ -407,7 +411,7 @@ questions = [
         }
     },
     {
-        "question": "Religion should be banned.",
+        "question": "Religion should play a much smaller role compared to the present.",
         "i18n": {
         },
         "effect": {
@@ -415,7 +419,7 @@ questions = [
             "b": 0,
             "c": 0,
             "d": 0,
-            "e": -10,
+            "e": -5,
             "f": 0,
             "g": 0
         }
@@ -448,6 +452,7 @@ questions = [
             "g": 0
         }
     },
+//Industry vs Nature
     {
         "question": "The economy is more important than the environment.",
         "i18n": {
@@ -532,6 +537,7 @@ questions = [
             "g": 0
         }
     },
+//Race vs Equality
     {
         "question": "Each races has their own strengths and weaknesses.",
         "i18n": {
@@ -602,6 +608,6 @@ questions = [
             "g": 5
         }
     }
-    //Remember to not include comma in last question
+    
 
 ];
