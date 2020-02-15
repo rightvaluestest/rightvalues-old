@@ -123,7 +123,7 @@ ideologies = [
         }
     },
 	{
-        "name": "Libetarianism",
+        "name": "Libertarianism",
 		"desc": "Libetarianism is an ideology that wants a very small government. They think the purpose of the government is only for protecting and enforcing laws. This type of government is called the Night-Watchman State.",
         "i18n": {
             
