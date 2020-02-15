@@ -3,7 +3,14 @@ ideologies = [
         "name": "Fascism",
 		"desc": "Fascism is an ideology that favours a centrlized government. Fascists think a nation's power should be put a high importance.",
         "i18n": {
-            
+           "de": {
+                "name": "abc.",
+                "desc": "abd."
+            },
+            "ko": {
+                "name": "마르크",
+                "desc": "마르크"
+	    }
         },
         "stats": {
             "a": 80,
@@ -19,7 +26,14 @@ ideologies = [
         "name": "Nazism",
 		"desc": "Nazism is a form of Fascism that is a bit more extreme, and values the race of people more. It favours a centrlized government.",
         "i18n": {
-            
+             "de": {
+                "name": "abc.",
+                "desc": "abd."
+            },
+            "ko": {
+                "name": "마르크",
+                "desc": "마르크"
+	    }
         },
         "stats": {
             "a": 80,
@@ -35,6 +49,14 @@ ideologies = [
         "name": "Monarchism",
 		"desc": "Monarchism is a ideology that advocates a large government with a dictatorship, which the leadership is passed on by genetics.",
         "i18n": {
+	"de": {
+                "name": "abc.",
+                "desc": "abd."
+            },
+           "ko": {
+                "name": "마르크",
+                "desc": "마르크"
+	    }
         },
         "stats": {
             "a": 30,
@@ -50,6 +72,14 @@ ideologies = [
         "name": "Feudalism",
 		"desc": "Feudalism is an ideology that is based on Monarchism. It is basically a monarchy with high importance of capitalism. Higher classes rule over lower classes' property in exchange for land.",
         "i18n": {
+	 "de": {
+                "name": "abc.",
+                "desc": "abd."
+            },
+            "ko": {
+                "name": "마르크",
+                "desc": "마르크"
+	    }
         },
         "stats": {
             "a": 30,
@@ -65,6 +95,14 @@ ideologies = [
         "name": "Constitutional Monarchism",
 		"desc": "Constitutional Monarchism is a form of Monarchism where the leader has a lot of power, but needs to follow a constitution to rule.",
         "i18n": {
+	 "de": {
+                "name": "abc.",
+                "desc": "abd."
+            },
+            "ko": {
+                "name": "마르크",
+                "desc": "마르크"
+	    }
         },
         "stats": {
             "a": 20,
@@ -80,6 +118,14 @@ ideologies = [
         "name": "Conservatism",
 		"desc": "Conservatism is an ideology that is mainly about preserving the western political model. They want a small government, a large military spending, and low taxes.",
         "i18n": {
+	 "de": {
+                "name": "abc.",
+                "desc": "abd."
+            },
+            "ko": {
+                "name": "마르크",
+                "desc": "마르크"
+	    }
         },
         "stats": {
             "a": 10,
@@ -95,6 +141,14 @@ ideologies = [
         "name": "Neo-Conservatism",
 		"desc": "Neo-Conservatism is a new form of Conservatism. Neo-Conservatives think that the goal of western nations is to bring their model to the world. They are more internaitonally focused.",
         "i18n": {
+	 "de": {
+                "name": "abc.",
+                "desc": "abd."
+            },
+            "ko": {
+                "name": "마르크",
+                "desc": "마르크"
+	    }
             
         },
         "stats": {
@@ -111,6 +165,14 @@ ideologies = [
         "name": "Classic Liberalism",
 		"desc": "Classic Liberalism is an ideology that advocates individualism, and also favours a larger government compared to that of Conservatives. They value personal property.",
         "i18n": {
+	 "de": {
+                "name": "abc.",
+                "desc": "abd."
+            },
+            "ko": {
+                "name": "마르크",
+                "desc": "마르크"
+	    }
         },
         "stats": {
             "a": 20,
@@ -126,7 +188,14 @@ ideologies = [
         "name": "Libertarianism",
 		"desc": "Libetarianism is an ideology that wants a very small government. They think the purpose of the government is only for protecting and enforcing laws. This type of government is called the Night-Watchman State.",
         "i18n": {
-            
+	 "de": {
+                "name": "abc.",
+                "desc": "abd."
+            },
+            "ko": {
+                "name": "마르크",
+                "desc": "마르크"
+	    }     
         },
         "stats": {
             "a": 50,
@@ -142,7 +211,14 @@ ideologies = [
         "name": "Individualist Anarchism",
 		"desc": "Individualist Anarchism is a form of anarchism which strongly advocates individualism, alongside with a anarchist governement.",
         "i18n": {
-            
+          "de": {
+                "name": "abc.",
+                "desc": "abd."
+            },
+            "ko": {
+                "name": "마르크",
+                "desc": "마르크"
+	    }   
         },
         "stats": {
             "a": 30,
@@ -158,7 +234,14 @@ ideologies = [
         "name": "Technocracy",
 		"desc": "Technocracy is a ideology that promotes the idea of people who are experts of technology shuold rule the nation. ",
         "i18n": {
-           
+         "de": {
+                "name": "abc.",
+                "desc": "abd."
+            },
+            "ko": {
+                "name": "마르크",
+                "desc": "마르크"
+	    }   
         },
         "stats": {
             "a": 80,
@@ -174,7 +257,14 @@ ideologies = [
         "name": "Agorism",
 		"desc": "Agorists think that people could live in harmony without a state in an anarchist society, called the non-agression principle. They favour a free market.",
         "i18n": {
-            
+          "de": {
+                "name": "abc.",
+                "desc": "abd."
+            },
+            "ko": {
+                "name": "마르크",
+                "desc": "마르크"
+	    }   
         },
         "stats": {
             "a": 70,
@@ -190,7 +280,14 @@ ideologies = [
         "name": "Anarcho-Capitalism",
         "desc": "Anarcho-Capitalism is an anarchist ideology that wants big cooperations to rule over society. It is an extreme form of anarchy and capitalism. ",
         "i18n": {
-           
+          "de": {
+                "name": "abc.",
+                "desc": "abd."
+            },
+            "ko": {
+                "name": "마르크",
+                "desc": "마르크"
+	    }  
         },
         "stats": {
             "a": 70,
