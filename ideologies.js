@@ -1,7 +1,7 @@
 ideologies = [
 	{
         "name": "Fascism",
-		"desc": "Fascism is an ideology that favours a centrlized government. Fascists think a nation's power should be put a high importance.",
+		"desc": "Fascism is an ideology that favours a centralized government. Fascists think a nation's power should be high importance.",
         "i18n": {
            "de": {
                 "name": "abc.",
@@ -24,7 +24,7 @@ ideologies = [
     },
     {
         "name": "Nazism",
-		"desc": "Nazism is a form of Fascism that is a bit more extreme, and values the race of people more. It favours a centrlized government.",
+		"desc": "Nazism is a form of Fascism that is a bit more extreme, and values the race of people more. It favours a centralized government.",
         "i18n": {
              "de": {
                 "name": "abc.",
@@ -116,7 +116,7 @@ ideologies = [
     },
 	{
         "name": "Conservatism",
-		"desc": "Conservatism is an ideology that is mainly about preserving the western political model. They want a small government, a large military spending, and low taxes.",
+		"desc": "Conservatism is an ideology that is mainly about preserving the western political model. They want a small government, large military spending and low taxes.",
         "i18n": {
 	 "de": {
                 "name": "abc.",
@@ -139,7 +139,7 @@ ideologies = [
     },
 	{
         "name": "Neo-Conservatism",
-		"desc": "Neo-Conservatism is a new form of Conservatism. Neo-Conservatives think that the goal of western nations is to bring their model to the world. They are more internaitonally focused.",
+		"desc": "Neo-Conservatism is a new form of Conservatism. Neo-Conservatives think that the goal of western nations is to bring their model to the world. They are more internationally focused.",
         "i18n": {
 	 "de": {
                 "name": "abc.",
@@ -186,7 +186,7 @@ ideologies = [
     },
 	{
         "name": "Libertarianism",
-		"desc": "Libetarianism is an ideology that wants a very small government. They think the purpose of the government is only for protecting and enforcing laws. This type of government is called the Night-Watchman State.",
+		"desc": "Libertarianism is an ideology that wants a very small government. They think the purpose of the government is only for protecting and enforcing laws. This type of government is called the Night-Watchman State.",
         "i18n": {
 	 "de": {
                 "name": "abc.",
@@ -209,7 +209,7 @@ ideologies = [
     },
 	{
         "name": "Individualist Anarchism",
-		"desc": "Individualist Anarchism is a form of anarchism which strongly advocates individualism, alongside with a anarchist governement.",
+		"desc": "Individualist Anarchism is a form of anarchism which strongly advocates individualism, alongside an anarchist governement.",
         "i18n": {
           "de": {
                 "name": "abc.",
@@ -232,7 +232,7 @@ ideologies = [
     },
 	{
         "name": "Technocracy",
-		"desc": "Technocracy is a ideology that promotes the idea of people who are experts of technology shuold rule the nation. ",
+		"desc": "Technocracy is a ideology that promotes the idea of people who are experts of technology should rule the nation. ",
         "i18n": {
          "de": {
                 "name": "abc.",
