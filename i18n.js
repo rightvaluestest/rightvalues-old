@@ -143,7 +143,7 @@ const i18n = {
         "ko": `어떠한 범주에서든 100%의 점수를 얻을 수 없다는 것을 기억하십시오. 이 설문의 목적은 당신 자신의 관점에 직면하는 것에 있습니다. 의견이나 건설적인 비판은 <a href="https://forms.gle/6WZYMb5GXkkDLhxr5">이 양식</a>이나 <a href="https://github.com/LeftValues/leftvalues.github.io">GitHub Page</a>의 이슈를 통해 개진할 수 있습니다.`
     },
        "result-a-label": {
-        "en": ["Very Revolutionary","Very Reformist","Reformist","Neutral","Preservationist","Very Preservationist","Hardcore Preservationist"],
+        "en": ["Culturally Socialist","Culturally Liberal","Leaning Left","Neutral","Leaning Right","Conservative","Preservationist"],
         "de": ["Extrem Revolutionär", "Sehr Revolutionär", "Revolutionär", "Neutral", "Reformistisch", "Sehr Reformistisch", "Extrem Reformistisch"],
         "ko": ["극단적 혁명주의","강경한 혁명주의","혁명주의","중립","개혁주의","강경한 개혁주의","극단적 개혁주의"]
     },
