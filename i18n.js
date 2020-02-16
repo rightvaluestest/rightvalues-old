@@ -144,13 +144,13 @@ const i18n = {
     },
        "result-a-label": {
         "en": ["Culturally Socialist","Culturally Liberal","Leaning Left","Neutral","Leaning Right","Conservative","Preservationist"],
-        "de": ["Extrem Revolutionär", "Sehr Revolutionär", "Revolutionär", "Neutral", "Reformistisch", "Sehr Reformistisch", "Extrem Reformistisch"],
-        "ko": ["극단적 혁명주의","강경한 혁명주의","혁명주의","중립","개혁주의","강경한 개혁주의","극단적 개혁주의"]
+        "de": ["Culturally Socialist","Culturally Liberal","Leaning Left","Neutral","Leaning Right","Conservative","Preservationist"],
+        "ko": ["Culturally Socialist","Culturally Liberal","Leaning Left","Neutral","Leaning Right","Conservative","Preservationist"]
     },
     "result-b-label": {
         "en": ["Extremely Pro-State Ownership","Pro-State Ownership","Public Ownership","Neutral","Laissez-faire","Markets","Extremely Pro-Markets"],
-        "de": ["Extrem Wissenschaftlich", "Sehr Wissenschaftlich", "Wissenschaftlich", "Neutral", "Utopisch", "Sehr Utopisch", "Extrem Utopisch"],
-        "ko": ["극단적 과학주의","강경한 과학주의","과학주의","중립","공상주의","강경한 공상주의","극단적 공상주의"]
+        "de": ["Extremely Pro-State Ownership","Pro-State Ownership","Public Ownership","Neutral","Laissez-faire","Markets","Extremely Pro-Markets"],
+        "ko": ["Extremely Pro-State Ownership","Pro-State Ownership","Public Ownership","Neutral","Laissez-faire","Markets","Extremely Pro-Markets"]
     },
     "result-c-label": {
         "en": ["Totalitarian","Very Centralist","Centralist","Neutral","Democratic","Libertarian","Anarchist"],
@@ -164,7 +164,7 @@ const i18n = {
     },
     "result-e-label": {
         "en": ["Theocrat","Religious","Pro Religion","Neutral","Pro Secular","Secular","Anti-Religious"],
-        "de": ["Extrem Parteiisch", "Sehr Parteiisch", "Parteiisch", "Neutral", "Gewerkschaftlich", "Sehr Gewerkschaftlich", "Extrem Gewerkschaftlich"],
+        "de": ["Extrem Parteiisch", "Sehr Parteiisch", "Parteiisch", "Neutral", "Gewerkschafhr Gewerkschaftlich", "Extrem Gewerkschaftlich"],
         "ko": ["극단적 정당주의", "강경한 정당주의", "정당주의", "중립", "조합주의", "강경한 조합주의", "극단적 조합주의"]
     },
     "result-f-label": {
