@@ -154,28 +154,28 @@ const i18n = {
     },
     "result-c-label": {
         "en": ["Totalitarian","Very Centralist","Centralist","Neutral","Democratic","Libertarian","Anarchist"],
-        "de": ["Extrem Zentralisiert", "Sehr Zentralisiert", "Zentralisiert", "Neutral", "Dezentralisiert", "Sehr Dezentralisiert", "Extrem Dezentralisiert"],
-        "ko": ["극단적 중앙집권주의", "강경한 중앙집권주의", "중앙집권주의", "중립", "분권주의", "강경한 분권주의", "극단적 분권주의"]
+        "de": ["Totalitarian","Very Centralist","Centralist","Neutral","Democratic","Libertarian","Anarchist"],
+        "ko": ["Totalitarian","Very Centralist","Centralist","Neutral","Democratic","Libertarian","Anarchist"]
     },
     "result-d-label": {
         "en": ["Extremely Internationalist","Internationalist","Pro-Alliances","Neutral","Nationalist","Patriot","Extremely Nationalist"],
-        "de": ["Extrem Internationalistisch", "Sehr Internationalistisch", "Internationalistisch", "Neutral", "Nationalistisch", "Sehr Nationalistisch", "Extrem Nationalistisch"],
-        "ko": ["극단적 세계주의","강경한 세계주의","세계주의","중립","국가주의","강경한 국가주의","극단적 국가주의"]
+        "de": ["Extremely Internationalist","Internationalist","Pro-Alliances","Neutral","Nationalist","Patriot","Extremely Nationalist"],
+        "ko": ["Extremely Internationalist","Internationalist","Pro-Alliances","Neutral","Nationalist","Patriot","Extremely Nationalist"]
     },
     "result-e-label": {
         "en": ["Theocrat","Religious","Pro Religion","Neutral","Pro Secular","Secular","Anti-Religious"],
-        "de": ["Extrem Parteiisch", "Sehr Parteiisch", "Parteiisch", "Neutral", "Gewerkschafhr Gewerkschaftlich", "Extrem Gewerkschaftlich"],
-        "ko": ["극단적 정당주의", "강경한 정당주의", "정당주의", "중립", "조합주의", "강경한 조합주의", "극단적 조합주의"]
+        "de": ["Theocrat","Religious","Pro Religion","Neutral","Pro Secular","Secular","Anti-Religious"],
+        "ko": ["Theocrat","Religious","Pro Religion","Neutral","Pro Secular","Secular","Anti-Religious"]
     },
     "result-f-label": {
         "en": ["Extremely Pro-Industry","Very Pro-Industry","Pro-Industry","Neutral","Environmentalism","Greenism","Deep Greenism"],
-        "de": ["Extrem Produktivist", "Sehr Produktivist", "Produktivist", "Neutral", "Ökologisch", "Sehr Ökologisch", "Extrem Ökologisch"],
-        "ko": ["극단적 생산주의", "강경한 생산주의", "생산주의", "중립", "생태주의", "강경한 생태주의", "극단적 생태주의"]
+        "de": ["Extremely Pro-Industry","Very Pro-Industry","Pro-Industry","Neutral","Environmentalism","Greenism","Deep Greenism"],
+        "ko": ["Extremely Pro-Industry","Very Pro-Industry","Pro-Industry","Neutral","Environmentalism","Greenism","Deep Greenism"]
     },
     "result-g-label": {
         "en": ["Very Identitarian","Identitarian","A little Identitarian","Neutral","Racial Equality","Very Pro-Racial Equality","Extremely Pro-Racial Equality"],
-        "de": ["Extrem Konservativ", "Sehr Konservativ", "Konservativ", "Neutral", "Progressiv", "Sehr Progressiv", "Extrem Progressiv"],
-        "ko": ["극단적 보수주의", "강경한 보수주의", "보수주의", "중립", "진보주의", "강경한 진보주의", "극단적 진보주의"]
+        "de": ["Very Identitarian","Identitarian","A little Identitarian","Neutral","Racial Equality","Very Pro-Racial Equality","Extremely Pro-Racial Equality"],
+        "ko": ["Very Identitarian","Identitarian","A little Identitarian","Neutral","Racial Equality","Very Pro-Racial Equality","Extremely Pro-Racial Equality"]
     },
     
     "result-back": {
