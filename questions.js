@@ -114,7 +114,7 @@ questions = [
         }
     },
     {
-        "question": "The state owning people's tyranny leads to tyranny.",
+        "question": "The state owning people's property leads to tyranny.",
         "i18n": {
         },
         "effect": {
