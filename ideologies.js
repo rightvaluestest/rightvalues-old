@@ -185,7 +185,7 @@ ideologies = [
     },
 	{
         "name": "Libertarianism",
-		"desc": "Libetarianism is an ideology that wants a very small government. They think the purpose of the government is only for protecting and enforcing laws. This type of government is called the Night-Watchman State",
+		"desc": "Libetarians are generally similar to conservatives culturally, but want a much smaller state/governemnt.",
         "i18n": {
             "de": {
                 "name": "Marktanarchismus",
@@ -273,6 +273,29 @@ ideologies = [
 			"e": 50,
 			"f": 50,
 			"g": 10
+        }
+    },
+	{
+        "name": "Minarchism",
+		"desc": "Minarchism is an ideology that wants a very small government. They think the purpose of the government is only for protecting and enforcing laws. This type of government is called the Night-Watchman State",
+        "i18n": {
+            "de": {
+                "name": "Sozialdemokratie",
+                "desc": "Die Sozialdemokratie ist eine Mitte-Links-Ideologie, die sich dafür einsetzt, linksgerichtete Werte wie soziale Wohlfahrt und Unternehmensregulierung mit dem Kapitalismus und der liberalen Demokratie in Form einer gemischten Wirtschaft zu vermischen. Viele moderne Sozialdemokraten befürworten die keynesianische Wirtschaft."
+            },
+            "ko": {
+                "name": "사회민주주의",
+                "desc": "사회민주주의는 사회 복지와 기업 규제와 같은 좌익 가치를 자본주의 및 자유 민주주의와 혼합 경제 형태로 도입하는 것을 지지하는 좌파 이념입니다. 현대의 많은 사회민주당은 케인즈식 경제 모델을 선호합니다."
+            }
+        },
+        "stats": {
+            "a": 50,
+            "b": 30,
+            "c": 15,
+            "d": 50,
+			"e": 50,
+			"f": 30,
+			"g": 20
         }
     }
 ];
