@@ -1,11 +1,11 @@
 questions = [
-    //preserve vs reform
+    //preserve (cultural l) vs reform (cultural r)
     {
-        "question": "The current Western political model is good.",
+        "question": "If I have the ability, I will vote for a conservative party.",
         "i18n": {
         },
         "effect": {
-            "a": -10,
+            "a": -5,
             "b": 0,
             "c": 0,
             "d": 0,
@@ -29,11 +29,11 @@ questions = [
         }
     },
     {
-        "question": "Reformation to the system is good, or even necessary.",
+        "question": "Weed and Abortion should be legalized.",
         "i18n": {
         },
         "effect": {
-            "a": 15,
+            "a": 5,
             "b": 0,
             "c": 0,
             "d": 0,
@@ -43,21 +43,7 @@ questions = [
         }
     },
     {
-        "question": "Changing the current system is not a good idea.",
-        "i18n": {
-        },
-        "effect": {
-            "a": -5,
-            "b": 0,
-            "c": 0,
-            "d": 0,
-            "e": 0,
-            "f": 0,
-            "g": 0
-        }
-    },
-    {
-        "question": "Preservation is what we need.",
+        "question": "Changing the current system completely is not a good idea.",
         "i18n": {
         },
         "effect": {
@@ -71,7 +57,21 @@ questions = [
         }
     },
     {
-        "question": "Changing the current system often leads to the worsening of people's lives.",
+        "question": "Preservation of culture is what we need.",
+        "i18n": {
+        },
+        "effect": {
+            "a": -5,
+            "b": 0,
+            "c": 0,
+            "d": 0,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
+    {
+        "question": "Changing the current system too quickly often leads to the worsening of people's lives.",
         "i18n": {
         },
         "effect": {
