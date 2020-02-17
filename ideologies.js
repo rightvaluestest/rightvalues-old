@@ -139,15 +139,15 @@ ideologies = [
     },
 	{
         "name": "Liberalism",
-		"desc": "Liberalism is an left-leaning ideology that advocates for policies like state ownership. They don't support Capitalism.",
+		"desc": "Liberalism is an left-leaning ideology that advocates for policies like state ownership. They don't support socialism.",
         "i18n": {
             "de": {
                 "name": "Liberalism",
-                "desc": "Liberalism is an left-leaning ideology that advocates for policies like state ownership. They don't support Capitalism."
+                "desc": "Liberalism is an left-leaning ideology that advocates for policies like state ownership. They don't support socialism."
             },
             "ko": {
                 "name": "Liberalism",
-                "desc": "Liberalism is an left-leaning ideology that advocates for policies like state ownership. They don't support Capitalism."
+                "desc": "Liberalism is an left-leaning ideology that advocates for policies like state ownership. They don't support socialism."
             }
         },
         "stats": {
