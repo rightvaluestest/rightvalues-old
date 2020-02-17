@@ -2,6 +2,10 @@ ideologies = [
 	{
         "name": "Fascism",
 		"desc": "Fascism is an ideology that favours a centralized government. Fascists think a nation's power should be put in a high importance.",
+		var url = "www.example.com/image.jpg";
+		var img = new Image();
+		img.src = url;
+		document.body.appendChild(img);
         "i18n": {
             "de": {
                 "name": "Fascism",
@@ -344,4 +348,27 @@ ideologies = [
 			"g": 20
         }
     }
+	{
+        "name": "State Capitalism",
+		"desc": "State Capitalism is basically a authotarian communist form of Capitalism. It is culturally left wing but economically right wing. China adopts this ideology.",
+        "i18n": {
+            "de": {
+                "name": "State Capitalism",
+                "desc": "State Capitalism is basically a authotarian communist form of Capitalism. It is culturally left wing but economically right wing. China adopts this ideology."
+            },
+            "ko": {
+                "name": "State Capitalism",
+                "desc": "State Capitalism is basically a authotarian communist form of Capitalism. It is culturally left wing but economically right wing. China adopts this ideology."
+            }
+        },
+        "stats": {
+            "a": 50,
+            "b": 30,
+            "c": 15,
+            "d": 50,
+			"e": 50,
+			"f": 30,
+			"g": 20
+        }
+    },
 ];
