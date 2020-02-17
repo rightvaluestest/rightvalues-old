@@ -170,7 +170,7 @@ questions = [
         }
     },
     {
-        "question": "Anarcho Capitalism is a good idea.",
+        "question": "We should have a system of minarchy alongisde with a fully functional market.",
         "i18n": {
         },
         "effect": {
@@ -255,7 +255,7 @@ questions = [
         }
     },
     {
-        "question": "Strong governments often causes tyranny, and at last, ends a nation.",
+        "question": "Stronger government often leads to tyranny, which then leads to the death of the nation.",
         "i18n": {
         },
         "effect": {
