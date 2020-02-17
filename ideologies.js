@@ -312,7 +312,7 @@ ideologies = [
             }
         },
         "stats": {
-            "a": 50,
+            "a": 80,
             "b": 30,
             "c": 15,
             "d": 50,
@@ -345,25 +345,25 @@ ideologies = [
         }
     },
 	{
-        "name": "State Capitalism",
-		"desc": "State Capitalism is basically a authotarian communist form of Capitalism. It is culturally left wing but economically right wing. China adopts this ideology.",
+        "name": "Neo-Liberalism",
+		"desc": "Neo-Liberalism is basically a authotarian communist form of Capitalism. It is culturally left wing but economically right wing. China adopts this ideology.",
         "i18n": {
             "de": {
-                "name": "State Capitalism",
-                "desc": "State Capitalism is basically a authotarian communist form of Capitalism. It is culturally left wing but economically right wing. China adopts this ideology."
+                "name": "Neo-Liberalism",
+                "desc": "Neo-Liberalism is basically a authotarian communist form of Capitalism. It is culturally left wing but economically right wing. China adopts this ideology."
             },
             "ko": {
-                "name": "State Capitalism",
-                "desc": "State Capitalism is basically a authotarian communist form of Capitalism. It is culturally left wing but economically right wing. China adopts this ideology."
+                "name": "Neo-Liberalism",
+                "desc": "Neo-Liberalism is basically a authotarian communist form of Capitalism. It is culturally left wing but economically right wing. China adopts this ideology."
             }
         },
         "stats": {
-            "a": 50,
+            "a": 60,
             "b": 30,
-            "c": 15,
-            "d": 50,
+            "c": 40,
+            "d": 70,
 			"e": 50,
-			"f": 30,
+			"f": 50,
 			"g": 20
         }
     }
