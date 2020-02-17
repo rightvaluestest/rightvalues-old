@@ -2,9 +2,6 @@ ideologies = [
 	{
         "name": "Fascism",
 		"desc": "Fascism is an ideology that favours a centralized government. Fascists think a nation's power should be put in a high importance.",
-			var myImage = new Image(100, 200);
-			myImage.src = 'https://rightvaluestest.github.io/values.png';
-			document.body.appendChild(myImage);
         "i18n": {
             "de": {
                 "name": "Fascism",
