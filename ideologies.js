@@ -1,15 +1,15 @@
 ideologies = [
 	{
         "name": "Fascism",
-		"desc": "Fascism is an ideology that favours a centrlized government. Fascists think a nation's power should be put a high importance.",
+		"desc": "Fascism is an ideology that favours a centralized government. Fascists think a nation's power should be put in a high importance.",
         "i18n": {
             "de": {
                 "name": "Fascism",
-                "desc": "Fascism is an ideology that favours a centrlized government. Fascists think a nation's power should be put a high importance."
+                "desc": "Fascism is an ideology that favours a centralized government. Fascists think a nation's power should be put in a high importance."
             },
             "ko": {
                 "name": "Fascism",
-                "desc": "Fascism is an ideology that favours a centrlized government. Fascists think a nation's power should be put a high importance."
+                "desc": "Fascism is an ideology that favours a centralized government. Fascists think a nation's power should be put in a high importance."
             }
         },
         "stats": {
@@ -24,15 +24,15 @@ ideologies = [
     },
     {
         "name": "Nazism",
-		"desc": "Nazism is a form of Fascism that is a bit more extreme, and values the race of people more. It favours a centrlized government.",
+		"desc": "Nazism is a form of Fascism that is a bit more extreme, and values the race of people more. It favours a centralized government.",
         "i18n": {
             "de": {
                 "name": "Nazism",
-                "desc": "Nazism is a form of Fascism that is a bit more extreme, and values the race of people more. It favours a centrlized government."
+                "desc": "Nazism is a form of Fascism that is a bit more extreme, and values the race of people more. It favours a centralized government."
             },
             "ko": {
                 "name": "Nazism",
-                "desc": "Nazism is a form of Fascism that is a bit more extreme, and values the race of people more. It favours a centrlized government."
+                "desc": "Nazism is a form of Fascism that is a bit more extreme, and values the race of people more. It favours a centralized government."
             }
         },
         "stats": {
@@ -116,15 +116,15 @@ ideologies = [
     },
 	{
         "name": "Conservatism",
-		"desc": "Conservatism is an ideology that is mainly about preserving the western political model. They want a small government, a large military spending, and low taxes. It is the one of the most popular Rightist ideology in the Western World.",
+		"desc": "Conservatism is an ideology that is mainly about preserving the western political model. They want a small government, large military spending and low taxes. It is one of the most popular right-wing ideologies in the West.",
         "i18n": {
             "de": {
                 "name": "Conservatism",
-                "desc": "Conservatism is an ideology that is mainly about preserving the western political model. They want a small government, a large military spending, and low taxes. It is the one of the most popular Rightist ideology in the Western World."
+                "desc": "Conservatism is an ideology that is mainly about preserving the western political model. They want a small government, large military spending and low taxes.It is one of the most popular right-wing ideologies in the West."
             },
             "ko": {
                 "name": "Conservatism",
-                "desc": "Conservatism is an ideology that is mainly about preserving the western political model. They want a small government, a large military spending, and low taxes. It is the one of the most popular Rightist ideology in the Western World."
+                "desc": "Conservatism is an ideology that is mainly about preserving the western political model. They want a small government, large military spending and low taxes.It is one of the most popular right-wing ideologies in the West."
             }
         },
         "stats": {
@@ -185,15 +185,15 @@ ideologies = [
     },
 	{
         "name": "Libertarianism",
-		"desc": "Libetarians are generally similar to conservatives culturally, but want a much smaller state/governemnt.",
+		"desc": "Libertarians are generally similar to conservatives culturally, but want a much smaller state/governemnt.",
         "i18n": {
             "de": {
                 "name": "Libetarianism",
-                "desc": "Libetarians are generally similar to conservatives culturally, but want a much smaller state/governemnt."
+                "desc": "Libertarians are generally similar to conservatives culturally, but want a much smaller state/governemnt."
             },
             "ko": {
                 "name": "Libetarianism",
-                "desc": "Libetarians are generally similar to conservatives culturally, but want a much smaller state/governemnt."
+                "desc": "Libertarians are generally similar to conservatives culturally, but want a much smaller state/governemnt."
             }
         },
         "stats": {
@@ -208,15 +208,15 @@ ideologies = [
     },
 	{
         "name": "Individualist Anarchism",
-		"desc": "Individualist Anarchism is a form of anarchism which strongly advocates individualism, alongside with a anarchist governement.",
+		"desc": "Individualist Anarchism is a form of anarchism which strongly advocates individualism, alongside with an anarchist governement.",
         "i18n": {
             "de": {
                 "name": "Individualist Anarchism",
-                "desc": "Individualist Anarchism is a form of anarchism which strongly advocates individualism, alongside with a anarchist governement."
+                "desc": "Individualist Anarchism is a form of anarchism which strongly advocates individualism, alongside with an anarchist governement."
             },
             "ko": {
                 "name": "Individualist Anarchism",
-                "desc": "Individualist Anarchism is a form of anarchism which strongly advocates individualism, alongside with a anarchist governement."
+                "desc": "Individualist Anarchism is a form of anarchism which strongly advocates individualism, alongside with an anarchist governement."
             }
         },
         "stats": {
@@ -318,6 +318,29 @@ ideologies = [
             "d": 50,
 			"e": 50,
 			"f": 30,
+			"g": 20
+        }
+    },
+	{
+        "name": "Technocracy",
+		"desc": "Technocracy is a ideology that promotes the idea of people who are experts of technology should rule the nation.",
+        "i18n": {
+            "de": {
+                "name": "Technocracy",
+                "desc": "Technocracy is a ideology that promotes the idea of people who are experts of technology should rule the nation."
+            },
+            "ko": {
+                "name": "Technocracy",
+                "desc": "Technocracy is a ideology that promotes the idea of people who are experts of technology should rule the nation."
+            }
+        },
+        "stats": {
+            "a": 80,
+            "b": 20,
+            "c": 10,
+            "d": 40,
+			"e": 30,
+			"f": 80,
 			"g": 20
         }
     }
