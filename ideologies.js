@@ -185,15 +185,15 @@ ideologies = [
     },
 	{
         "name": "Libertarianism",
-		"desc": "Libertarians are generally similar to conservatives culturally, but want a much smaller state/governemnt.",
+		"desc": "Libertarians are generally similar to conservatives culturally, but want a much smaller state/government.",
         "i18n": {
             "de": {
                 "name": "Libetarianism",
-                "desc": "Libertarians are generally similar to conservatives culturally, but want a much smaller state/governemnt."
+                "desc": "Libertarians are generally similar to conservatives culturally, but want a much smaller state/government."
             },
             "ko": {
                 "name": "Libetarianism",
-                "desc": "Libertarians are generally similar to conservatives culturally, but want a much smaller state/governemnt."
+                "desc": "Libertarians are generally similar to conservatives culturally, but want a much smaller state/government."
             }
         },
         "stats": {
@@ -208,15 +208,15 @@ ideologies = [
     },
 	{
         "name": "Individualist Anarchism",
-		"desc": "Individualist Anarchism is a form of anarchism which strongly advocates individualism, alongside with an anarchist governement.",
+		"desc": "Individualist Anarchism is a form of anarchism which strongly advocates individualism, alongside with an anarchist government.",
         "i18n": {
             "de": {
                 "name": "Individualist Anarchism",
-                "desc": "Individualist Anarchism is a form of anarchism which strongly advocates individualism, alongside with an anarchist governement."
+                "desc": "Individualist Anarchism is a form of anarchism which strongly advocates individualism, alongside with an anarchist government."
             },
             "ko": {
                 "name": "Individualist Anarchism",
-                "desc": "Individualist Anarchism is a form of anarchism which strongly advocates individualism, alongside with an anarchist governement."
+                "desc": "Individualist Anarchism is a form of anarchism which strongly advocates individualism, alongside with an anarchist government."
             }
         },
         "stats": {
