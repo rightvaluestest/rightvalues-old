@@ -343,7 +343,7 @@ ideologies = [
 			"f": 80,
 			"g": 20
         }
-    }
+    },
 	{
         "name": "State Capitalism",
 		"desc": "State Capitalism is basically a authotarian communist form of Capitalism. It is culturally left wing but economically right wing. China adopts this ideology.",
@@ -366,5 +366,5 @@ ideologies = [
 			"f": 30,
 			"g": 20
         }
-    },
+    }
 ];
