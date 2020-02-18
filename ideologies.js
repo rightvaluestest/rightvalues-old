@@ -372,11 +372,11 @@ ideologies = [
 		"desc": "Conservative Libertarians are basically libetarians but conservative culturally as well. They want a small state.",
         "i18n": {
             "de": {
-                "name": "Libetarianism",
+                "name": "Conservative Libetarianism",
                 "desc": "Conservative Libertarians are basically libetarians but conservative culturally as well. They want a small state."
             },
             "ko": {
-                "name": "Libetarianism",
+                "name": "Conservative Libetarianism",
                 "desc": "Conservative Libertarians are basically libetarians but conservative culturally as well. They want a small state."
             }
         },
