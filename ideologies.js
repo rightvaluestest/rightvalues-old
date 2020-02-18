@@ -300,15 +300,15 @@ ideologies = [
     },
 	{
         "name": "State Capitalism",
-		"desc": "State Capitalism is basically a authotarian communist form of Capitalism. It is culturally left wing but economically right wing. China adopts this ideology.",
+		"desc": "State Capitalism is basically a authotarian left-wing form of Capitalism. It is culturally left wing but economically right wing. China adopts this ideology.",
         "i18n": {
             "de": {
                 "name": "State Capitalism",
-                "desc": "State Capitalism is basically a authotarian communist form of Capitalism. It is culturally left wing but economically right wing. China adopts this ideology."
+                "desc": "State Capitalism is basically a authotarian left-wing form of Capitalism. It is culturally left wing but economically right wing. China adopts this ideology."
             },
             "ko": {
                 "name": "State Capitalism",
-                "desc": "State Capitalism is basically a authotarian communist form of Capitalism. It is culturally left wing but economically right wing. China adopts this ideology."
+                "desc": "State Capitalism is basically a authotarian left-wing form of Capitalism. It is culturally left wing but economically right wing. China adopts this ideology."
             }
         },
         "stats": {
@@ -346,22 +346,22 @@ ideologies = [
     },
 	{
         "name": "Neo-Liberalism",
-		"desc": "Neo-Liberalism is basically a authotarian communist form of Capitalism. It is culturally left wing but economically right wing. China adopts this ideology.",
+		"desc": "Neo-Liberalism is a culturally liberal but economically capitalist ideology. Many people consider this as the current status quo.",
         "i18n": {
             "de": {
                 "name": "Neo-Liberalism",
-                "desc": "Neo-Liberalism is basically a authotarian communist form of Capitalism. It is culturally left wing but economically right wing. China adopts this ideology."
+                "desc": "Neo-Liberalism is a culturally liberal but economically capitalist ideology. Many people consider this as the current status quo."
             },
             "ko": {
                 "name": "Neo-Liberalism",
-                "desc": "Neo-Liberalism is basically a authotarian communist form of Capitalism. It is culturally left wing but economically right wing. China adopts this ideology."
+                "desc": "Neo-Liberalism is a culturally liberal but economically capitalist ideology. Many people consider this as the current status quo."
             }
         },
         "stats": {
             "a": 60,
-            "b": 30,
+            "b": 40,
             "c": 40,
-            "d": 70,
+            "d": 60,
 			"e": 50,
 			"f": 50,
 			"g": 20
