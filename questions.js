@@ -84,6 +84,20 @@ questions = [
             "g": 0
         }
     },
+    {
+        "question": "I support (Third/Fourth)Wave Feminism, as well as the LGBT community.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 10,
+            "b": 0,
+            "c": 0,
+            "d": 0,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
 //Stateown vs Market
     {
         "question": "Everything should belong to the state.",
@@ -170,7 +184,7 @@ questions = [
         }
     },
     {
-        "question": "We should have a system of minarchy alongisde with a fully functional market.",
+        "question": "We should have a minnimal government alongisde with a fully functional market.",
         "i18n": {
         },
         "effect": {
