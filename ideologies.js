@@ -185,19 +185,19 @@ ideologies = [
     },
 	{
         "name": "Libertarianism",
-		"desc": "Libertarians are generally similar to conservatives culturally, but want a much smaller state/government.",
+		"desc": "Libertarians are generally culturally liberal, but economically conservative, and wants a much smaller state/government.",
         "i18n": {
             "de": {
                 "name": "Libetarianism",
-                "desc": "Libertarians are generally similar to conservatives culturally, but want a much smaller state/government."
+                "desc": "Libertarians are generally culturally liberal, but economically conservative, and wants a much smaller state/government."
             },
             "ko": {
                 "name": "Libetarianism",
-                "desc": "Libertarians are generally similar to conservatives culturally, but want a much smaller state/government."
+                "desc": "Libertarians are generally culturally liberal, but economically conservative, and wants a much smaller state/government."
             }
         },
         "stats": {
-            "a": 50,
+            "a": 60,
             "b": 30,
             "c": 20,
             "d": 50,
@@ -364,6 +364,29 @@ ideologies = [
             "d": 80,
 			"e": 50,
 			"f": 50,
+			"g": 20
+        }
+    },
+	{
+        "name": "Conservative Libertarianism",
+		"desc": "Conservative Libertarians are basically libetarians but conservative culturally as well. They want a small state.",
+        "i18n": {
+            "de": {
+                "name": "Libetarianism",
+                "desc": "Conservative Libertarians are basically libetarians but conservative culturally as well. They want a small state."
+            },
+            "ko": {
+                "name": "Libetarianism",
+                "desc": "Conservative Libertarians are basically libetarians but conservative culturally as well. They want a small state."
+            }
+        },
+        "stats": {
+            "a": 30,
+            "b": 30,
+            "c": 20,
+            "d": 50,
+			"e": 50,
+			"f": 30,
 			"g": 20
         }
     }
