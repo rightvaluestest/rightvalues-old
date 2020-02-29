@@ -1,7 +1,7 @@
-questions = [
+authquestions = [
     //preserve (cultural l) vs reform (cultural r)
     {
-        "question": "The government, should be more "conservative" than "liberal".",
+        "question": "The government, should be more conservative than liberal.",
         "i18n": {
         },
         "effect": {
