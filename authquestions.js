@@ -1,4 +1,4 @@
-authquestions = [
+questions = [
     //preserve (cultural l) vs reform (cultural r)
     {
         "question": "The government, should be more conservative than liberal.",
