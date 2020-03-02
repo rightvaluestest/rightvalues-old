@@ -85,7 +85,21 @@ questions = [
         }
     },
     {
-        "question": "I support (Third/Fourth) Wave Feminism, as well as the LGBT community.",
+        "question": "I support (Third/Fourth) Wave Feminism.",
+        "i18n": {
+        },
+        "effect": {
+            "a": -5,
+            "b": 0,
+            "c": 0,
+            "d": 0,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
+    {
+        "question": "I support the LGBT movement.",
         "i18n": {
         },
         "effect": {
@@ -227,7 +241,7 @@ questions = [
     },
 //Dependent vs Class
     {
-        "question": "There should only be 1 giant class, which is dependent on the government.",
+        "question": "There should only be 1 giant economic class, which is dependent on the government.",
         "i18n": {
         },
         "effect": {
@@ -255,7 +269,7 @@ questions = [
         }
     },
     {
-        "question": "Classes with power weaken the state.",
+        "question": "If the state gives power to certain classes, ultimately, the state will be weakened.",
         "i18n": {
         },
         "effect": {
@@ -269,7 +283,7 @@ questions = [
         }
     },
     {
-        "question": "A single class often leads to unstability, which then leads to the death of the nation.",
+        "question": "A nation without economic classes often leads to unstability, which then leads to the death of the nation.",
         "i18n": {
         },
         "effect": {
@@ -283,7 +297,7 @@ questions = [
         }
     },
     {
-        "question": "Although a strong government is needed, we should still divide power amongst classes.",
+        "question": "Although a strong government is needed, the government should still give power to some classes.",
         "i18n": {
         },
         "effect": {
