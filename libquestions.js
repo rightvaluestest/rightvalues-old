@@ -71,7 +71,7 @@ questions = [
         }
     },
     {
-        "question": "I am pro-choice.",
+        "question": "I am pro-choice on abortion.",
         "i18n": {
         },
         "effect": {
@@ -85,7 +85,21 @@ questions = [
         }
     },
     {
-        "question": "I support (Third/Fourth) Wave Feminism, as well as the LGBT community.",
+        "question": "I support (Third/Fourth) Wave Feminism.",
+        "i18n": {
+        },
+        "effect": {
+            "a": -5,
+            "b": 0,
+            "c": 0,
+            "d": 0,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
+    {
+        "question": "I support the LGBT movement.",
         "i18n": {
         },
         "effect": {
