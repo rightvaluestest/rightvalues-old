@@ -232,7 +232,7 @@ ideologies = [
 	{
         "name": "Agorism",
 		"desc": "Agorists think that people could live in harmony without a state in an anarchist society, called the non-agression principle. They favour a free market.",
-        "i18n": {
+        "i18n": { 
             "de": {
                 "name": "Agorism",
                 "desc": "Agorists think that people could live in harmony without a state in an anarchist society, called the non-agression principle. They favour a free market."
@@ -389,5 +389,146 @@ ideologies = [
 			"f": 30,
 			"g": 20
         }
+    },
+	{
+        "name": "Georgism",
+		"desc": "Georgists think that land should be a publicly owned thing, like air. They believe that if a person uses land, they should pay a land tax, and that tax would replace all other taxes.",
+        "i18n": {
+            "de": {
+                "name": "Georgism",
+                "desc": "Georgists think that land should be a publicly owned thing, like air. They believe that if a person uses land, they should pay a land tax, and that tax would replace all other taxes."
+            },
+            "ko": {
+                "name": "Georgism",
+                "desc": "Georgists think that land should be a publicly owned thing, like air. They believe that if a person uses land, they should pay a land tax, and that tax would replace all other taxes."
+            }
+        },
+        "stats": {
+            "a": 60,
+            "b": 55,
+            "c": 60,
+            "d": 50,
+			"e": 50,
+			"f": 30,
+			"g": 20
+        }
+    },
+	{
+        "name": "Geo-Libertarianism",
+		"desc": "Geo-Libertarians are basically Georgists with libertarian values.",
+        "i18n": {
+            "de": {
+                "name": "Geo-Libertarianism",
+                "desc": "Geo-Libertarians are basically Georgists with libertarian values."
+            },
+            "ko": {
+                "name": "Geo-Libertarianism",
+                "desc": "Geo-Libertarians are basically Georgists with libertarian values."
+            }
+        },
+        "stats": {
+            "a": 60,
+            "b": 55,
+            "c": 40,
+            "d": 50,
+			"e": 50,
+			"f": 30,
+			"g": 20
+        }
+    },
+	{
+        "name": "Hoppeanism",
+		"desc": "Hoppeanism is a extremely conservative kind of anarcho-capitalism.",
+        "i18n": {
+            "de": {
+                "name": "Hoppeanism",
+                "desc": "Hoppeanism is a extremely conservative kind of anarcho-capitalism."
+            },
+            "ko": {
+                "name": "Hoppeanism",
+                "desc": "Hoppeanism is a extremely conservative kind of anarcho-capitalism."
+            }
+        },
+        "stats": {
+            "a": 90,
+            "b": 90,
+            "c": 10,
+            "d": 20,
+			"e": 50,
+			"f": 30,
+			"g": 20
+        }
+    },
+	{
+        "name": "Centre-Rightism",
+		"desc": "Centre-Rightism is a right-leaning centrist ideology. Apart from being conservative, they are neutral in most other views.",
+        "i18n": {
+            "de": {
+                "name": "Centre-Rightism",
+                "desc": "Centre-Rightism is a right-leaning centrist ideology. Apart from being conservative, they are neutral in most other views."
+            },
+            "ko": {
+                "name": "Centre-Rightism",
+                "desc": "Centre-Rightism is a right-leaning centrist ideology. Apart from being conservative, they are neutral in most other views."
+            }
+        },
+        "stats": {
+            "a": 70,
+            "b": 50,
+            "c": 50,
+            "d": 50,
+			"e": 50,
+			"f": 50,
+			"g": 20
+        }
+    },
+	{
+        "name": "Green Libertarianism",
+		"desc": "Green libertarians are generally libertarians with a higher importance for the environment.",
+        "i18n": {
+            "de": {
+                "name": "Green LibertarianismGreen Libertarianism",
+                "desc": "Green libertarians are generally libertarians with a higher importance for the environment."
+            },
+            "ko": {
+                "name": "Green Libertarianism",
+                "desc": "Green libertarians are generally libertarians with a higher importance for the environment."
+            }
+        },
+        "stats": {
+            "a": 60,
+            "b": 30,
+            "c": 20,
+            "d": 50,
+			"e": 50,
+			"f": 30,
+			"g": 20
+        }
+    },
+	{
+        "name": "Theocratic Monarchy",
+		"desc": "Theocratic monarchies are monarchies that use their god as the head of state, often using a religious organization to rule.",
+        "i18n": {
+            "de": {
+                "name": "Theocratic Monarchy",
+                "desc": "Theocratic monarchies are monarchies that use their god as the head of state, often using a religious organization to rule."
+            },
+            "ko": {
+                "name": "Theocratic Monarchy",
+                "desc": "Theocratic monarchies are monarchies that use their god as the head of state, often using a religious organization to rule."
+            }
+        },
+        "stats": {
+            "a": 60,
+            "b": 30,
+            "c": 20,
+            "d": 50,
+			"e": 50,
+			"f": 30,
+			"g": 20
+        }
     }
+	
+	
+	
 ];
