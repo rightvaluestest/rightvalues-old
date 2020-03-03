@@ -255,7 +255,7 @@ questions = [
         }
     },
     {
-        "question": "A class should rule over another class.",
+        "question": "A class should rule over another class politically, similar to that of Feudalism.",
         "i18n": {
         },
         "effect": {
@@ -269,7 +269,7 @@ questions = [
         }
     },
     {
-        "question": "If the state gives power to certain classes, ultimately, the state will be weakened.",
+        "question": "If the state doesn't control the upper class, ultimately the state's power would be weakened.",
         "i18n": {
         },
         "effect": {
@@ -283,7 +283,7 @@ questions = [
         }
     },
     {
-        "question": "A nation without economic classes often leads to unstability, which then leads to the death of the nation.",
+        "question": "A nation without economic classes often leads to the government controlling too much, which then leads to tyranny, and eventually the death of the nation.",
         "i18n": {
         },
         "effect": {
@@ -297,7 +297,7 @@ questions = [
         }
     },
     {
-        "question": "Although a strong government is needed, the government should still give power to some classes.",
+        "question": "There should be economic classes.",
         "i18n": {
         },
         "effect": {
