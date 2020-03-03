@@ -253,7 +253,63 @@ questions = [
             "g": 0
         }
     },
-//Central vs Decentral
+    {
+        "question": "We need to have more welfare compared to what we have currently.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 0,
+            "b": 5,
+            "c": 0,
+            "d": 0,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
+    {
+        "question": "We should have higher taxes in exchange for better welfare.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 0,
+            "b": 5,
+            "c": 0,
+            "d": 0,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
+    {
+        "question": "Instead of welfare, people should use things like insurances.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 0,
+            "b": -5,
+            "c": 0,
+            "d": 0,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
+    {
+        "question": "Everyone should have free quality healthcare.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 0,
+            "b": -5,
+            "c": 0,
+            "d": 0,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
+//Central (Authority) vs Decentral (Liberty0
     {
         "question": "A strong government is required for a safe society",
         "i18n": {
@@ -318,6 +374,62 @@ questions = [
             "a": 0,
             "b": 0,
             "c": 5,
+            "d": 0,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
+    {
+        "question": "i want a monarchy, or some system similar to it.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 0,
+            "b": 0,
+            "c": 5,
+            "d": 0,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
+    {
+        "question": "I prefer a constitutional momarchy over a regular monarchy.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 0,
+            "b": 0,
+            "c": -5,
+            "d": 0,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
+     {
+        "question": "I want a absolute monarchy, or a dictatopship like Nazism.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 0,
+            "b": 0,
+            "c": 5,
+            "d": 0,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
+    {
+        "question": "If there has to be a state, I would choose democracy over dictatorship.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 0,
+            "b": 0,
+            "c": -5,
             "d": 0,
             "e": 0,
             "f": 0,
@@ -404,6 +516,62 @@ questions = [
             "b": 0,
             "c": 0,
             "d": 5,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
+     {
+        "question": "Immigration should be easier than it is now.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 0,
+            "b": 0,
+            "c": 0,
+            "d": -5,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
+    {
+        "question": "Having too much refugees lead to frequent terrorist attacks.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 0,
+            "b": 0,
+            "c": 0,
+            "d": 5,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
+    {
+        "question": "Illegal immigration is morally wrong in most cases.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 0,
+            "b": 0,
+            "c": 0,
+            "d": 5,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
+    {
+        "question": "Illegal immigrants deserve the same treatments regular citizens recieve.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 0,
+            "b": 0,
+            "c": 0,
+            "d": -5,
             "e": 0,
             "f": 0,
             "g": 0
