@@ -239,6 +239,62 @@ questions = [
             "g": 0
         }
     },
+    {
+        "question": "We need to have more welfare compared to what we have currently.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 0,
+            "b": 5,
+            "c": 0,
+            "d": 0,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
+    {
+        "question": "We should have higher taxes in exchange for better welfare.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 0,
+            "b": 5,
+            "c": 0,
+            "d": 0,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
+    {
+        "question": "Instead of welfare, people should use things like insurances.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 0,
+            "b": -5,
+            "c": 0,
+            "d": 0,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
+    {
+        "question": "Everyone should have free quality healthcare.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 0,
+            "b": -5,
+            "c": 0,
+            "d": 0,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
 //Limited vs Anarchism
     {
         "question": "Realistically, anarchism does not work.",
@@ -383,6 +439,62 @@ questions = [
     },
     {
         "question": "The enemy of my enemy is my friend.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 0,
+            "b": 0,
+            "c": 0,
+            "d": -5,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
+      {
+        "question": "Immigration should be easier than it is now.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 0,
+            "b": 0,
+            "c": 0,
+            "d": -5,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
+    {
+        "question": "Having too much refugees lead to frequent terrorist attacks.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 0,
+            "b": 0,
+            "c": 0,
+            "d": 5,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
+    {
+        "question": "Illegal immigration is morally wrong in most cases.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 0,
+            "b": 0,
+            "c": 0,
+            "d": 5,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
+    {
+        "question": "Illegal immigrants deserve the same treatments regular citizens recieve.",
         "i18n": {
         },
         "effect": {
