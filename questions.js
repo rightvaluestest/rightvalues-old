@@ -99,7 +99,7 @@ questions = [
         }
     },
     {
-        "question": "I support (Third/Fourth)Wave Feminism.",
+        "question": "I support (Third/Fourth) Wave Feminism.",
         "i18n": {
         },
         "effect": {
@@ -311,7 +311,7 @@ questions = [
     },
 //Central (Authority) vs Decentral (Liberty0
     {
-        "question": "A strong government is required for a safe society",
+        "question": "A strong government is required for a safe society.",
         "i18n": {
         },
         "effect": {
@@ -381,7 +381,7 @@ questions = [
         }
     },
     {
-        "question": "i want a monarchy, or some system similar to it.",
+        "question": "I want a monarchy, or some system similar to it.",
         "i18n": {
         },
         "effect": {
@@ -409,7 +409,7 @@ questions = [
         }
     },
      {
-        "question": "I want a absolute monarchy, or a dictatopship like Nazism.",
+        "question": "I want a absolute monarchy, or a dictatorship like Nazism.",
         "i18n": {
         },
         "effect": {
@@ -564,7 +564,7 @@ questions = [
         }
     },
     {
-        "question": "Illegal immigrants deserve the same treatments regular citizens recieve.",
+        "question": "Illegal immigrants and regular citizens deserve the same treatments.",
         "i18n": {
         },
         "effect": {
