@@ -29,7 +29,7 @@ questions = [
         }
     },
     {
-        "question": "Weed and Abortion should be legalized.",
+        "question": "Weed should be legalized.",
         "i18n": {
         },
         "effect": {
