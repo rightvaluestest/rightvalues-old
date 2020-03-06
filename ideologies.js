@@ -13,7 +13,7 @@ ideologies = [
             }
         },
         "stats": {
-            "a": 80,
+            "a": 10,
             "b": 85,
             "c": 90,
             "d": 90,
@@ -527,8 +527,99 @@ ideologies = [
 			"f": 30,
 			"g": 20
         }
-    }
-	
+    },
+	{
+        "name": "Progressivism",
+		"desc": "Progressivism is a culturally left ideology, more than that of liberalism. It strongly supports communities like LGBT or Feminist movements.",
+        "i18n": {
+            "de": {
+                "name": "Progressivism",
+                "desc": "Progressivism is a culturally left ideology, more than that of liberalism. It strongly supports communities like LGBT or Feminist movements."
+            },
+            "ko": {
+                "name": "Progressivism",
+                "desc": "Progressivism is a culturally left ideology, more than that of liberalism. It strongly supports communities like LGBT or Feminist movements."
+            }
+        },
+        "stats": {
+            "a": 80,
+            "b": 60,
+            "c": 50,
+            "d": 60,
+			"e": 70,
+			"f": 50,
+			"g": 20
+        }
+    },
+	{
+        "name": "Social Democracy",
+		"desc": "Social democracy is a form of a cultural left-wing ideology. This ideology is present in left-wing parties in Western Europe and Scandanavia.",
+        "i18n": {
+            "de": {
+                "name": "Social Democracy",
+                "desc": "Social democracy is a form of a cultural left-wing ideology. This ideology is present in left-wing parties in Western Europe and Scandanavia."
+            },
+            "ko": {
+                "name": "Social Democracy",
+                "desc": "Social democracy is a form of a cultural left-wing ideology. This ideology is present in left-wing parties in Western Europe and Scandanavia."
+            }
+        },
+        "stats": {
+            "a": 90,
+            "b": 60,
+            "c": 50,
+            "d": 60,
+			"e": 70,
+			"f": 50,
+			"g": 20
+        }
+    },
+	{
+        "name": "Liberal Democracy",
+		"desc": "Liberal democracy is a form of a cultural left-wing ideology, similar to social democracy but more focused by liberty.",
+        "i18n": {
+            "de": {
+                "name": "Liberal Democracy",
+                "desc": "Liberal democracy is a form of a cultural left-wing ideology, similar to social democracy but more focused by liberty."
+            },
+            "ko": {
+                "name": "Liberal Democracy",
+                "desc": "Liberal democracy is a form of a cultural left-wing ideology, similar to social democracy but more focused by liberty."
+            }
+        },
+        "stats": {
+            "a": 90,
+            "b": 40,
+            "c": 50,
+            "d": 60,
+			"e": 70,
+			"f": 50,
+			"g": 20
+        }
+    },
+	{
+        "name": "Homofascism",
+		"desc": "Homofascists are basically facists but with a strong support for LGBT.",
+        "i18n": {
+            "de": {
+                "name": "Homofascism",
+                "desc": "Homofascists are basically facists but with a strong support for LGBT."
+            },
+            "ko": {
+                "name": "Homofascism",
+                "desc": "Homofascists are basically facists but with a strong support for LGBT."
+            }
+	},
+        "stats": {
+            "a": 80,
+            "b": 85,
+            "c": 90,
+            "d": 90,
+			"e": 15,
+			"f": 90,
+			"g": 70
+        }
+     }
 	
 	
 ];
