@@ -1,4 +1,5 @@
 ideologies = [
+	
 	{
         "name": "Fascism",
 		"desc": "Fascism is an ideology that favours a centralized government. Fascists think a nation's power should be put in a high importance.",
@@ -321,6 +322,7 @@ ideologies = [
 			"g": 20
         }
     },
+	
 	{
         "name": "Technocracy",
 		"desc": "Technocracy is a ideology that promotes the idea of people who are experts of technology should rule the nation.",
@@ -619,7 +621,238 @@ ideologies = [
 			"f": 90,
 			"g": 70
         }
-     }
+     },
+	
+	{
+        "name": "Military Junta",
+		"desc": "A rule by the military. Usually very authoritarian, and very military focused.",
+        "i18n": {
+            "de": {
+                "name": "Military Junta",
+                "desc": "A rule by the military. Usually very authoritarian, and very military focused."
+            },
+            "ko": {
+                "name": "Military Junta",
+                "desc": "A rule by the military. Usually very authoritarian, and very military focused."
+            }
+        },
+        "stats": {
+            "a": 20,
+            "b": 85,
+            "c": 100,
+            "d": 90,
+			"e": 15,
+			"f": 90,
+			"g": 70
+        }
+    },
+	{
+        "name": "Radical Theocracy",
+		"desc": "A very authoritarian theocractic ideology that aims to spread their religion by force.",
+        "i18n": {
+            "de": {
+                "name": "Radical Theocracy",
+                "desc": "A very authoritarian theocractic ideology that aims to spread their religion by force."
+            },
+            "ko": {
+                "name": "Radical Theocracy",
+                "desc": "A very authoritarian theocractic ideology that aims to spread their religion by force."
+            }
+        },
+        "stats": {
+            "a": 40,
+            "b": 85,
+            "c": 100,
+            "d": 90,
+			"e": 100,
+			"f": 90,
+			"g": 70
+        }
+    },
+	{
+        "name": "Traditionalism / Reactionary Conservatism",
+		"desc": "Traditionalism is an ideology that is about preserving culture and taking a step back to restore a past system of government, whether that is imperialism or classical conservatism.",
+        "i18n": {
+            "de": {
+                "name": "Traditionalism / Reactionary Conservatism",
+                "desc": "Traditionalism is an ideology that is about preserving culture and taking a step back to restore a past system of government, whether that is imperialism or classical conservatism."
+            },
+            "ko": {
+                "name": "Traditionalism / Reactionary Conservatism",
+                "desc": "Traditionalism is an ideology that is about preserving culture and taking a step back to restore a past system of government, whether that is imperialism or classical conservatism."
+            }
+        },
+        "stats": {
+            "a": 10,
+            "b": 20,
+            "c": 80,
+            "d": 70,
+			"e": 80,
+			"f": 50,
+			"g": 10
+        }
+    },
+	{
+        "name": "Ecofascism",
+		"desc": "Ecofascists are basically facists but with a focus on environmental issues.",
+        "i18n": {
+            "de": {
+                "name": "Ecofascism",
+                "desc": "Ecofascists are basically facists but with a focus on environmental issues."
+            },
+            "ko": {
+                "name": "Ecofascism",
+                "desc": "Ecofascists are basically facists but with a focus on environmental issues."
+            }
+	},
+        "stats": {
+            "a": 70,
+            "b": 85,
+            "c": 90,
+            "d": 90,
+			"e": 15,
+			"f": 90,
+			"g": 70
+        }
+     },
+	{
+        "name": "Technoliberalism",
+		"desc": "A technocratic form of liberalism.",
+        "i18n": {
+            "de": {
+                "name": "Technoliberalism",
+                "desc": "A technocratic form of liberalism."
+            },
+            "ko": {
+                "name": "Technoliberalism",
+                "desc": "A technocratic form of liberalism."
+            }
+        },
+        "stats": {
+            "a": 80,
+            "b": 20,
+            "c": 10,
+            "d": 30,
+			"e": 30,
+			"f": 80,
+			"g": 20
+        }
+    },
+	{
+        "name": "Anarcho-Fascism",
+		"desc": "Anarcho-Fascism is an ideology that is a anarchist variation of fascism. It is a patriotic ideology that does not want a government installed.",
+        "i18n": {
+            "de": {
+                "name": "Anarcho-Fascism",
+                "desc": "Anarcho-Fascism is an ideology that is a anarchist variation of fascism. It is a patriotic ideology that does not want a government installed."
+            },
+            "ko": {
+                "name": "Anarcho-Fascism",
+                "desc": "Anarcho-Fascism is an ideology that is a anarchist variation of fascism. It is a patriotic ideology that does not want a government installed."
+            }
+        },
+        "stats": {
+            "a": 10,
+            "b": 60,
+            "c": 10,
+            "d": 90,
+			"e": 15,
+			"f": 90,
+			"g": 70
+        }
+    },
+	{
+        "name": "Anarcho-Primitivism",
+		"desc": "Anprims want a society free of modern inventions. They think a simpler life, like in prehistoric times, was much happier, and wants modern society to revert back into the old days.",
+        "i18n": {
+            "de": {
+                "name": "Anarcho-Primitivism",
+                "desc": "Anprims want a society free of modern inventions. They think a simpler life, like in prehistoric times, was much happier, and wants modern society to revert back into the old days."
+            },
+            "ko": {
+                "name": "Anarcho-Primitivism",
+                "desc": "Anprims want a society free of modern inventions. They think a simpler life, like in prehistoric times, was much happier, and wants modern society to revert back into the old days."
+            }
+        },
+        "stats": {
+            "a": 90,
+            "b": 70,
+            "c": 0,
+            "d": 90,
+			"e": 15,
+			"f": 0,
+			"g": 30
+        }
+    },
+	{
+        "name": "Anarcho-Transhumanism",
+		"desc": "Being the opposite of primitivism, this ideology aims to bring modern technology to break through the limitations of a human body.",
+        "i18n": {
+            "de": {
+                "name": "Anarcho-Transhumanism",
+                "desc": "Being the opposite of primitivism, this ideology aims to bring modern technology to break through the limitations of a human body."
+            },
+            "ko": {
+                "name": "Anarcho-Transhumanism",
+                "desc": "Being the opposite of primitivism, this ideology aims to bring modern technology to break through the limitations of a human body."
+            }
+        },
+        "stats": {
+            "a": 10,
+            "b": 60,
+            "c": 10,
+            "d": 90,
+			"e": 0,
+			"f": 100,
+			"g": 30
+        }
+    },
+	{
+        "name": "Classic Liberalism",
+		"desc": "Classic Liberalism view individual liberty and limited government as a basis for a free society. It is the core ideology of the founders of America.",
+        "i18n": {
+            "de": {
+                "name": "Classic Liberalism",
+                "desc": "Classic Liberalism view individual liberty and limited government as a basis for a free society. It is the core ideology of the founders of America."
+            },
+            "ko": {
+                "name": "Classic Liberalism",
+                "desc": "Classic Liberalism view individual liberty and limited government as a basis for a free society. It is the core ideology of the founders of America."
+            }
+        },
+        "stats": {
+            "a": 30,
+            "b": 10,
+            "c": 30,
+            "d": 80,
+			"e": 60,
+			"f": 50,
+			"g": 20
+        }
+    },
+	{
+        "name": "Anarcho-Mutualism",
+		"desc": "Anarcho-Mutualism is a ideology which emphasizes a free market, with an exchangement of goods instead of money. They are culturally left.",
+        "i18n": {
+            "de": {
+                "name": "Anarcho-Primitivism",
+                "desc": "Anarcho-Mutualism is a ideology which emphasizes a free market, with an exchangement of goods instead of money. They are culturally left."
+            },
+            "ko": {
+                "name": "Anarcho-Primitivism",
+                "desc": "Anarcho-Mutualism is a ideology which emphasizes a free market, with an exchangement of goods instead of money. They are culturally left."
+            }
+        },
+        "stats": {
+            "a": 20,
+            "b": 30,
+            "c": 0,
+            "d": 90,
+			"e": 15,
+			"f": 0,
+			"g": 30
+        }
+    }
 	
 	
 ];
