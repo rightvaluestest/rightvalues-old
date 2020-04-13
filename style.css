@@ -183,23 +183,23 @@ div.market {
 }
 div.central {
     background-color: #070091;
-    text-align: right;
-    border-left-style: solid;
+    text-align: left;
+    border-right-style: solid;
 }
 div.decentral {
     background-color: #010733;
-    text-align: left;
-    border-right-style: solid;
-}
-div.world {
-    background-color: #90bcd6;
     text-align: right;
     border-left-style: solid;
 }
-div.nation {
-    background-color: #7F3300;
+div.world {
+    background-color: #90bcd6;
     text-align: left;
     border-right-style: solid;
+}
+div.nation {
+    background-color: #7F3300;
+    text-align: right;
+    border-left-style: solid;
 }
 div.religious {
     background-color: #d48817;
