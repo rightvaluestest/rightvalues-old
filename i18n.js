@@ -146,6 +146,7 @@ const i18n = {
         "en": ["Culturally Progressive","Culturally Liberal","Leaning Left","Neutral","Right","Conservative","Reactionary"],
         "de": ["Culturally Progressive","Culturally Liberal","Leaning Left","Neutral","Right","Conservative","Reactionary"],
         "ko": ["Culturally Progressive","Culturally Liberal","Leaning Left","Neutral","Right","Conservative","Reactionary"]
+    },
     "result-b-label": {
         "en": ["Extremely Pro-State Ownership","Pro-State Ownership","Public Ownership","Neutral","Regulationist","Markets","Laissez Faire"],
         "de": ["Extremely Pro-State Ownership","Pro-State Ownership","Public Ownership","Neutral","Laissez-faire","Markets","Laissez Faire"],
