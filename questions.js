@@ -1,5 +1,5 @@
 questions = [
-    //preserve (cultural l) vs reform (cultural r)
+    //preserve (Conserve) vs Reform 
     {
         "question": "If I have the ability, I will vote for a conservative party.",
         "i18n": {
@@ -436,9 +436,9 @@ questions = [
             "g": 0
         }
     },
-//Nation vs World
+//Nation (Morality) vs World (Peace)
     {
-        "question": "My nation is the better than most other ones.",
+        "question": "My nation's ideals are better than most other ideologies.",
         "i18n": {
         },
         "effect": {
@@ -452,7 +452,7 @@ questions = [
         }
     },
     {
-        "question": "I dislike my nation.",
+        "question": "Rather than bombing innocent countries, we should primarily work on peace.",
         "i18n": {
         },
         "effect": {
@@ -466,14 +466,14 @@ questions = [
         }
     },
     {
-        "question": "International relations are very important.",
+        "question": "Countries with authoritarian regimes should be toppled.",
         "i18n": {
         },
         "effect": {
             "a": 0,
             "b": 0,
             "c": 0,
-            "d": 5,
+            "d": -5,
             "e": 0,
             "f": 0,
             "g": 0
@@ -487,7 +487,7 @@ questions = [
             "a": 0,
             "b": 0,
             "c": 0,
-            "d": -5,
+            "d": 5,
             "e": 0,
             "f": 0,
             "g": 0
