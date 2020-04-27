@@ -143,23 +143,24 @@ const i18n = {
         "ko": `어떠한 범주에서든 100%의 점수를 얻을 수 없다는 것을 기억하십시오. 이 설문의 목적은 당신 자신의 관점에 직면하는 것에 있습니다. 의견이나 건설적인 비판은 <a href="https://forms.gle/6WZYMb5GXkkDLhxr5">이 양식</a>이나 <a href="https://github.com/LeftValues/leftvalues.github.io">GitHub Page</a>의 이슈를 통해 개진할 수 있습니다.`
     },
        "result-a-label": {
-        "en": ["Culturally Progressive","Culturally Liberal","Leaning Left","Neutral","Right","Conservative","Reactionary"],
-        "de": ["Culturally Progressive","Culturally Liberal","Leaning Left","Neutral","Right","Conservative","Reactionary"],
-        "ko": ["Culturally Progressive","Culturally Liberal","Leaning Left","Neutral","Right","Conservative","Reactionary"]
+        "en": ["Culturally Progressive","Culturally Left","Leaning Left","Neutral","Right","Conservative","Reactionary"],
+        "de": ["Culturally Progressive","Culturally Left","Leaning Left","Neutral","Right","Conservative","Reactionary"],
+        "ko": ["Culturally Progressive","Culturally Left","Leaning Left","Neutral","Right","Conservative","Reactionary"]
+    },
     "result-b-label": {
-        "en": ["Extremely Pro-State Ownership","Pro-State Ownership","Public Ownership","Neutral","Regulationist","Markets","Laissez Faire"],
-        "de": ["Extremely Pro-State Ownership","Pro-State Ownership","Public Ownership","Neutral","Laissez-faire","Markets","Laissez Faire"],
-        "ko": ["Extremely Pro-State Ownership","Pro-State Ownership","Public Ownership","Neutral","Laissez-faire","Markets","Laissez Faire"]
+        "en": ["Extreme State Ownership","Pro-State Ownership","Public Ownership","Neutral","Laissez-faire","Markets","Extremely Pro-Markets"],
+        "de": ["Extreme State Ownership","Pro-State Ownership","Public Ownership","Neutral","Laissez-faire","Markets","Extremely Pro-Markets"],
+        "ko": ["Extreme State Ownership","Pro-State Ownership","Public Ownership","Neutral","Laissez-faire","Markets","Extremely Pro-Markets"]
     },
     "result-c-label": {
-        "en": ["Totalitarian","Authoritarian","Statist","Neutral","Democratic","Libertarian","Anarchist"],
-        "de": ["Totalitarian","Authoritarian","Statist","Neutral","Democratic","Libertarian","Anarchist"],
-        "ko": ["Totalitarian","Authoritarian","Statist","Neutral","Democratic","Libertarian","Anarchist"]
+        "en": ["Totalitarian","Authoritarian","Centralist","Neutral","Democratic","Libertarian","Anarchist"],
+        "de": ["Totalitarian","Authoritarian","Centralist","Neutral","Democratic","Libertarian","Anarchist"],
+        "ko": ["Totalitarian","Authoritarian","Centralist","Neutral","Democratic","Libertarian","Anarchist"]
     },
     "result-d-label": {
-        "en": ["Extremely Internationalist","Internationalist","Pro-Alliances","Neutral","Nationalist","Patriot","Extremely Nationalist"],
-        "de": ["Extremely Internationalist","Internationalist","Pro-Alliances","Neutral","Nationalist","Patriot","Extremely Nationalist"],
-        "ko": ["Extremely Internationalist","Internationalist","Pro-Alliances","Neutral","Nationalist","Patriot","Extremely Nationalist"]
+        "en": ["Extremely Globalist","Globalist","Pro-Alliances","Neutral","Nationalist","Patriot","Extremely Nationalist"],
+        "de": ["Extremely Globalist","Globalist","Pro-Alliances","Neutral","Nationalist","Patriot","Extremely Nationalist"],
+        "ko": ["Extremely Globalist","Globalist","Pro-Alliances","Neutral","Nationalist","Patriot","Extremely Nationalist"]
     },
     "result-e-label": {
         "en": ["Theocrat","Religious","Pro Religion","Neutral","Pro Secular","Secular","Anti-Religious"],
