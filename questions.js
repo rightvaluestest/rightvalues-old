@@ -309,7 +309,7 @@ questions = [
             "g": 0
         }
     },
-//Central (Authority) vs Decentral (Liberty0
+//Central (Authority) vs Decentral (Liberty)
     {
         "question": "A strong government is required for a safe society.",
         "i18n": {
@@ -664,49 +664,7 @@ questions = [
     },
 //Industry vs Nature
     {
-        "question": "The economy is more important than the environment.",
-        "i18n": {
-        },
-        "effect": {
-            "a": 0,
-            "b": 0,
-            "c": 0,
-            "d": 0,
-            "e": 0,
-            "f": 5,
-            "g": 0
-        }
-    },
-    {
-        "question": "Climate Change is a hoax.",
-        "i18n": {
-        },
-        "effect": {
-            "a": 0,
-            "b": 0,
-            "c": 0,
-            "d": 0,
-            "e": 0,
-            "f": 5,
-            "g": 0
-        }
-    },
-    {
-        "question": "Climate Change is not as serious as the media portrayes it.",
-        "i18n": {
-        },
-        "effect": {
-            "a": 0,
-            "b": 0,
-            "c": 0,
-            "d": 0,
-            "e": 0,
-            "f": 5,
-            "g": 0
-        }
-    },
-    {
-        "question": "If we don't protect the environment, the economy will collapse.",
+        "question": "A rapid technological advancement causes more bad than good.",
         "i18n": {
         },
         "effect": {
@@ -720,7 +678,7 @@ questions = [
         }
     },
     {
-        "question": "There should be more regulations on factories.",
+        "question": "Life before the industrial revolution was much better.",
         "i18n": {
         },
         "effect": {
@@ -734,7 +692,49 @@ questions = [
         }
     },
     {
-        "question": "We are not doing enough to protect the environment.",
+        "question": "We should accelerate our technological progress.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 0,
+            "b": 0,
+            "c": 0,
+            "d": 0,
+            "e": 0,
+            "f": 5,
+            "g": 0
+        }
+    },
+    {
+        "question": "Rather than trying to restrict factories, we should let technology advance and find a easier solution in the future.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 0,
+            "b": 0,
+            "c": 0,
+            "d": 0,
+            "e": 0,
+            "f": 5,
+            "g": 0
+        }
+    },
+    {
+        "question": "Decelerating our society could mean a harder life, but it's overall worth it considering the happiness decelerating would bring.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 0,
+            "b": 0,
+            "c": 0,
+            "d": 0,
+            "e": 0,
+            "f": -5,
+            "g": 0
+        }
+    },
+    {
+        "question": "The more we accelerate, the more risks there is.",
         "i18n": {
         },
         "effect": {
