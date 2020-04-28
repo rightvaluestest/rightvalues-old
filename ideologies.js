@@ -1,8 +1,8 @@
 ideologies = [
-	
-	{
+    
+    {
         "name": "Fascism",
-		"desc": "Fascism is an ideology that favours a centralized government. Fascists think a nation's power should be put in a high importance.",
+        "desc": "Fascism is an ideology that favours a centralized government. Fascists think a nation's power should be put in a high importance.",
         "i18n": {
             "de": {
                 "name": "Fascism",
@@ -17,23 +17,23 @@ ideologies = [
             "a": 10,
             "b": 85,
             "c": 90,
-            "d": 90,
-			"e": 15,
-			"f": 90,
-			"g": 70
+            "d": 10,
+            "e": 0,
+            "f": 50,
+            "g": 80
         }
     },
     {
         "name": "Nazism",
-		"desc": "Nazism is a form of Fascism that is a bit more extreme, and values the race of people more. It favours a centralized government.",
+        "desc": "Nazism is a form of Fascism that is a bit more radical, and values the race of people more. It is the ideology of the Third Reich.",
         "i18n": {
             "de": {
                 "name": "Nazism",
-                "desc": "Nazism is a form of Fascism that is a bit more extreme, and values the race of people more. It favours a centralized government."
+                "desc": "Nazism is a form of Fascism that is a bit more radical, and values the race of people more. It is the ideology of the Third Reich."
             },
             "ko": {
                 "name": "Nazism",
-                "desc": "Nazism is a form of Fascism that is a bit more extreme, and values the race of people more. It favours a centralized government."
+                "desc": "Nazism is a form of Fascism that is a bit more radical, and values the race of people more. It is the ideology of the Third Reich."
             }
         },
         "stats": {
@@ -41,60 +41,60 @@ ideologies = [
             "b": 90,
             "c": 95,
             "d": 5,
-			"e": 5,
-			"f": 90,
-			"g": 100
+            "e": 5,
+            "f": 50,
+            "g": 100
         }
     },
-	{
-        "name": "Monarchism",
-		"desc": "Monarchism is a ideology that advocates a large government with a dictatorship, which the leadership is passed on by genetics.",
+    {
+        "name": "Absolute Monarchism",
+        "desc": "Monarchism is an authoritarian dictarship ideology that has leaders that are passed on genetically.",
         "i18n": {
             "de": {
-                "name": "Monarchism",
-                "desc": "Monarchism is a ideology that advocates a large government with a dictatorship, which the leadership is passed on by genetics."
+                "name": "Absolute Monarchism",
+                "desc": "Monarchism is an authoritarian dictarship ideology that has leaders that are passed on genetically."
             },
             "ko": {
-                "name": "Monarchism",
-                "desc": "Monarchism is a ideology that advocates a large government with a dictatorship, which the leadership is passed on by genetics."
+                "name": "Absolute Monarchism",
+                "desc": "Monarchism is an authoritarian dictarship ideology that has leaders that are passed on genetically."
             }
         },
         "stats": {
             "a": 30,
             "b": 50,
             "c": 80,
-            "d": 30,
-			"e": 80,
-			"f": 50,
-			"g": 70
+            "d": 80,
+            "e": 80,
+            "f": 30,
+            "g": 70
         }
     },
-	{
+    {
         "name": "Feudalism",
-		"desc": "Feudalism is an ideology that is based on Monarchism. It is basically a monarchy with high importance of capitalism. Higher classes rule over lower classes' property in exchange for land.",
+        "desc": "Feudalism is a type of Monarchism, where the leader gives a person some land, and that person rules over that piece of land, which he could give some to another person, etc. It is a class-based system.",
         "i18n": {
             "de": {
                 "name": "Feudalism",
-                "desc": "Feudalism is an ideology that is based on Monarchism. It is basically a monarchy with high importance of capitalism. Higher classes rule over lower classes' property in exchange for land."
+                "desc": "Feudalism is a type of Monarchism, where the leader gives a person some land, and that person rules over that piece of land, which he could give some to another person, etc. It is a class-based system."
             },
             "ko": {
                 "name": "Feudalism",
-                "desc": "Feudalism is an ideology that is based on Monarchism. It is basically a monarchy with high importance of capitalism. Higher classes rule over lower classes' property in exchange for land."
+                "desc": "Feudalism is a type of Monarchism, where the leader gives a person some land, and that person rules over that piece of land, which he could give some to another person, etc. It is a class-based system."
             }
         },
         "stats": {
             "a": 30,
             "b": 20,
             "c": 70,
-            "d": 30,
-			"e": 80,
-			"f": 50,
-			"g": 70
+            "d": 80,
+            "e": 80,
+            "f": 50,
+            "g": 70
         }
     },
-	{
+    {
         "name": "Constitutional Monarchism",
-		"desc": "Constitutional Monarchism is a form of Monarchism where the leader has a lot of power, but needs to follow a constitution to rule.",
+        "desc": "Constitutional Monarchism is a form of Monarchism where the leader has a lot of power, but needs to follow a constitution to rule.",
         "i18n": {
             "de": {
                 "name": "Constitutional Monarchism",
@@ -109,15 +109,15 @@ ideologies = [
             "a": 20,
             "b": 30,
             "c": 60,
-            "d": 30,
-			"e": 80,
-			"f": 50,
-			"g": 70
+            "d": 40,
+            "e": 80,
+            "f": 50,
+            "g": 70
         }
     },
-	{
+    {
         "name": "Conservatism",
-		"desc": "Conservatism is an ideology that is mainly about preserving the western political model. They want a small government, large military spending and low taxes. It is one of the most popular right-wing ideologies in the West.",
+        "desc": "Conservatism is an ideology that is mainly about preserving the western political model. They want a small government, large military spending and low taxes. It is one of the most popular right-wing ideologies in the West.",
         "i18n": {
             "de": {
                 "name": "Conservatism",
@@ -132,38 +132,38 @@ ideologies = [
             "a": 10,
             "b": 20,
             "c": 40,
-            "d": 70,
-			"e": 70,
-			"f": 50,
-			"g": 10
+            "d": 20,
+            "e": 70,
+            "f": 50,
+            "g": 10
         }
     },
-	{
-        "name": "Liberalism",
-		"desc": "Liberalism is an left-leaning ideology that advocates for policies like state ownership. They don't support socialism.",
+    {
+        "name": "Unionism",
+        "desc": "Unionism is a conservative, British ideology that advocates for the union of Northern Ireland with Great Britain.",
         "i18n": {
             "de": {
-                "name": "Liberalism",
-                "desc": "Liberalism is an left-leaning ideology that advocates for policies like state ownership. They don't support socialism."
+                "name": "Unionism",
+                "desc": "Unionism is a conservative, British ideology that advocates for the union of Northern Ireland with Great Britain."
             },
             "ko": {
-                "name": "Liberalism",
-                "desc": "Liberalism is an left-leaning ideology that advocates for policies like state ownership. They don't support socialism."
+                "name": "Unionism",
+                "desc": "Unionism is a conservative, British ideology that advocates for the union of Northern Ireland with Great Britain."
             }
         },
         "stats": {
-            "a": 70,
-            "b": 60,
+            "a": 20,
+            "b": 30,
             "c": 50,
             "d": 60,
-			"e": 70,
-			"f": 50,
-			"g": 20
+            "e": 60,
+            "f": 50,
+            "g": 20
         }
     },
-	{
+    {
         "name": "Neo-Conservatism",
-		"desc": "Neo-Conservatism is a new form of Conservatism. Neo-Conservatives think that the goal of western nations is to bring their model to the world. They are more internationally focused.",
+        "desc": "Neo-Conservatism is a new form of Conservatism. Neo-Conservatives think that the goal of western nations is to bring their model to the world. They are more internationally focused.",
         "i18n": {
             "de": {
                 "name": "Neo-Conservatism",
@@ -178,38 +178,38 @@ ideologies = [
             "a": 10,
             "b": 20,
             "c": 40,
-            "d": 90,
-			"e": 60,
-			"f": 50,
-			"g": 10
+            "d": 20,
+            "e": 60,
+            "f": 60,
+            "g": 10
         }
     },
-	{
+    {
         "name": "Libertarianism",
-		"desc": "Libertarians are generally culturally liberal, but economically conservative, and wants a much smaller state/government.",
+        "desc": "Libertarians are generally culturally left, but fiscally conservative, and wants a much smaller state/government.",
         "i18n": {
             "de": {
                 "name": "Libetarianism",
-                "desc": "Libertarians are generally culturally liberal, but economically conservative, and wants a much smaller state/government."
+                "desc": "Libertarians are generally culturally left, but fiscally conservative, and wants a much smaller state/government."
             },
             "ko": {
                 "name": "Libetarianism",
-                "desc": "Libertarians are generally culturally liberal, but economically conservative, and wants a much smaller state/government."
+                "desc": "Libertarians are generally culturally left, but fiscally conservative, and wants a much smaller state/government."
             }
         },
         "stats": {
             "a": 60,
-            "b": 30,
+            "b": 10,
             "c": 20,
-            "d": 50,
-			"e": 50,
-			"f": 30,
-			"g": 20
+            "d": 60,
+            "e": 50,
+            "f": 80,
+            "g": 20
         }
     },
-	{
+    {
         "name": "Individualist Anarchism",
-		"desc": "Individualist Anarchism is a form of anarchism which strongly advocates individualism, alongside with an anarchist government.",
+        "desc": "Individualist Anarchism is a form of anarchism which strongly advocates individualism, alongside with an anarchist government.",
         "i18n": {
             "de": {
                 "name": "Individualist Anarchism",
@@ -221,18 +221,18 @@ ideologies = [
             }
         },
         "stats": {
-            "a": 30,
-            "b": 20,
+            "a": 50,
+            "b": 10,
             "c": 10,
-            "d": 50,
-			"e": 50,
-			"f": 60,
-			"g": 10
+            "d": 80,
+            "e": 50,
+            "f": 60,
+            "g": 10
         }
     },
-	{
+    {
         "name": "Agorism",
-		"desc": "Agorists think that people could live in harmony without a state in an anarchist society, called the non-agression principle. They favour a free market.",
+        "desc": "Agorists think that people could live in harmony without a state in an anarchist society, called the non-agression principle. They favour a free market.",
         "i18n": { 
             "de": {
                 "name": "Agorism",
@@ -244,18 +244,18 @@ ideologies = [
             }
         },
         "stats": {
-            "a": 70,
-            "b": 20,
+            "a": 80,
+            "b": 10,
             "c": 10,
             "d": 80,
-			"e": 50,
-			"f": 50,
-			"g": 10
+            "e": 30,
+            "f": 50,
+            "g": 10
         }
     },
-	{
+    {
         "name": "Anarcho-Capitalism",
-		"desc": "Anarcho-Capitalism is an anarchist ideology that wants big cooperations to rule over society. It is an extreme form of anarchy and capitalism.",
+        "desc": "Anarcho-Capitalism is an anarchist ideology that wants big cooperations to rule over society. It is an extreme form of anarchy and capitalism.",
         "i18n": {
             "de": {
                 "name": "Anarcho-Capitalism",
@@ -267,26 +267,26 @@ ideologies = [
             }
         },
         "stats": {
-            "a": 70,
+            "a": 50,
             "b": 0,
             "c": 10,
-            "d": 80,
-			"e": 50,
-			"f": 50,
-			"g": 10
+            "d": 50,
+            "e": 20,
+            "f": 80,
+            "g": 50
         }
     },
-	{
+    {
         "name": "Minarchism",
-		"desc": "Minarchism is an ideology that wants a very small government. They think the purpose of the government is only for protecting and enforcing laws. This type of government is called the Night-Watchman State.",
+        "desc": "Minarchism is an ideology that wants a very small government. They think the purpose of the government is only for enforcing laws. This type of government is called the Night-Watchman State.",
         "i18n": {
             "de": {
                 "name": "Minarchism",
-                "desc": "Minarchism is an ideology that wants a very small government. They think the purpose of the government is only for protecting and enforcing laws. This type of government is called the Night-Watchman State."
+                "desc": "Minarchism is an ideology that wants a very small government. They think the purpose of the government is only for  enforcing laws. This type of government is called the Night-Watchman State."
             },
             "ko": {
                 "name": "Minarchism",
-                "desc": "Minarchism is an ideology that wants a very small government. They think the purpose of the government is only for protecting and enforcing laws. This type of government is called the Night-Watchman State."
+                "desc": "Minarchism is an ideology that wants a very small government. They think the purpose of the government is only for enforcing laws. This type of government is called the Night-Watchman State."
             }
         },
         "stats": {
@@ -294,38 +294,15 @@ ideologies = [
             "b": 30,
             "c": 15,
             "d": 50,
-			"e": 50,
-			"f": 30,
-			"g": 20
+            "e": 50,
+            "f": 30,
+            "g": 20
         }
     },
-	{
-        "name": "State Capitalism",
-		"desc": "State Capitalism is basically a authotarian left-wing form of Capitalism. It is culturally left wing but economically right wing. China adopts this ideology.",
-        "i18n": {
-            "de": {
-                "name": "State Capitalism",
-                "desc": "State Capitalism is basically a authotarian left-wing form of Capitalism. It is culturally left wing but economically right wing. China adopts this ideology."
-            },
-            "ko": {
-                "name": "State Capitalism",
-                "desc": "State Capitalism is basically a authotarian left-wing form of Capitalism. It is culturally left wing but economically right wing. China adopts this ideology."
-            }
-        },
-        "stats": {
-            "a": 90,
-            "b": 30,
-            "c": 90,
-            "d": 50,
-			"e": 50,
-			"f": 30,
-			"g": 20
-        }
-    },
-	
-	{
+    
+    {
         "name": "Technocracy",
-		"desc": "Technocracy is a ideology that promotes the idea of people who are experts of technology should rule the nation.",
+        "desc": "Technocracy is a ideology that promotes the idea of people who are experts of technology should rule the nation.",
         "i18n": {
             "de": {
                 "name": "Technocracy",
@@ -338,63 +315,63 @@ ideologies = [
         },
         "stats": {
             "a": 80,
-            "b": 20,
-            "c": 10,
-            "d": 40,
-			"e": 30,
-			"f": 80,
-			"g": 20
+            "b": 60,
+            "c": 70,
+            "d": 60,
+            "e": 20,
+            "f": 80,
+            "g": 20
         }
     },
-	{
+    {
         "name": "Neo-Liberalism",
-		"desc": "Neo-Liberalism is a culturally liberal but economically capitalist ideology. Many people consider this as the current status quo.",
+        "desc": "Neo-Liberalism is a free-market oriented reform ideology, which is usually culturally left-leaning. Reducing state influence is also a big part of the ideology.",
         "i18n": {
             "de": {
                 "name": "Neo-Liberalism",
-                "desc": "Neo-Liberalism is a culturally liberal but economically capitalist ideology. Many people consider this as the current status quo."
+                "desc": "Neo-Liberalism is a free-market oriented reform ideology, which is usually culturally left-leaning. Reducing state influence is also a big part of the ideology."
             },
             "ko": {
                 "name": "Neo-Liberalism",
-                "desc": "Neo-Liberalism is a culturally liberal but economically capitalist ideology. Many people consider this as the current status quo."
+                "desc": "Neo-Liberalism is a free-market oriented reform ideology, which is usually culturally left-leaning. Reducing state influence is also a big part of the ideology."
             }
         },
         "stats": {
-            "a": 60,
-            "b": 40,
-            "c": 40,
-            "d": 80,
-			"e": 50,
-			"f": 50,
-			"g": 20
+            "a": 70,
+            "b": 30,
+            "c": 30,
+            "d": 50,
+            "e": 30,
+            "f": 70,
+            "g": 20
         }
     },
-	{
-        "name": "Conservative Libertarianism",
-		"desc": "Conservative Libertarians are basically libetarians but conservative culturally as well. They want a small state.",
+    {
+        "name": "Paleolibertarianism",
+        "desc": "Paleolibertarians are basically libetarians but conservative culturally as well. They want a small state.",
         "i18n": {
             "de": {
-                "name": "Conservative Libetarianism",
-                "desc": "Conservative Libertarians are basically libetarians but conservative culturally as well. They want a small state."
+                "name": "Paleolibetarianism",
+                "desc": "Paleolibertarians are basically libetarians but conservative culturally as well. They want a small state."
             },
             "ko": {
-                "name": "Conservative Libetarianism",
-                "desc": "Conservative Libertarians are basically libetarians but conservative culturally as well. They want a small state."
+                "name": "Paleolibetarianism",
+                "desc": "Paleolibertarians are basically libetarians but conservative culturally as well. They want a small state."
             }
         },
         "stats": {
             "a": 30,
             "b": 30,
             "c": 20,
-            "d": 50,
-			"e": 50,
-			"f": 30,
-			"g": 20
+            "d": 40,
+            "e": 30,
+            "f": 60,
+            "g": 20
         }
     },
-	{
+    {
         "name": "Georgism",
-		"desc": "Georgists think that land should be a publicly owned thing, like air. They believe that if a person uses land, they should pay a land tax, and that tax would replace all other taxes.",
+        "desc": "Georgists think that land should be a publicly owned thing, like air. They believe that if a person uses land, they should pay a land tax, and that tax would replace all other taxes.",
         "i18n": {
             "de": {
                 "name": "Georgism",
@@ -408,16 +385,16 @@ ideologies = [
         "stats": {
             "a": 60,
             "b": 55,
-            "c": 60,
-            "d": 50,
-			"e": 50,
-			"f": 30,
-			"g": 20
+            "c": 50,
+            "d": 40,
+            "e": 50,
+            "f": 60,
+            "g": 20
         }
     },
-	{
+    {
         "name": "Geo-Libertarianism",
-		"desc": "Geo-Libertarians are basically Georgists with libertarian values.",
+        "desc": "Geo-Libertarians are basically Georgists with libertarian values.",
         "i18n": {
             "de": {
                 "name": "Geo-Libertarianism",
@@ -431,16 +408,16 @@ ideologies = [
         "stats": {
             "a": 60,
             "b": 55,
-            "c": 40,
-            "d": 50,
-			"e": 50,
-			"f": 30,
-			"g": 20
+            "c": 20,
+            "d": 40,
+            "e": 50,
+            "f": 60,
+            "g": 20
         }
     },
-	{
+    {
         "name": "Hoppeanism",
-		"desc": "Hoppeanism is a extremely conservative kind of anarcho-capitalism.",
+        "desc": "Hoppeanism is a extremely conservative kind of anarcho-capitalism.",
         "i18n": {
             "de": {
                 "name": "Hoppeanism",
@@ -452,18 +429,18 @@ ideologies = [
             }
         },
         "stats": {
-            "a": 90,
+            "a": 20,
             "b": 90,
             "c": 10,
-            "d": 20,
-			"e": 50,
-			"f": 30,
-			"g": 20
+            "d": 50,
+            "e": 50,
+            "f": 30,
+            "g": 20
         }
     },
-	{
+    {
         "name": "Centre-Rightism",
-		"desc": "Centre-Rightism is a right-leaning centrist ideology. Apart from being conservative, they are neutral in most other views.",
+        "desc": "Centre-Rightism is a right-leaning centrist ideology. Apart from being conservative, they are neutral in most other views.",
         "i18n": {
             "de": {
                 "name": "Centre-Rightism",
@@ -475,18 +452,18 @@ ideologies = [
             }
         },
         "stats": {
-            "a": 70,
+            "a": 60,
             "b": 50,
             "c": 50,
             "d": 50,
-			"e": 50,
-			"f": 50,
-			"g": 20
+            "e": 50,
+            "f": 50,
+            "g": 40
         }
     },
-	{
+    {
         "name": "Green Libertarianism",
-		"desc": "Green libertarians are generally libertarians with a higher importance for the environment.",
+        "desc": "Green libertarians are generally libertarians with a higher importance for the environment.",
         "i18n": {
             "de": {
                 "name": "Green LibertarianismGreen Libertarianism",
@@ -502,14 +479,14 @@ ideologies = [
             "b": 30,
             "c": 20,
             "d": 50,
-			"e": 50,
-			"f": 30,
-			"g": 20
+            "e": 50,
+            "f": 30,
+            "g": 20
         }
     },
-	{
+    {
         "name": "Theocratic Monarchy",
-		"desc": "Theocratic monarchies are monarchies that use their god as the head of state, often using a religious organization to rule.",
+        "desc": "Theocratic monarchies are monarchies that use their god as the head of state, often using a religious organization to rule.",
         "i18n": {
             "de": {
                 "name": "Theocratic Monarchy",
@@ -525,83 +502,14 @@ ideologies = [
             "b": 30,
             "c": 20,
             "d": 50,
-			"e": 50,
-			"f": 30,
-			"g": 20
+            "e": 50,
+            "f": 40,
+            "g": 20
         }
     },
-	{
-        "name": "Progressivism",
-		"desc": "Progressivism is a culturally left ideology, more than that of liberalism. It strongly supports communities like LGBT or Feminist movements.",
-        "i18n": {
-            "de": {
-                "name": "Progressivism",
-                "desc": "Progressivism is a culturally left ideology, more than that of liberalism. It strongly supports communities like LGBT or Feminist movements."
-            },
-            "ko": {
-                "name": "Progressivism",
-                "desc": "Progressivism is a culturally left ideology, more than that of liberalism. It strongly supports communities like LGBT or Feminist movements."
-            }
-        },
-        "stats": {
-            "a": 80,
-            "b": 60,
-            "c": 50,
-            "d": 60,
-			"e": 70,
-			"f": 50,
-			"g": 20
-        }
-    },
-	{
-        "name": "Social Democracy",
-		"desc": "Social democracy is a form of a cultural left-wing ideology. This ideology is present in left-wing parties in Western Europe and Scandanavia.",
-        "i18n": {
-            "de": {
-                "name": "Social Democracy",
-                "desc": "Social democracy is a form of a cultural left-wing ideology. This ideology is present in left-wing parties in Western Europe and Scandanavia."
-            },
-            "ko": {
-                "name": "Social Democracy",
-                "desc": "Social democracy is a form of a cultural left-wing ideology. This ideology is present in left-wing parties in Western Europe and Scandanavia."
-            }
-        },
-        "stats": {
-            "a": 90,
-            "b": 60,
-            "c": 50,
-            "d": 60,
-			"e": 70,
-			"f": 50,
-			"g": 20
-        }
-    },
-	{
-        "name": "Liberal Democracy",
-		"desc": "Liberal democracy is a form of a cultural left-wing ideology, similar to social democracy but more focused by liberty.",
-        "i18n": {
-            "de": {
-                "name": "Liberal Democracy",
-                "desc": "Liberal democracy is a form of a cultural left-wing ideology, similar to social democracy but more focused by liberty."
-            },
-            "ko": {
-                "name": "Liberal Democracy",
-                "desc": "Liberal democracy is a form of a cultural left-wing ideology, similar to social democracy but more focused by liberty."
-            }
-        },
-        "stats": {
-            "a": 90,
-            "b": 40,
-            "c": 50,
-            "d": 60,
-			"e": 70,
-			"f": 50,
-			"g": 20
-        }
-    },
-	{
+    {
         "name": "Homofascism",
-		"desc": "Homofascists are basically facists but with a strong support for LGBT.",
+        "desc": "Homofascists are basically facists but with a strong support for LGBT.",
         "i18n": {
             "de": {
                 "name": "Homofascism",
@@ -611,21 +519,21 @@ ideologies = [
                 "name": "Homofascism",
                 "desc": "Homofascists are basically facists but with a strong support for LGBT."
             }
-	},
+    },
         "stats": {
             "a": 80,
             "b": 85,
             "c": 90,
             "d": 90,
-			"e": 15,
-			"f": 90,
-			"g": 70
+            "e": 15,
+            "f": 50,
+            "g": 70
         }
      },
-	
-	{
+    
+    {
         "name": "Military Junta",
-		"desc": "A rule by the military. Usually very authoritarian, and very military focused.",
+        "desc": "A rule by the military. Usually very authoritarian, and very military focused.",
         "i18n": {
             "de": {
                 "name": "Military Junta",
@@ -640,15 +548,15 @@ ideologies = [
             "a": 20,
             "b": 85,
             "c": 100,
-            "d": 90,
-			"e": 15,
-			"f": 90,
-			"g": 70
+            "d": 20,
+            "e": 15,
+            "f": 50,
+            "g": 70
         }
     },
-	{
+    {
         "name": "Radical Theocracy",
-		"desc": "A very authoritarian theocractic ideology that aims to spread their religion by force.",
+        "desc": "A very authoritarian theocractic ideology that aims to spread their religion by force.",
         "i18n": {
             "de": {
                 "name": "Radical Theocracy",
@@ -663,15 +571,15 @@ ideologies = [
             "a": 40,
             "b": 85,
             "c": 100,
-            "d": 90,
-			"e": 100,
-			"f": 90,
-			"g": 70
+            "d": 10,
+            "e": 100,
+            "f": 40,
+            "g": 20
         }
     },
-	{
+    {
         "name": "Traditionalism / Reactionary Conservatism",
-		"desc": "Traditionalism is an ideology that is about preserving culture and taking a step back to restore a past system of government, whether that is imperialism or classical conservatism.",
+        "desc": "Traditionalism is an ideology that is about preserving culture and taking a step back to restore a past system of government, whether that is imperialism or classical conservatism.",
         "i18n": {
             "de": {
                 "name": "Traditionalism / Reactionary Conservatism",
@@ -687,14 +595,14 @@ ideologies = [
             "b": 20,
             "c": 80,
             "d": 70,
-			"e": 80,
-			"f": 50,
-			"g": 10
+            "e": 80,
+            "f": 50,
+            "g": 10
         }
     },
-	{
+    {
         "name": "Ecofascism",
-		"desc": "Ecofascists are basically facists but with a focus on environmental issues.",
+        "desc": "Ecofascists are basically facists but with a focus on environmental issues.",
         "i18n": {
             "de": {
                 "name": "Ecofascism",
@@ -704,43 +612,21 @@ ideologies = [
                 "name": "Ecofascism",
                 "desc": "Ecofascists are basically facists but with a focus on environmental issues."
             }
-	},
+    },
         "stats": {
             "a": 70,
             "b": 85,
             "c": 90,
-            "d": 90,
-			"e": 15,
-			"f": 90,
-			"g": 70
+            "d": 50,
+            "e": 15,
+            "f": 50,
+            "g": 70
         }
      },
-	{
-        "name": "Technoliberalism",
-		"desc": "A technocratic form of liberalism.",
-        "i18n": {
-            "de": {
-                "name": "Technoliberalism",
-                "desc": "A technocratic form of liberalism."
-            },
-            "ko": {
-                "name": "Technoliberalism",
-                "desc": "A technocratic form of liberalism."
-            }
-        },
-        "stats": {
-            "a": 80,
-            "b": 20,
-            "c": 10,
-            "d": 30,
-			"e": 30,
-			"f": 80,
-			"g": 20
-        }
-    },
-	{
+   
+    {
         "name": "Anarcho-Fascism",
-		"desc": "Anarcho-Fascism is an ideology that is a anarchist variation of fascism. It is a patriotic ideology that does not want a government installed.",
+        "desc": "Anarcho-Fascism is an ideology that is a anarchist variation of fascism. It is a patriotic ideology that does not want a government installed.",
         "i18n": {
             "de": {
                 "name": "Anarcho-Fascism",
@@ -755,15 +641,15 @@ ideologies = [
             "a": 10,
             "b": 60,
             "c": 10,
-            "d": 90,
-			"e": 15,
-			"f": 90,
-			"g": 70
+            "d": 50,
+            "e": 15,
+            "f": 50,
+            "g": 70
         }
     },
-	{
+    {
         "name": "Anarcho-Primitivism",
-		"desc": "Anprims want a society free of modern inventions. They think a simpler life, like in prehistoric times, was much happier, and wants modern society to revert back into the old days.",
+        "desc": "Anprims want a society free of modern inventions. They think a simpler life, like in prehistoric times, was much happier, and wants modern society to revert back into the old days.",
         "i18n": {
             "de": {
                 "name": "Anarcho-Primitivism",
@@ -779,14 +665,14 @@ ideologies = [
             "b": 70,
             "c": 0,
             "d": 90,
-			"e": 15,
-			"f": 0,
-			"g": 30
+            "e": 15,
+            "f": 0,
+            "g": 30
         }
     },
-	{
+    {
         "name": "Anarcho-Transhumanism",
-		"desc": "Being the opposite of primitivism, this ideology aims to bring modern technology to break through the limitations of a human body.",
+        "desc": "Being the opposite of primitivism, this ideology aims to bring modern technology to break through the limitations of a human body.",
         "i18n": {
             "de": {
                 "name": "Anarcho-Transhumanism",
@@ -799,60 +685,35 @@ ideologies = [
         },
         "stats": {
             "a": 10,
-            "b": 60,
+            "b": 40,
             "c": 10,
             "d": 90,
-			"e": 0,
-			"f": 100,
-			"g": 30
+            "e": 0,
+            "f": 90,
+            "g": 30
         }
     },
-	{
-        "name": "Classic Liberalism",
-		"desc": "Classic Liberalism view individual liberty and limited government as a basis for a free society. It is the core ideology of the founders of America.",
+    {
+        "name": "Classical Liberalism",
+        "desc": "Classical Liberalism view individual liberty and limited government as a basis for a free society. It is the core ideology of the founders of America.",
         "i18n": {
             "de": {
-                "name": "Classic Liberalism",
-                "desc": "Classic Liberalism view individual liberty and limited government as a basis for a free society. It is the core ideology of the founders of America."
+                "name": "Classical Liberalism",
+                "desc": "Classical Liberalism view individual liberty and limited government as a basis for a free society. It is the core ideology of the founders of America."
             },
             "ko": {
-                "name": "Classic Liberalism",
-                "desc": "Classic Liberalism view individual liberty and limited government as a basis for a free society. It is the core ideology of the founders of America."
+                "name": "Classical Liberalism",
+                "desc": "Classical Liberalism view individual liberty and limited government as a basis for a free society. It is the core ideology of the founders of America."
             }
         },
         "stats": {
             "a": 30,
             "b": 10,
             "c": 30,
-            "d": 80,
-			"e": 60,
-			"f": 50,
-			"g": 20
-        }
-    },
-	{
-        "name": "Anarcho-Mutualism",
-		"desc": "Anarcho-Mutualism is a ideology which emphasizes a free market, with an exchangement of goods instead of money. They are culturally left.",
-        "i18n": {
-            "de": {
-                "name": "Anarcho-Primitivism",
-                "desc": "Anarcho-Mutualism is a ideology which emphasizes a free market, with an exchangement of goods instead of money. They are culturally left."
-            },
-            "ko": {
-                "name": "Anarcho-Primitivism",
-                "desc": "Anarcho-Mutualism is a ideology which emphasizes a free market, with an exchangement of goods instead of money. They are culturally left."
-            }
-        },
-        "stats": {
-            "a": 20,
-            "b": 30,
-            "c": 0,
-            "d": 90,
-			"e": 15,
-			"f": 0,
-			"g": 30
+            "d": 40,
+            "e": 60,
+            "f": 50,
+            "g": 20
         }
     }
-	
-	
 ];
