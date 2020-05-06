@@ -593,7 +593,7 @@ questions = [
         }
     },
     {
-        "question": "Theology is a good idea.",
+        "question": "Theocracy is a good idea.",
         "i18n": {
         },
         "effect": {
