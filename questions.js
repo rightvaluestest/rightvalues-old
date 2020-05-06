@@ -212,7 +212,7 @@ questions = [
         }
     },
     {
-        "question": "We should have a minnimal government alongisde with a fully functional market.",
+        "question": "We should have a minimal government alongisde with a fully functional market.",
         "i18n": {
         },
         "effect": {
