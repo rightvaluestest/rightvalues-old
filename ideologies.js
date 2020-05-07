@@ -2,15 +2,15 @@ ideologies = [
     
     {
         "name": "Fascism",
-        "desc": "Fascism is an ideology that favours a centralized government. Fascists think a nation's power should be put in a high importance.",
+        "desc": "Fascism is an ideology that favours a centralized government, and a extremely conservative government. It is ultra-nationalist.",
         "i18n": {
             "de": {
                 "name": "Fascism",
-                "desc": "Fascism is an ideology that favours a centralized government. Fascists think a nation's power should be put in a high importance."
+                "desc": "Fascism is an ideology that favours a centralized government, and a extremely conservative government. It is ultra-nationalist."
             },
             "ko": {
                 "name": "Fascism",
-                "desc": "Fascism is an ideology that favours a centralized government. Fascists think a nation's power should be put in a high importance."
+                "desc": "Fascism is an ideology that favours a centralized government, and a extremely conservative government. It is ultra-nationalist."
             }
         },
         "stats": {
