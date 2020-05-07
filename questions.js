@@ -128,7 +128,7 @@ questions = [
     },
 //Stateown vs Market
     {
-        "question": "Everything should belong to the state.",
+        "question": "A Laissez-Faire economy leads to tyrannical monopolies.",
         "i18n": {
         },
         "effect": {
@@ -156,7 +156,7 @@ questions = [
         }
     },
     {
-        "question": "The state owning people's property leads to tyranny.",
+        "question": "Opression by corporations aren't a valid thing, because employees voluntarily work.",
         "i18n": {
         },
         "effect": {
@@ -170,7 +170,7 @@ questions = [
         }
     },
     {
-        "question": "Capitalism is a good economic system, because people gain by contributing.",
+        "question": "Regulation reduces the positive effects of Capitalism.",
         "i18n": {
         },
         "effect": {
@@ -198,12 +198,12 @@ questions = [
         }
     },
     {
-        "question": "The government is more important than the economy.",
+        "question": "The more we benefit companies, the more we benefit the individual.",
         "i18n": {
         },
         "effect": {
             "a": 0,
-            "b": 5,
+            "b": -5,
             "c": 0,
             "d": 0,
             "e": 0,
@@ -212,7 +212,7 @@ questions = [
         }
     },
     {
-        "question": "We should have a minnimal government alongisde with a fully functional market.",
+        "question": "We should have a minimal government alongisde with a fully functional market.",
         "i18n": {
         },
         "effect": {
