@@ -395,7 +395,7 @@ questions = [
         }
     },
     {
-        "question": "I prefer a constitutional momarchy over a regular monarchy.",
+        "question": "I would rather have a constitutional monarchy over an Absolute Monarchy.",
         "i18n": {
         },
         "effect": {
