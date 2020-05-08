@@ -232,15 +232,15 @@ ideologies = [
     },
     {
         "name": "Agorism",
-        "desc": "Agorists think that people could live in harmony without a state in an anarchist society, called the non-agression principle. They favour a free market.",
+        "desc": "Agorists are like the Centrists of the Anarchists. They think all human relations should be done by peaceful revolution and counter-economics.",
         "i18n": { 
             "de": {
                 "name": "Agorism",
-                "desc": "Agorists think that people could live in harmony without a state in an anarchist society, called the non-agression principle. They favour a free market."
+                "desc": "Agorists are like the Centrists of the Anarchists. They think all human relations should be done by peaceful revolution and counter-economics."
             },
             "ko": {
                 "name": "Agorism",
-                "desc": "Agorists think that people could live in harmony without a state in an anarchist society, called the non-agression principle. They favour a free market."
+                "desc": "Agorists are like the Centrists of the Anarchists. They think all human relations should be done by peaceful revolution and counter-economics."
             }
         },
         "stats": {
