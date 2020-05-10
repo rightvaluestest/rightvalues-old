@@ -156,7 +156,7 @@ questions = [
         }
     },
     {
-        "question": "Opression by corporations aren't a valid thing, because employees voluntarily work.",
+        "question": "'Opression by corporations' isn't a valid thing, because employees voluntarily work.",
         "i18n": {
         },
         "effect": {
@@ -170,7 +170,7 @@ questions = [
         }
     },
     {
-        "question": "Regulation reduces the positive effects of Capitalism.",
+        "question": "Economic regulation reduces the positive effects of Capitalism.",
         "i18n": {
         },
         "effect": {
@@ -226,7 +226,7 @@ questions = [
         }
     },
     {
-        "question": "It is necessary for the government to intervene in the economy to protect consumers.",
+        "question": "It is necessary for the government to intervene in the economy to protect its consumers.",
         "i18n": {
         },
         "effect": {
@@ -423,7 +423,7 @@ questions = [
         }
     },
     {
-        "question": "If there has to be a state, I would choose democracy over dictatorship.",
+        "question": "I would rather choose democracy over dictatorship.",
         "i18n": {
         },
         "effect": {
@@ -438,7 +438,7 @@ questions = [
     },
 //Nation (Morality) vs World (Peace)
     {
-        "question": "My nation's ideals are better than most other ideologies.",
+        "question": "My nation's ideals are better than most other nations' ideologies..",
         "i18n": {
         },
         "effect": {
@@ -649,7 +649,7 @@ questions = [
         }
     },
     {
-        "question": "Religious organizations often provide the better help compared to other non-profits.",
+        "question": "Religious organizations often provide better help compared to secular non-profits.",
         "i18n": {
         },
         "effect": {
@@ -734,7 +734,7 @@ questions = [
         }
     },
     {
-        "question": "The more we accelerate, the more risks there is.",
+        "question": "The more we accelerate, the more risks there are.",
         "i18n": {
         },
         "effect": {
@@ -749,7 +749,7 @@ questions = [
     },
 //Race vs Equality
     {
-        "question": "Each races has their own strengths and weaknesses.",
+        "question": "Each race has its own strengths and weaknesses.",
         "i18n": {
         },
         "effect": {
