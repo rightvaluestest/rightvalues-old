@@ -625,20 +625,20 @@ ideologies = [
      },
    
     {
-        "name": "Anarcho-Fascism",
-        "desc": "Anarcho-Fascism is an ideology that is a anarchist variation of fascism. It is a patriotic ideology that does not want a government installed.",
+        "name": "Third Way",
+        "desc": "Third Way is an ideology that is not what we typically call as left or right. It aims to combine the characteristics of left-wing and right-wing ideologies by having a centrist economic system.",
         "i18n": {
             "de": {
-                "name": "Anarcho-Fascism",
-                "desc": "Anarcho-Fascism is an ideology that is a anarchist variation of fascism. It is a patriotic ideology that does not want a government installed."
+                "name": "Third Way",
+                "desc": "Third Way is an ideology that is not what we typically call as left or right. It aims to combine the characteristics of left-wing and right-wing ideologies by having a centrist economic system."
             },
             "ko": {
-                "name": "Anarcho-Fascism",
-                "desc": "Anarcho-Fascism is an ideology that is a anarchist variation of fascism. It is a patriotic ideology that does not want a government installed."
+                "name": "Third Way",
+                "desc": "Third Way is an ideology that is not what we typically call as left or right. It aims to combine the characteristics of left-wing and right-wing ideologies by having a centrist economic system."
             }
         },
         "stats": {
-            "a": 10,
+            "a": 30,
             "b": 60,
             "c": 10,
             "d": 50,
