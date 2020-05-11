@@ -168,9 +168,9 @@ const i18n = {
         "ko": ["Extreme Theocrat","Theocrat","Pro Religion","Neutral","Seperation of Church and State","Secular","Anti-Theocrat"]
     },
     "result-f-label": {
-        "en": ["Extreme Accelerationism","Accelerationism","Technologically Progressive","Neutral","Technologically Conservatism","Decelerationism","Extreme Decelerationism"],
-        "de": ["Extreme Accelerationism","Accelerationism","Technologically Progressive","Neutral","Technologically Conservatism","Decelerationism","Extreme Decelerationism"],
-        "ko": ["Extreme Accelerationism","Accelerationism","Technologically Progressive","Neutral","Technologically Conservatism","Decelerationism","Extreme Decelerationism"]
+        "en": ["Extreme Accelerationism","Accelerationism","Technologically Progressive","Neutral","Technologically Conservative","Decelerationism","Extreme Decelerationism"],
+        "de": ["Extreme Accelerationism","Accelerationism","Technologically Progressive","Neutral","Technologically Conservative","Decelerationism","Extreme Decelerationism"],
+        "ko": ["Extreme Accelerationism","Accelerationism","Technologically Progressive","Neutral","Technologically Conservative","Decelerationism","Extreme Decelerationism"]
     },
     "result-g-label": {
         "en": ["Very Identitarian","Identitarian","Race Realist","Neutral","Racial Equality","Very Pro-Racial Equality","Extremely Pro-Racial Equality"],
