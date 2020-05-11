@@ -162,12 +162,12 @@ div.text-wrapper {
     display: inline-block;
 }
 div.reform {
-    background-color: #42c2f5;
+    background-color: #0c5199;
     text-align: left;
     border-right-style: solid;
 }
 div.preserve {
-    background-color: #3ea2c9;
+    background-color: #42c2f5;
     text-align: right;
     border-left-style: solid;
 }
@@ -182,12 +182,12 @@ div.market {
     border-left-style: solid;
 }
 div.central {
-    background-color: #070091;
+    background-color: #9403fc;
     text-align: right;
     border-left-style: solid;
 }
 div.decentral {
-    background-color: #010733;
+    background-color: #1fa3c4;
     text-align: left;
     border-right-style: solid;
 }
