@@ -158,24 +158,24 @@ const i18n = {
         "ko": ["Totalitarian","Authoritarian","Centralist","Neutral","Democratic","Libertarian","Anarchist"]
     },
     "result-d-label": {
-        "en": ["Extremely Globalist","Globalist","Pro-Alliances","Neutral","Nationalist","Patriot","Extremely Nationalist"],
-        "de": ["Extremely Globalist","Globalist","Pro-Alliances","Neutral","Nationalist","Patriot","Extremely Nationalist"],
-        "ko": ["Extremely Globalist","Globalist","Pro-Alliances","Neutral","Nationalist","Patriot","Extremely Nationalist"]
+        "en": ["Globalist","Pacifist","Peaceful","Neutral","Patriot","Political Moralism","Anti-Pacifist"],
+        "de": ["Globalist","Pacifist","Peaceful","Neutral","Patriot","Political Moralism","Anti-Pacifist"],
+        "ko": ["Globalist","Pacifist","Peaceful","Neutral","Patriot","Political Moralism","Anti-Pacifist"]
     },
     "result-e-label": {
-        "en": ["Theocrat","Religious","Pro Religion","Neutral","Pro Secular","Secular","Anti-Religious"],
-        "de": ["Theocrat","Religious","Pro Religion","Neutral","Pro Secular","Secular","Anti-Religious"],
-        "ko": ["Theocrat","Religious","Pro Religion","Neutral","Pro Secular","Secular","Anti-Religious"]
+        "en": ["Extreme Theocrat","Theocrat","Pro Religion","Neutral","Seperation of Church and State","Secular","Anti-Theocrat"],
+        "de": ["Extreme Theocrat","Theocrat","Pro Religion","Neutral","Seperation of Church and State","Secular","Anti-Theocrat"],
+        "ko": ["Extreme Theocrat","Theocrat","Pro Religion","Neutral","Seperation of Church and State","Secular","Anti-Theocrat"]
     },
     "result-f-label": {
-        "en": ["Extremely Pro-Industry","Very Pro-Industry","Pro-Industry","Neutral","Environmentalism","Greenism","Deep Greenism"],
-        "de": ["Extremely Pro-Industry","Very Pro-Industry","Pro-Industry","Neutral","Environmentalism","Greenism","Deep Greenism"],
-        "ko": ["Extremely Pro-Industry","Very Pro-Industry","Pro-Industry","Neutral","Environmentalism","Greenism","Deep Greenism"]
+        "en": ["Extreme Accelerationism","Accelerationism","Technologically Progressive","Neutral","Technologically Conservatism","Decelerationism","Extreme Decelerationism"],
+        "de": ["Extreme Accelerationism","Accelerationism","Technologically Progressive","Neutral","Technologically Conservatism","Decelerationism","Extreme Decelerationism"],
+        "ko": ["Extreme Accelerationism","Accelerationism","Technologically Progressive","Neutral","Technologically Conservatism","Decelerationism","Extreme Decelerationism"]
     },
     "result-g-label": {
-        "en": ["Very Identitarian","Identitarian","A little Identitarian","Neutral","Racial Equality","Very Pro-Racial Equality","Extremely Pro-Racial Equality"],
-        "de": ["Very Identitarian","Identitarian","A little Identitarian","Neutral","Racial Equality","Very Pro-Racial Equality","Extremely Pro-Racial Equality"],
-        "ko": ["Very Identitarian","Identitarian","A little Identitarian","Neutral","Racial Equality","Very Pro-Racial Equality","Extremely Pro-Racial Equality"]
+        "en": ["Very Identitarian","Identitarian","Race Realist","Neutral","Racial Equality","Very Pro-Racial Equality","Extremely Pro-Racial Equality"],
+        "de": ["Very Identitarian","Identitarian","Race Realist","Neutral","Racial Equality","Very Pro-Racial Equality","Extremely Pro-Racial Equality"],
+        "ko": ["Very Identitarian","Identitarian","Race Realist","Neutral","Racial Equality","Very Pro-Racial Equality","Extremely Pro-Racial Equality"]
     },
     
     "result-back": {
