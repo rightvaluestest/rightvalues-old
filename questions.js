@@ -212,7 +212,7 @@ questions = [
         }
     },
     {
-        "question": "We should have a minimal government alongisde with a fully functional market.",
+        "question": "We should have a minimal government alongside a fully functional market.",
         "i18n": {
         },
         "effect": {
@@ -282,7 +282,7 @@ questions = [
         }
     },
     {
-        "question": "Instead of welfare, people should use things like insurances.",
+        "question": "Instead of welfare, people should use things like insurance.",
         "i18n": {
         },
         "effect": {
@@ -367,7 +367,7 @@ questions = [
         }
     },
     {
-        "question": "I would rather have a totalitarian government than a anarchist one.",
+        "question": "I would rather have a totalitarian government than an anarchist one.",
         "i18n": {
         },
         "effect": {
@@ -395,7 +395,7 @@ questions = [
         }
     },
     {
-        "question": "I would rather have a constitutional monarchy over an Absolute Monarchy.",
+        "question": "I would rather have a constitutional monarchy than an absolute monarchy.",
         "i18n": {
         },
         "effect": {
@@ -409,7 +409,7 @@ questions = [
         }
     },
      {
-        "question": "I want a absolute monarchy, or a dictatorship like Nazism.",
+        "question": "I want an absolute monarchy, or a dictatorship like Nazism.",
         "i18n": {
         },
         "effect": {
@@ -536,7 +536,7 @@ questions = [
         }
     },
     {
-        "question": "Having too much refugees lead to frequent terrorist attacks.",
+        "question": "Having too many refugees leads to frequent terrorist attacks.",
         "i18n": {
         },
         "effect": {
@@ -664,7 +664,7 @@ questions = [
     },
 //Industry vs Nature
     {
-        "question": "A rapid technological advancement causes more bad than good.",
+        "question": "Rapid technological advancement causes more harm than good.",
         "i18n": {
         },
         "effect": {
@@ -706,7 +706,7 @@ questions = [
         }
     },
     {
-        "question": "Rather than trying to restrict factories, we should let technology advance and find a easier solution in the future.",
+        "question": "Rather than trying to restrict factories, we should let technology advance and find an easier solution in the future.",
         "i18n": {
         },
         "effect": {
@@ -720,7 +720,7 @@ questions = [
         }
     },
     {
-        "question": "Decelerating our society could mean a harder life, but it's overall worth it considering the happiness decelerating would bring.",
+        "question": "Decelerating our society could mean a harder life, but overall it's worth it considering the happiness deceleration would bring.",
         "i18n": {
         },
         "effect": {
@@ -763,7 +763,7 @@ questions = [
         }
     },
     {
-        "question": "My race is suprerior to other races, or vice versa.",
+        "question": "My race is superior to other races, or vice versa.",
         "i18n": {
         },
         "effect": {
