@@ -1,7 +1,7 @@
 questions = [
     //preserve (Conserve) vs Reform 
     {
-        "question": "If I have the ability, I will vote for a conservative party.",
+        "question": "Culturally Right-Wing parties generally fits my views.",
         "i18n": {
         },
         "effect": {
@@ -15,7 +15,21 @@ questions = [
         }
     },
     {
-        "question": "We should improve society by changing the system little by little over time.",
+        "question": "Slowly improving society by changing it little by little over time is the best way to run it.",
+        "i18n": {
+        },
+        "effect": {
+            "a": -5,
+            "b": 0,
+            "c": 0,
+            "d": 0,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
+    {
+        "question": "A crackdown of pornography is beneficial to society.",
         "i18n": {
         },
         "effect": {
@@ -43,7 +57,7 @@ questions = [
         }
     },
     {
-        "question": "Abortion should be legalized.",
+        "question": "The legalization of abortion is beneficial.",
         "i18n": {
         },
         "effect": {
@@ -57,7 +71,7 @@ questions = [
         }
     },
     {
-        "question": "Changing the current system completely is not a good idea.",
+        "question": "The negatives of rapid reform outweighs its positives.",
         "i18n": {
         },
         "effect": {
@@ -71,7 +85,7 @@ questions = [
         }
     },
     {
-        "question": "Preservation of culture is what we need.",
+        "question": "More effort needs to be done to preserve our culture.",
         "i18n": {
         },
         "effect": {
@@ -85,7 +99,21 @@ questions = [
         }
     },
     {
-        "question": "Changing the current system too quickly often leads to the worsening of people's lives.",
+        "question": "Tradition holds back societies.",
+        "i18n": {
+        },
+        "effect": {
+            "a": -5,
+            "b": 0,
+            "c": 0,
+            "d": 0,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
+    {
+        "question": "Reforming in a quick manner often leads to the worsening of people's lives.",
         "i18n": {
         },
         "effect": {
@@ -113,7 +141,7 @@ questions = [
         }
     },
      {
-        "question": "I support the LGBT movement.",
+        "question": "The LGBT movement deserves more respect.",
         "i18n": {
         },
         "effect": {
@@ -126,9 +154,23 @@ questions = [
             "g": 0
         }
     },
+    {
+        "question": "Liberalism in modern times has dissent into Post-Modernism.",
+        "i18n": {
+        },
+        "effect": {
+            "a": -5,
+            "b": 0,
+            "c": 0,
+            "d": 0,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
 //Stateown vs Market
     {
-        "question": "A Laissez-Faire economy leads to tyrannical monopolies.",
+        "question": "A Laissez-Faire economy causes monopolies to form, and worsens class divide.",
         "i18n": {
         },
         "effect": {
@@ -142,7 +184,7 @@ questions = [
         }
     },
     {
-        "question": "The freer the market, the freer the people.",
+        "question": "The phrase 'The freer the market, the freer the people' is correct in my opinion.",
         "i18n": {
         },
         "effect": {
@@ -156,7 +198,7 @@ questions = [
         }
     },
     {
-        "question": "'Opression by corporations' isn't a valid thing, because employees voluntarily work.",
+        "question": "Due to the fact that the action of joining a corporation is voluntary, there isn't true opression within corporations.",
         "i18n": {
         },
         "effect": {
@@ -170,7 +212,7 @@ questions = [
         }
     },
     {
-        "question": "Economic regulation reduces the positive effects of Capitalism.",
+        "question": "Economic regulation reduces the positive benefits of Capitalism.",
         "i18n": {
         },
         "effect": {
@@ -184,7 +226,7 @@ questions = [
         }
     },
     {
-        "question": "Most rich people deserve their money.",
+        "question": "The majority of the Rich deserve their property and money.",
         "i18n": {
         },
         "effect": {
@@ -198,7 +240,7 @@ questions = [
         }
     },
     {
-        "question": "The more we benefit companies, the more we benefit the individual.",
+        "question": "The gain of corporations directly correlate to the gain of the individual.",
         "i18n": {
         },
         "effect": {
@@ -218,7 +260,7 @@ questions = [
         "effect": {
             "a": 0,
             "b": -5,
-            "c": 0,
+            "c": -5,
             "d": 0,
             "e": 0,
             "f": 0,
@@ -268,7 +310,7 @@ questions = [
         }
     },
     {
-        "question": "We should have higher taxes in exchange for better welfare.",
+        "question": "We should increase taxxes in exchange for better welfare.",
         "i18n": {
         },
         "effect": {
@@ -282,7 +324,7 @@ questions = [
         }
     },
     {
-        "question": "Instead of welfare, people should use things like insurance.",
+        "question": "Insurance should be used by the individual, voluntarily, rather than welfare.",
         "i18n": {
         },
         "effect": {
@@ -297,6 +339,34 @@ questions = [
     },
     {
         "question": "Everyone should have free quality healthcare.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 0,
+            "b": 5,
+            "c": 0,
+            "d": 0,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
+    {
+        "question": "A regulation-free economy does not work practically.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 0,
+            "b": 5,
+            "c": 0,
+            "d": 0,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
+    {
+        "question": "Individualism is what powers society, and we should embrace it.",
         "i18n": {
         },
         "effect": {
@@ -325,7 +395,7 @@ questions = [
         }
     },
     {
-        "question": "Anarchism causes chaos.",
+        "question": "Anarchism is not a workable concept practically.",
         "i18n": {
         },
         "effect": {
@@ -353,7 +423,21 @@ questions = [
         }
     },
     {
-        "question": "Stronger government often leads to tyranny, which then leads to the death of the nation.",
+        "question": "A federal state gives more power to the individual, which is beneficial to the nation.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 0,
+            "b": 0,
+            "c": -5,
+            "d": 0,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
+    {
+        "question": "Stronger governments increases the risk of tyranny, which makes a nation very unstable.",
         "i18n": {
         },
         "effect": {
@@ -381,7 +465,7 @@ questions = [
         }
     },
     {
-        "question": "I want a monarchy, or some system similar to it.",
+        "question": "Democratic systems ultimately turn into a 2-Party system, which is not beneficial for anyone.",
         "i18n": {
         },
         "effect": {
@@ -409,7 +493,7 @@ questions = [
         }
     },
      {
-        "question": "I want an absolute monarchy, or a dictatorship like Nazism.",
+        "question": "The rule of a selfless dictator is ideal for me.",
         "i18n": {
         },
         "effect": {
@@ -438,7 +522,7 @@ questions = [
     },
 //Nation (Morality) vs World (Peace)
     {
-        "question": "My nation's ideals are better than most other nations' ideologies..",
+        "question": "My nation's ideals are better than most other nation's ideals.",
         "i18n": {
         },
         "effect": {
@@ -452,7 +536,7 @@ questions = [
         }
     },
     {
-        "question": "Rather than bombing innocent countries, we should primarily work on peace.",
+        "question": "Rather than spreading our ideals, we should primarily work on peace and particularism.",
         "i18n": {
         },
         "effect": {
@@ -466,7 +550,7 @@ questions = [
         }
     },
     {
-        "question": "Countries with authoritarian regimes should be toppled.",
+        "question": "Countries with authoritarian regimes should be invaded in order to give people overseas liberty and freedom.",
         "i18n": {
         },
         "effect": {
@@ -480,7 +564,7 @@ questions = [
         }
     },
     {
-        "question": "Alliances are beneficial.",
+        "question": "International alliances are generally beneficial.",
         "i18n": {
         },
         "effect": {
@@ -502,6 +586,20 @@ questions = [
             "b": 0,
             "c": 0,
             "d": 5,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
+    {
+        "question": "We should avoid conflict when possible.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 0,
+            "b": 0,
+            "c": 0,
+            "d": -5,
             "e": 0,
             "f": 0,
             "g": 0
@@ -536,7 +634,7 @@ questions = [
         }
     },
     {
-        "question": "Having too many refugees leads to frequent terrorist attacks.",
+        "question": "Having too much immigrants lead to economic decline and ideological radicalization.",
         "i18n": {
         },
         "effect": {
@@ -593,7 +691,7 @@ questions = [
         }
     },
     {
-        "question": "Theocracy is a good idea.",
+        "question": "Theocracy brings many benefits.",
         "i18n": {
         },
         "effect": {
@@ -635,7 +733,7 @@ questions = [
         }
     },
     {
-        "question": "Churches should be taxed.",
+        "question": "Churches should be taxed, like most other organizations.",
         "i18n": {
         },
         "effect": {
@@ -649,7 +747,35 @@ questions = [
         }
     },
     {
-        "question": "Religious organizations often provide better help compared to secular non-profits.",
+        "question": "Theocracy often leads to corruption and distortion of religion.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 0,
+            "b": 0,
+            "c": 0,
+            "d": 0,
+            "e": -5,
+            "f": 0,
+            "g": 0
+        }
+    },
+    {
+        "question": "The recent increase of depression is caused by the rise of Secularism and Atheism.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 0,
+            "b": 0,
+            "c": 0,
+            "d": 0,
+            "e": -5,
+            "f": 0,
+            "g": 0
+        }
+    },
+    {
+        "question": "Religious organizations often provide better help for the underprivileged compared to secular non-profits.",
         "i18n": {
         },
         "effect": {
@@ -679,6 +805,20 @@ questions = [
     },
     {
         "question": "Life before the industrial revolution was much better.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 0,
+            "b": 0,
+            "c": 0,
+            "d": 0,
+            "e": 0,
+            "f": -5,
+            "g": 0
+        }
+    },
+    {
+        "question": "Life is getting too complicated, and we should take a step back.",
         "i18n": {
         },
         "effect": {
@@ -734,7 +874,35 @@ questions = [
         }
     },
     {
+        "question": "Transhumanism lets us overcome challenges of our human body, which is necessary for humanity to progress further.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 0,
+            "b": 0,
+            "c": 0,
+            "d": 0,
+            "e": 0,
+            "f": -5,
+            "g": 0
+        }
+    },
+    {
         "question": "The more we accelerate, the more risks there are.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 0,
+            "b": 0,
+            "c": 0,
+            "d": 0,
+            "e": 0,
+            "f": -5,
+            "g": 0
+        }
+    },
+    {
+        "question": "We should aim for a simpler life, which brings us happiness.",
         "i18n": {
         },
         "effect": {
@@ -749,7 +917,7 @@ questions = [
     },
 //Race vs Equality
     {
-        "question": "Each race has its own strengths and weaknesses.",
+        "question": "Race is the ultimate difference between humans.",
         "i18n": {
         },
         "effect": {
@@ -763,7 +931,7 @@ questions = [
         }
     },
     {
-        "question": "My race is superior to other races, or vice versa.",
+        "question": "Ethnic Nationalism is a dangerous ideology.",
         "i18n": {
         },
         "effect": {
@@ -773,7 +941,7 @@ questions = [
             "d": 0,
             "e": 0,
             "f": 0,
-            "g": 10
+            "g": -5
         }
     },
     {
@@ -791,7 +959,7 @@ questions = [
         }
     },
     {
-        "question": "Racism is a real issue.",
+        "question": "The Nazi regime of Germany has taught us to not judge anybody by their race.",
         "i18n": {
         },
         "effect": {
@@ -801,11 +969,39 @@ questions = [
             "d": 0,
             "e": 0,
             "f": 0,
-            "g": -5
+            "g": 5
         }
     },
     {
-        "question": "Affirmative action is good.",
+        "question": "Unrest within certain regions of Africa is mainly caused by racial difference.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 0,
+            "b": 0,
+            "c": 0,
+            "d": 0,
+            "e": 0,
+            "f": 0,
+            "g": 5
+        }
+    },
+    {
+        "question": "Racism will always exist within society, so there's no point at trying to 'fix' Racism.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 0,
+            "b": 0,
+            "c": 0,
+            "d": 0,
+            "e": 0,
+            "f": 0,
+            "g": 5
+        }
+    },
+    {
+        "question": "Affirmative action should not be considered 'Racism'.",
         "i18n": {
         },
         "effect": {
