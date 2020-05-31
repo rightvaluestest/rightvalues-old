@@ -48,15 +48,15 @@ ideologies = [
     },
     {
         "name": "Absolute Monarchism",
-        "desc": "Monarchism is an authoritarian dictarship ideology that has leaders that are passed on genetically.",
+        "desc": "Monarchism is an authoritarian dictatorship ideology that has leaders that are passed on genetically.",
         "i18n": {
             "de": {
                 "name": "Absolute Monarchism",
-                "desc": "Monarchism is an authoritarian dictarship ideology that has leaders that are passed on genetically."
+                "desc": "Monarchism is an authoritarian dictatorship ideology that has leaders that are passed on genetically."
             },
             "ko": {
                 "name": "Absolute Monarchism",
-                "desc": "Monarchism is an authoritarian dictarship ideology that has leaders that are passed on genetically."
+                "desc": "Monarchism is an authoritarian dictatorship ideology that has leaders that are passed on genetically."
             }
         },
         "stats": {
@@ -509,15 +509,15 @@ ideologies = [
     },
     {
         "name": "Homofascism",
-        "desc": "Homofascists are basically facists but with a strong support for LGBT.",
+        "desc": "Homofascists are fascists but with a strong support for LGBT.",
         "i18n": {
             "de": {
                 "name": "Homofascism",
-                "desc": "Homofascists are basically facists but with a strong support for LGBT."
+                "desc": "Homofascists are fascists but with a strong support for LGBT."
             },
             "ko": {
                 "name": "Homofascism",
-                "desc": "Homofascists are basically facists but with a strong support for LGBT."
+                "desc": "Homofascists are fascists but with a strong support for LGBT."
             }
     },
         "stats": {
@@ -602,15 +602,15 @@ ideologies = [
     },
     {
         "name": "Ecofascism",
-        "desc": "Ecofascists are basically facists but with a focus on environmental issues.",
+        "desc": "Ecofascists are basically fascists but with a focus on environmental issues.",
         "i18n": {
             "de": {
                 "name": "Ecofascism",
-                "desc": "Ecofascists are basically facists but with a focus on environmental issues."
+                "desc": "Ecofascists are basically fascists but with a focus on environmental issues."
             },
             "ko": {
                 "name": "Ecofascism",
-                "desc": "Ecofascists are basically facists but with a focus on environmental issues."
+                "desc": "Ecofascists are basically fascists but with a focus on environmental issues."
             }
     },
         "stats": {
