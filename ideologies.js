@@ -371,15 +371,15 @@ ideologies = [
     },
     {
         "name": "Georgism",
-        "desc": "Georgists think that land should be a publicly owned thing, like air. They believe that if a person uses land, they should pay a land tax, and that tax would replace all other taxes.",
+        "desc": "Georgists think that land should be publicly owned. They believe that if a person uses land, they should pay a land tax, which would replace all other taxes.",
         "i18n": {
             "de": {
                 "name": "Georgism",
-                "desc": "Georgists think that land should be a publicly owned thing, like air. They believe that if a person uses land, they should pay a land tax, and that tax would replace all other taxes."
+                "desc": "Georgists think that land should be publicly owned. They believe that if a person uses land, they should pay a land tax, which would replace all other taxes."
             },
             "ko": {
                 "name": "Georgism",
-                "desc": "Georgists think that land should be a publicly owned thing, like air. They believe that if a person uses land, they should pay a land tax, and that tax would replace all other taxes."
+                "desc": "Georgists think that land should be publicly owned. They believe that if a person uses land, they should pay a land tax, which would replace all other taxes."
             }
         },
         "stats": {
@@ -394,15 +394,15 @@ ideologies = [
     },
     {
         "name": "Geo-Libertarianism",
-        "desc": "Geo-Libertarians are basically Georgists with libertarian values.",
+        "desc": "Geo-Libertarians are Georgists with libertarian values. Georgism is an economic system where land is not considered private property, but is taxed and publicly owned.",
         "i18n": {
             "de": {
                 "name": "Geo-Libertarianism",
-                "desc": "Geo-Libertarians are basically Georgists with libertarian values."
+                "desc": "Geo-Libertarians are Georgists with libertarian values. Georgism is an economic system where land is not considered private property, but is taxed and publicly owned."
             },
             "ko": {
                 "name": "Geo-Libertarianism",
-                "desc": "Geo-Libertarians are basically Georgists with libertarian values."
+                "desc": "Geo-Libertarians are Georgists with libertarian values. Georgism is an economic system where land is not considered private property, but is taxed and publicly owned."
             }
         },
         "stats": {
@@ -417,24 +417,24 @@ ideologies = [
     },
     {
         "name": "Hoppeanism",
-        "desc": "Hoppeanism is a extremely conservative kind of anarcho-capitalism.",
+        "desc": "Hoppeanism is a conservative variant of Anarcho-Capitalism. It supports a Laissez-Faire economy, and the elimination of the state.",
         "i18n": {
             "de": {
                 "name": "Hoppeanism",
-                "desc": "Hoppeanism is a extremely conservative kind of anarcho-capitalism."
+                "desc": "Hoppeanism is a conservative variant of Anarcho-Capitalism. It supports a Laissez-Faire economy, and the elimination of the state."
             },
             "ko": {
                 "name": "Hoppeanism",
-                "desc": "Hoppeanism is a extremely conservative kind of anarcho-capitalism."
+                "desc": "Hoppeanism is a conservative variant of Anarcho-Capitalism. It supports a Laissez-Faire economy, and the elimination of the state."
             }
         },
         "stats": {
             "a": 20,
-            "b": 90,
+            "b": 10,
             "c": 10,
-            "d": 50,
+            "d": 30,
             "e": 50,
-            "f": 30,
+            "f": 70,
             "g": 20
         }
     },
@@ -623,30 +623,6 @@ ideologies = [
             "g": 70
         }
      },
-   
-    {
-        "name": "Third Way",
-        "desc": "Third Way is an ideology that is not what we typically call as left or right. It aims to combine the characteristics of left-wing and right-wing ideologies by having a centrist economic system.",
-        "i18n": {
-            "de": {
-                "name": "Third Way",
-                "desc": "Third Way is an ideology that is not what we typically call as left or right. It aims to combine the characteristics of left-wing and right-wing ideologies by having a centrist economic system."
-            },
-            "ko": {
-                "name": "Third Way",
-                "desc": "Third Way is an ideology that is not what we typically call as left or right. It aims to combine the characteristics of left-wing and right-wing ideologies by having a centrist economic system."
-            }
-        },
-        "stats": {
-            "a": 30,
-            "b": 60,
-            "c": 10,
-            "d": 50,
-            "e": 15,
-            "f": 50,
-            "g": 70
-        }
-    },
     {
         "name": "Anarcho-Primitivism",
         "desc": "Anprims want a society free of modern inventions. They think a simpler life, like in prehistoric times, was much happier, and wants modern society to revert back into the old days.",
@@ -691,6 +667,52 @@ ideologies = [
             "e": 0,
             "f": 90,
             "g": 30
+        }
+    },
+    {
+        "name": "Pink Capitalism",
+        "desc": "Pink Capitalism is an ideology that aims to incorporate progressivism into capitalism. It supports a laissez-faire market, and tends to also support a minimal or non-existent government.",
+        "i18n": {
+            "de": {
+                "name": "Pink Capitalism",
+                "desc": "Pink Capitalism is an ideology that aims to incorporate progressivism into capitalism. It supports a laissez-faire market, and tends to also support a minimal or non-existent government."
+            },
+            "ko": {
+                "name": "Pink Capitalism",
+                "desc": "Pink Capitalism is an ideology that aims to incorporate progressivism into capitalism. It supports a laissez-faire market, and tends to also support a minimal or non-existent government."
+            }
+        },
+        "stats": {
+            "a": 80,
+            "b": 10,
+            "c": 10,
+            "d": 30,
+            "e": 50,
+            "f": 70,
+            "g": 20
+        }
+    },
+    {
+        "name": "Paleoconservatism",
+        "desc": "Paleoconservatism is a variant of conservatism that stresses Religion, Nationalism, and Traditionalism.",
+        "i18n": {
+            "de": {
+                "name": "Paleolibetarianism",
+                "desc": "Paleoconservatism is a variant of conservatism that stresses Religion, Nationalism, and Traditionalism."
+            },
+            "ko": {
+                "name": "Paleolibetarianism",
+                "desc": "Paleoconservatism is a variant of conservatism that stresses Religion, Nationalism, and Traditionalism."
+            }
+        },
+        "stats": {
+            "a": 20,
+            "b": 40,
+            "c": 50,
+            "d": 60,
+            "e": 60,
+            "f": 40,
+            "g": 20
         }
     },
     {
