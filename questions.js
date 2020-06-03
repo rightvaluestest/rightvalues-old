@@ -395,6 +395,20 @@ questions = [
         }
     },
     {
+        "question": "A Good Leader should have the ability to pass on the throne to their family members.",
+        "i18n": {
+        },
+        "effect": {
+            "a": 0,
+            "b": 0,
+            "c": 5,
+            "d": 0,
+            "e": 0,
+            "f": 0,
+            "g": 0
+        }
+    },
+    {
         "question": "Anarchism is not a workable concept practically.",
         "i18n": {
         },
