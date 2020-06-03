@@ -139,39 +139,16 @@ ideologies = [
         }
     },
     {
-        "name": "Unionism",
-        "desc": "Unionism is a conservative, British ideology that advocates for the union of Northern Ireland with Great Britain.",
-        "i18n": {
-            "de": {
-                "name": "Unionism",
-                "desc": "Unionism is a conservative, British ideology that advocates for the union of Northern Ireland with Great Britain."
-            },
-            "ko": {
-                "name": "Unionism",
-                "desc": "Unionism is a conservative, British ideology that advocates for the union of Northern Ireland with Great Britain."
-            }
-        },
-        "stats": {
-            "a": 20,
-            "b": 30,
-            "c": 50,
-            "d": 60,
-            "e": 60,
-            "f": 50,
-            "g": 20
-        }
-    },
-    {
         "name": "Neo-Conservatism",
-        "desc": "Neo-Conservatism is a new form of Conservatism. Neo-Conservatives think that the goal of western nations is to bring their model to the world. They are more internationally focused.",
+        "desc": "Neo-Conservatism is a form of Conservatism that disliked the Pacificist policies of Liberal parties. Neo-Conservatives think that the goal of western nations is to bring their model to the world. They are more internationally focused.",
         "i18n": {
             "de": {
                 "name": "Neo-Conservatism",
-                "desc": "Neo-Conservatism is a new form of Conservatism. Neo-Conservatives think that the goal of western nations is to bring their model to the world. They are more internationally focused."
+                "desc": "Neo-Conservatism is a form of Conservatism that disliked the Pacificist policies of Liberal parties. Neo-Conservatives think that the goal of western nations is to bring their model to the world. They are more internationally focused."
             },
             "ko": {
                 "name": "Neo-Conservatism",
-                "desc": "Neo-Conservatism is a new form of Conservatism. Neo-Conservatives think that the goal of western nations is to bring their model to the world. They are more internationally focused."
+                "desc": "Neo-Conservatism is a form of Conservatism that disliked the Pacificist policies of Liberal parties. Neo-Conservatives think that the goal of western nations is to bring their model to the world. They are more internationally focused."
             }
         },
         "stats": {
@@ -186,15 +163,15 @@ ideologies = [
     },
     {
         "name": "Libertarianism",
-        "desc": "Libertarians are generally culturally left, but fiscally conservative, and wants a much smaller state/government.",
+        "desc": "Libertarians are generally culturally left, but fiscally conservative, and wants a smaller state/government.",
         "i18n": {
             "de": {
                 "name": "Libetarianism",
-                "desc": "Libertarians are generally culturally left, but fiscally conservative, and wants a much smaller state/government."
+                "desc": "Libertarians are generally culturally left, but fiscally conservative, and wants a smaller state/government."
             },
             "ko": {
                 "name": "Libetarianism",
-                "desc": "Libertarians are generally culturally left, but fiscally conservative, and wants a much smaller state/government."
+                "desc": "Libertarians are generally culturally left, but fiscally conservative, and wants a smaller state/government."
             }
         },
         "stats": {
@@ -209,15 +186,15 @@ ideologies = [
     },
     {
         "name": "Individualist Anarchism",
-        "desc": "Individualist Anarchism is a form of anarchism which strongly advocates individualism, alongside with an anarchist government.",
+        "desc": "Individualist Anarchism is a form of anarchism which strongly advocates individualism, and also supports an Anarchist government.",
         "i18n": {
             "de": {
                 "name": "Individualist Anarchism",
-                "desc": "Individualist Anarchism is a form of anarchism which strongly advocates individualism, alongside with an anarchist government."
+                "desc": "Individualist Anarchism is a form of anarchism which strongly advocates individualism, and also supports an Anarchist government."
             },
             "ko": {
                 "name": "Individualist Anarchism",
-                "desc": "Individualist Anarchism is a form of anarchism which strongly advocates individualism, alongside with an anarchist government."
+                "desc": "Individualist Anarchism is a form of anarchism which strongly advocates individualism, and also supports an Anarchist government."
             }
         },
         "stats": {
@@ -232,15 +209,15 @@ ideologies = [
     },
     {
         "name": "Agorism",
-        "desc": "Agorists are like the Centrists of the Anarchists. They think all human relations should be done by peaceful revolution and counter-economics.",
+        "desc": "Agorists think all human relations should be done by peaceful revolution and counter-economics.",
         "i18n": { 
             "de": {
                 "name": "Agorism",
-                "desc": "Agorists are like the Centrists of the Anarchists. They think all human relations should be done by peaceful revolution and counter-economics."
+                "desc": "Agorists think all human relations should be done by peaceful revolution and counter-economics."
             },
             "ko": {
                 "name": "Agorism",
-                "desc": "Agorists are like the Centrists of the Anarchists. They think all human relations should be done by peaceful revolution and counter-economics."
+                "desc": "Agorists think all human relations should be done by peaceful revolution and counter-economics."
             }
         },
         "stats": {
@@ -255,15 +232,15 @@ ideologies = [
     },
     {
         "name": "Anarcho-Capitalism",
-        "desc": "Anarcho-Capitalism is an anarchist ideology that wants big cooperations to rule over society. It is an extreme form of anarchy and capitalism.",
+        "desc": "Anarcho-Capitalism is an anarchist ideology that puts a very high priority on Individual Rights and Liberty. It is an extreme form of anarchy and capitalism. It consideres Taxation as a form of theft.",
         "i18n": {
             "de": {
                 "name": "Anarcho-Capitalism",
-                "desc": "Anarcho-Capitalism is an anarchist ideology that wants big cooperations to rule over society. It is an extreme form of anarchy and capitalism."
+                "desc": "Anarcho-Capitalism is an anarchist ideology that puts a very high priority on Individual Rights and Liberty. It is an extreme form of anarchy and capitalism. It consideres Taxation as a form of theft."
             },
             "ko": {
                 "name": "Anarcho-Capitalism",
-                "desc": "Anarcho-Capitalism is an anarchist ideology that wants big cooperations to rule over society. It is an extreme form of anarchy and capitalism."
+                "desc": "Anarcho-Capitalism is an anarchist ideology that puts a very high priority on Individual Rights and Liberty. It is an extreme form of anarchy and capitalism. It consideres Taxation as a form of theft."
             }
         },
         "stats": {
@@ -417,15 +394,15 @@ ideologies = [
     },
     {
         "name": "Hoppeanism",
-        "desc": "Hoppeanism is a conservative variant of Anarcho-Capitalism. It supports a Laissez-Faire economy, and the elimination of the state.",
+        "desc": "Hoppeanism is a Conservative variant of Anarcho-Capitalism. It supports a Laissez-Faire economy, and the elimination of the state. It consideres Taxation as a form of theft.",
         "i18n": {
             "de": {
                 "name": "Hoppeanism",
-                "desc": "Hoppeanism is a conservative variant of Anarcho-Capitalism. It supports a Laissez-Faire economy, and the elimination of the state."
+                "desc": "Hoppeanism is a Conservative variant of Anarcho-Capitalism. It supports a Laissez-Faire economy, and the elimination of the state. It consideres Taxation as a form of theft."
             },
             "ko": {
                 "name": "Hoppeanism",
-                "desc": "Hoppeanism is a conservative variant of Anarcho-Capitalism. It supports a Laissez-Faire economy, and the elimination of the state."
+                "desc": "Hoppeanism is a Conservative variant of Anarcho-Capitalism. It supports a Laissez-Faire economy, and the elimination of the state. It consideres Taxation as a form of theft."
             }
         },
         "stats": {
@@ -439,16 +416,16 @@ ideologies = [
         }
     },
     {
-        "name": "Centre-Rightism",
-        "desc": "Centre-Rightism is a right-leaning centrist ideology. Apart from being conservative, they are neutral in most other views.",
+        "name": "Centre-Right Politics",
+        "desc": "People in the Centre-Right are right-leaning Centrists. Apart from being moderately Conservative, they are neutral in most other views.",
         "i18n": {
             "de": {
                 "name": "Centre-Rightism",
-                "desc": "Centre-Rightism is a right-leaning centrist ideology. Apart from being conservative, they are neutral in most other views."
+                "desc": "Centre-Rightism is a right-leaning centrist ideology. Apart from moderately Conservative, they are neutral in most other views."
             },
             "ko": {
                 "name": "Centre-Rightism",
-                "desc": "Centre-Rightism is a right-leaning centrist ideology. Apart from being conservative, they are neutral in most other views."
+                "desc": "Centre-Rightism is a right-leaning centrist ideology. Apart from moderately Conservative, they are neutral in most other views."
             }
         },
         "stats": {
@@ -466,7 +443,7 @@ ideologies = [
         "desc": "Green libertarians are generally libertarians with a higher importance for the environment.",
         "i18n": {
             "de": {
-                "name": "Green LibertarianismGreen Libertarianism",
+                "name": "Green Libertarianism",
                 "desc": "Green libertarians are generally libertarians with a higher importance for the environment."
             },
             "ko": {
@@ -486,15 +463,15 @@ ideologies = [
     },
     {
         "name": "Theocratic Monarchy",
-        "desc": "Theocratic monarchies are monarchies that use their god as the head of state, often using a religious organization to rule.",
+        "desc": "Theocratic Monarchies are monarchies that uses Religion as the head of state, often using a religious organization to rule.",
         "i18n": {
             "de": {
                 "name": "Theocratic Monarchy",
-                "desc": "Theocratic monarchies are monarchies that use their god as the head of state, often using a religious organization to rule."
+                "desc": "Theocratic Monarchies are monarchies that uses Religion as the head of state, often using a religious organization to rule."
             },
             "ko": {
                 "name": "Theocratic Monarchy",
-                "desc": "Theocratic monarchies are monarchies that use their god as the head of state, often using a religious organization to rule."
+                "desc": "Theocratic Monarchies are monarchies that uses Religion as the head of state, often using a religious organization to rule."
             }
         },
         "stats": {
@@ -508,16 +485,16 @@ ideologies = [
         }
     },
     {
-        "name": "Homofascism",
-        "desc": "Homofascists are fascists but with a strong support for LGBT.",
+        "name": "Homo-Fascism",
+        "desc": "Homofascists are culturally Progressive Fascists. They have a strong support for LGBT.",
         "i18n": {
             "de": {
-                "name": "Homofascism",
-                "desc": "Homofascists are fascists but with a strong support for LGBT."
+                "name": "Homo-Fascism",
+                "desc": "Homofascists are culturally Progressive Fascists. They have a strong support for LGBT."
             },
             "ko": {
-                "name": "Homofascism",
-                "desc": "Homofascists are fascists but with a strong support for LGBT."
+                "name": "Homo-Fascism",
+                "desc": "Homofascists are culturally Progressive Fascists. They have a strong support for LGBT."
             }
     },
         "stats": {
@@ -533,15 +510,15 @@ ideologies = [
     
     {
         "name": "Military Junta",
-        "desc": "A rule by the military. Usually very authoritarian, and very military focused.",
+        "desc": "Military Junta is a form of government that implements a country's military as its leadership. This ideology is usually incorporated if there is a huge interest in expansionism.",
         "i18n": {
             "de": {
                 "name": "Military Junta",
-                "desc": "A rule by the military. Usually very authoritarian, and very military focused."
+                "desc": "Military Junta is a form of government that implements a country's military as its leadership. This ideology is usually incorporated if there is a huge interest in expansionism."
             },
             "ko": {
                 "name": "Military Junta",
-                "desc": "A rule by the military. Usually very authoritarian, and very military focused."
+                "desc": "Military Junta is a form of government that implements a country's military as its leadership. This ideology is usually incorporated if there is a huge interest in expansionism."
             }
         },
         "stats": {
@@ -556,7 +533,7 @@ ideologies = [
     },
     {
         "name": "Radical Theocracy",
-        "desc": "A very authoritarian theocractic ideology that aims to spread their religion by force.",
+        "desc": "Radical Theocracy is a religious ideology that aims to spread its ideals by force. Once of the most popular variants is 'Radical Islam'.",
         "i18n": {
             "de": {
                 "name": "Radical Theocracy",
@@ -568,12 +545,12 @@ ideologies = [
             }
         },
         "stats": {
-            "a": 40,
-            "b": 85,
+            "a": 60,
+            "b": 90,
             "c": 100,
-            "d": 10,
+            "d": 0,
             "e": 100,
-            "f": 40,
+            "f": 0,
             "g": 20
         }
     },
@@ -601,16 +578,16 @@ ideologies = [
         }
     },
     {
-        "name": "Ecofascism",
-        "desc": "Ecofascists are basically fascists but with a focus on environmental issues.",
+        "name": "Eco-Fascism",
+        "desc": "Ecofascism is the combination of Fascism and Environmentalism. They have a strong focus on environmental issues.",
         "i18n": {
             "de": {
-                "name": "Ecofascism",
-                "desc": "Ecofascists are basically fascists but with a focus on environmental issues."
+                "name": "Eco-Fascism",
+                "desc": "Ecofascism is the combination of Fascism and Environmentalism. They have a strong focus on environmental issues."
             },
             "ko": {
-                "name": "Ecofascism",
-                "desc": "Ecofascists are basically fascists but with a focus on environmental issues."
+                "name": "Eco-Fascism",
+                "desc": "Ecofascism is the combination of Fascism and Environmentalism. They have a strong focus on environmental issues."
             }
     },
         "stats": {
@@ -625,15 +602,15 @@ ideologies = [
      },
     {
         "name": "Anarcho-Primitivism",
-        "desc": "Anprims want a society free of modern inventions. They think a simpler life, like in prehistoric times, was much happier, and wants modern society to revert back into the old days.",
+        "desc": "Anarcho-Primitivism aims to create a society free of modern inventions. They consider simple lives in the past was much happier, and believe the industrial revolution was a disaster for the human race.",
         "i18n": {
             "de": {
                 "name": "Anarcho-Primitivism",
-                "desc": "Anprims want a society free of modern inventions. They think a simpler life, like in prehistoric times, was much happier, and wants modern society to revert back into the old days."
+                "desc": "Anarcho-Primitivism aims to create a society free of modern inventions. They consider simple lives in the past was much happier, and believe the industrial revolution was a disaster for the human race."
             },
             "ko": {
                 "name": "Anarcho-Primitivism",
-                "desc": "Anprims want a society free of modern inventions. They think a simpler life, like in prehistoric times, was much happier, and wants modern society to revert back into the old days."
+                "desc": "Anarcho-Primitivism aims to create a society free of modern inventions. They consider simple lives in the past was much happier, and believe the industrial revolution was a disaster for the human race."
             }
         },
         "stats": {
@@ -648,15 +625,15 @@ ideologies = [
     },
     {
         "name": "Anarcho-Transhumanism",
-        "desc": "Being the opposite of primitivism, this ideology aims to bring modern technology to break through the limitations of a human body.",
+        "desc": "Anarcho-Transhumanism aims to modify the human body to overcome future challenges. They want to accomplish this through a stateless society.",
         "i18n": {
             "de": {
                 "name": "Anarcho-Transhumanism",
-                "desc": "Being the opposite of primitivism, this ideology aims to bring modern technology to break through the limitations of a human body."
+                "desc": "Anarcho-Transhumanism aims to modify the human body to overcome future challenges. They want to accomplish this through a stateless society."
             },
             "ko": {
                 "name": "Anarcho-Transhumanism",
-                "desc": "Being the opposite of primitivism, this ideology aims to bring modern technology to break through the limitations of a human body."
+                "desc": "Anarcho-Transhumanism aims to modify the human body to overcome future challenges. They want to accomplish this through a stateless society."
             }
         },
         "stats": {
@@ -665,7 +642,7 @@ ideologies = [
             "c": 10,
             "d": 90,
             "e": 0,
-            "f": 90,
+            "f": 100,
             "g": 30
         }
     },
@@ -716,16 +693,85 @@ ideologies = [
         }
     },
     {
+        "name": "Right-Wing Populism",
+        "desc": "Right-Wing Populism is an ideology that combines Right-Wing values with Populism. Right-Wing Populists are usually Nationalist, Protectionism, and support stronger restrictions on immigration.",
+        "i18n": {
+            "de": {
+                "name": "Right-Wing Populism",
+                "desc": "Right-Wing Populism is an ideology that combines Right-Wing values with Populism. Right-Wing Populists are usually Nationalist, Protectionism, and support stronger restrictions on immigration."
+            },
+            "ko": {
+                "name": "Right-Wing Populism",
+                "desc": "Right-Wing Populism is an ideology that combines Right-Wing values with Populism. Right-Wing Populists are usually Nationalist, Protectionism, and support stronger restrictions on immigration."
+            }
+        },
+        "stats": {
+            "a": 30,
+            "b": 30,
+            "c": 40,
+            "d": 70,
+            "e": 55,
+            "f": 50,
+            "g": 50
+        }
+    },
+    {
+        "name": "Civic Nationalism",
+        "desc": "Civic Nationalism combines Nationalism with Liberalism. It is a form of Nationalism that supports Liberal and Traditional (In Western Standards) values, like Freedom, Individuality, and Equality.",
+        "i18n": {
+            "de": {
+                "name": "Civic Nationalism",
+                "desc": "Civic Nationalism combines Nationalism with Liberalism. It is a form of Nationalism that supports Liberal and Traditional (In Western Standards) values, like Freedom, Individuality, and Equality."
+            },
+            "ko": {
+                "name": "Civic Nationalism",
+                "desc": "Civic Nationalism combines Nationalism with Liberalism. It is a form of Nationalism that supports Liberal and Traditional (In Western Standards) values, like Freedom, Individuality, and Equality."
+            }
+        },
+        "stats": {
+            "a": 60,
+            "b": 30,
+            "c": 35,
+            "d": 50,
+            "e": 55,
+            "f": 50,
+            "g": 50
+        }
+    },
+    {
+        "name": "Progressive Conservatism",
+        "desc": "Progressive Conservatism is the combination of Conservative and Progressive values. It believes that society needs to be reformed, but needs to be accomplished through Conservstive thinking.",
+        "i18n": {
+            "de": {
+                "name": "Progressive Conservatism",
+                "desc": "Progressive Conservatism is the combination of Conservative and Progressive values. It believes that society needs to be reformed, but needs to be accomplished through Conservstive thinking."
+            },
+            "ko": {
+                "name": "Progressive Conservatism",
+                "desc": "Progressive Conservatism is the combination of Conservative and Progressive values. It believes that society needs to be reformed, but needs to be accomplished through Conservstive thinking."
+            }
+        },
+        "stats": {
+            "a": 60,
+            "b": 30,
+            "c": 35,
+            "d": 50,
+            "e": 55,
+            "f": 50,
+            "g": 50
+        }
+    },
+    {
         "name": "Classical Liberalism",
-        "desc": "Classical Liberalism view individual liberty and limited government as a basis for a free society. It is the core ideology of the founders of America.",
+        "desc": "Classical Liberalism view individual liberty and limited government as a basis for a free society. It was one of the first ideologies with Liberal ideals.",
         "i18n": {
             "de": {
                 "name": "Classical Liberalism",
-                "desc": "Classical Liberalism view individual liberty and limited government as a basis for a free society. It is the core ideology of the founders of America."
+                "desc": "Classical Liberalism view individual liberty and limited government as a basis for a free society. It was one of the first ideologies with Liberal ideals."
             },
             "ko": {
                 "name": "Classical Liberalism",
-                "desc": "Classical Liberalism view individual liberty and limited government as a basis for a free society. It is the core ideology of the founders of America."
+                "desc": "Classical Liberalism view individual liberty and limited government as a basis for a free society. It was one of the first ideologies with Liberal ideals."
             }
         },
         "stats": {
