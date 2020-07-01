@@ -2,15 +2,15 @@ ideologies = [
     
     {
         "name": "Fascism",
-        "desc": "Fascism is an ideology that favours a centralized government, and a extremely conservative government. It is ultra-nationalist.",
+        "desc": "Fascism is a form of dictatorial ideology that embraces authoritarian ultranationalism. Giovanni Gentile founded this ideology, and famous Fascists include Benito Mussolini.",
         "i18n": {
             "de": {
                 "name": "Fascism",
-                "desc": "Fascism is an ideology that favours a centralized government, and a extremely conservative government. It is ultra-nationalist."
+                "desc": "Fascism is a form of dictatorial ideology that embraces authoritarian ultranationalism. Giovanni Gentile founded this ideology, and famous Fascists include Benito Mussolini."
             },
             "ko": {
                 "name": "Fascism",
-                "desc": "Fascism is an ideology that favours a centralized government, and a extremely conservative government. It is ultra-nationalist."
+                "desc": "Fascism is a form of dictatorial ideology that embraces authoritarian ultranationalism. Giovanni Gentile founded this ideology, and famous Fascists include Benito Mussolini."
             }
         },
         "stats": {
@@ -25,15 +25,15 @@ ideologies = [
     },
     {
         "name": "Nazism",
-        "desc": "Nazism is a form of Fascism that is a bit more radical, and values the race of people more. It is the ideology of the Third Reich.",
+        "desc": "Nazism is a form of Fascism that assigns power and opportunity based on Race and Ethnicity. It was the ideology of the Nazi Party, which was founded by Anton Drexler and popularized by Adolf Hitler.",
         "i18n": {
             "de": {
                 "name": "Nazism",
-                "desc": "Nazism is a form of Fascism that is a bit more radical, and values the race of people more. It is the ideology of the Third Reich."
+                "desc": "Nazism is a form of Fascism that assigns power and opportunity based on Race and Ethnicity. It was the ideology of the Nazi Party, which was founded by Anton Drexler and popularized by Adolf Hitler."
             },
             "ko": {
                 "name": "Nazism",
-                "desc": "Nazism is a form of Fascism that is a bit more radical, and values the race of people more. It is the ideology of the Third Reich."
+                "desc": "Nazism is a form of Fascism that assigns power and opportunity based on Race and Ethnicity. It was the ideology of the Nazi Party, which was founded by Anton Drexler and popularized by Adolf Hitler."
             }
         },
         "stats": {
@@ -48,15 +48,15 @@ ideologies = [
     },
     {
         "name": "Absolute Monarchism",
-        "desc": "Monarchism is an authoritarian dictatorship ideology that has leaders that are passed on genetically.",
+        "desc": "Absolute Monarchism is an authoritarian dictatorial ideology. Monarchs have absolute power, and leaders are passed on genetically.",
         "i18n": {
             "de": {
                 "name": "Absolute Monarchism",
-                "desc": "Monarchism is an authoritarian dictatorship ideology that has leaders that are passed on genetically."
+                "desc": "Absolute Monarchism is an authoritarian dictatorial ideology. Monarchs have absolute power, and leaders are passed on genetically."
             },
             "ko": {
                 "name": "Absolute Monarchism",
-                "desc": "Monarchism is an authoritarian dictatorship ideology that has leaders that are passed on genetically."
+                "desc": "Absolute Monarchism is an authoritarian dictatorial ideology. Monarchs have absolute power, and leaders are passed on genetically."
             }
         },
         "stats": {
@@ -71,15 +71,15 @@ ideologies = [
     },
     {
         "name": "Feudalism",
-        "desc": "Feudalism is a type of Monarchism, where the leader gives a person some land, and that person rules over that piece of land, which he could give some to another person, etc. It is a class-based system.",
+        "desc": "Feudalism is a Medieval European ideology, where classes give Food, Protection, and Money (Depending on the class) to its upper class in exchange for land.",
         "i18n": {
             "de": {
                 "name": "Feudalism",
-                "desc": "Feudalism is a type of Monarchism, where the leader gives a person some land, and that person rules over that piece of land, which he could give some to another person, etc. It is a class-based system."
+                "desc": "Feudalism is a Medieval European ideology, where classes give Food, Protection, and Money (Depending on the class) to its upper class in exchange for land."
             },
             "ko": {
                 "name": "Feudalism",
-                "desc": "Feudalism is a type of Monarchism, where the leader gives a person some land, and that person rules over that piece of land, which he could give some to another person, etc. It is a class-based system."
+                "desc": "Feudalism is a Medieval European ideology, where classes give Food, Protection, and Money (Depending on the class) to its upper class in exchange for land."
             }
         },
         "stats": {
@@ -94,15 +94,15 @@ ideologies = [
     },
     {
         "name": "Constitutional Monarchism",
-        "desc": "Constitutional Monarchism is a form of Monarchism where the leader has a lot of power, but needs to follow a constitution to rule.",
+        "desc": "Constitutional Monarchism is a variant of Monarchism, where the ruling Monarch needs to follow a constitution in order to rule. It is present in European Countries like the UK, Spain, Sweden etc.",
         "i18n": {
             "de": {
                 "name": "Constitutional Monarchism",
-                "desc": "Constitutional Monarchism is a form of Monarchism where the leader has a lot of power, but needs to follow a constitution to rule."
+                "desc": "Constitutional Monarchism is a variant of Monarchism, where the ruling Monarch needs to follow a constitution in order to rule. It is present in European Countries like the UK, Spain, Sweden etc."
             },
             "ko": {
                 "name": "Constitutional Monarchism",
-                "desc": "Constitutional Monarchism is a form of Monarchism where the leader has a lot of power, but needs to follow a constitution to rule."
+                "desc": "Constitutional Monarchism is a variant of Monarchism, where the ruling Monarch needs to follow a constitution in order to rule. It is present in European Countries like the UK, Spain, Sweden etc."
             }
         },
         "stats": {
