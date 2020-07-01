@@ -155,7 +155,7 @@ questions = [
         }
     },
     {
-        "question": "Liberalism in modern times has dissent into Post-Modernism.",
+        "question": "Liberalism in modern times has descended into Post-Modernism.",
         "i18n": {
         },
         "effect": {
@@ -310,7 +310,7 @@ questions = [
         }
     },
     {
-        "question": "We should increase taxxes in exchange for better welfare.",
+        "question": "We should increase taxes in exchange for better welfare.",
         "i18n": {
         },
         "effect": {
