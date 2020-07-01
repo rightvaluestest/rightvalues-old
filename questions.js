@@ -198,7 +198,7 @@ questions = [
         }
     },
     {
-        "question": "Due to the fact that the action of joining a corporation is voluntary, there isn't true opression within corporations.",
+        "question": "Due to the fact that the action of joining a corporation is voluntary, there isn't true oppression within corporations.",
         "i18n": {
         },
         "effect": {
