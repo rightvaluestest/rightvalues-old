@@ -71,15 +71,15 @@ ideologies = [
     },
     {
         "name": "Feudalism",
-        "desc": "Feudalism is a Medieval European ideology, where classes give Food, Protection, and Money (Depending on the class) to its upper class in exchange for land.",
+        "desc": "Feudalism is an ideology, where classes give Food, Protection, and Money (Depending on the class) to its upper class in exchange for land.",
         "i18n": {
             "de": {
                 "name": "Feudalism",
-                "desc": "Feudalism is a Medieval European ideology, where classes give Food, Protection, and Money (Depending on the class) to its upper class in exchange for land."
+                "desc": "Feudalism is an ideology, where classes give Food, Protection, and Money (Depending on the class) to its upper class in exchange for land."
             },
             "ko": {
                 "name": "Feudalism",
-                "desc": "Feudalism is a Medieval European ideology, where classes give Food, Protection, and Money (Depending on the class) to its upper class in exchange for land."
+                "desc": "Feudalism is an ideology, where classes give Food, Protection, and Money (Depending on the class) to its upper class in exchange for land."
             }
         },
         "stats": {
@@ -117,15 +117,15 @@ ideologies = [
     },
     {
         "name": "Conservatism",
-        "desc": "Conservatism is an ideology that is mainly about preserving the western political model. They want a small government, large military spending and low taxes. It is one of the most popular right-wing ideologies in the West.",
+        "desc": "Conservatism is an ideology that is mainly about preserving the status quo. Conservatives usually support diplomatic interventionism, a larger military spending and lower taxes.",
         "i18n": {
             "de": {
                 "name": "Conservatism",
-                "desc": "Conservatism is an ideology that is mainly about preserving the western political model. They want a small government, large military spending and low taxes.It is one of the most popular right-wing ideologies in the West."
+                "desc": "Conservatism is an ideology that is mainly about preserving the status quo. Conservatives usually support diplomatic interventionism, a larger military spending and lower taxes."
             },
             "ko": {
                 "name": "Conservatism",
-                "desc": "Conservatism is an ideology that is mainly about preserving the western political model. They want a small government, large military spending and low taxes.It is one of the most popular right-wing ideologies in the West."
+                "desc": "Conservatism is an ideology that is mainly about preserving the status quo. Conservatives usually support diplomatic interventionism, a larger military spending and lower taxes."
             }
         },
         "stats": {
@@ -163,15 +163,15 @@ ideologies = [
     },
     {
         "name": "Libertarianism",
-        "desc": "Libertarians are generally culturally left, but fiscally conservative, and wants a smaller state/government.",
+        "desc": "Libertarians are generally culturally left, but fiscally conservative, and wants a smaller state/government, as well as the abolition of involuntary taxes.",
         "i18n": {
             "de": {
                 "name": "Libetarianism",
-                "desc": "Libertarians are generally culturally left, but fiscally conservative, and wants a smaller state/government."
+                "desc": "Libertarians are generally culturally left, but fiscally conservative, and wants a smaller state/government, as well as the abolition of involuntary taxes."
             },
             "ko": {
                 "name": "Libetarianism",
-                "desc": "Libertarians are generally culturally left, but fiscally conservative, and wants a smaller state/government."
+                "desc": "Libertarians are generally culturally left, but fiscally conservative, and wants a smaller state/government, as well as the abolition of involuntary taxes."
             }
         },
         "stats": {
@@ -507,30 +507,6 @@ ideologies = [
             "g": 70
         }
      },
-    
-    {
-        "name": "Military Junta",
-        "desc": "Military Junta is a form of government that implements a country's military as its leadership. This ideology is usually incorporated if there is a huge interest in expansionism.",
-        "i18n": {
-            "de": {
-                "name": "Military Junta",
-                "desc": "Military Junta is a form of government that implements a country's military as its leadership. This ideology is usually incorporated if there is a huge interest in expansionism."
-            },
-            "ko": {
-                "name": "Military Junta",
-                "desc": "Military Junta is a form of government that implements a country's military as its leadership. This ideology is usually incorporated if there is a huge interest in expansionism."
-            }
-        },
-        "stats": {
-            "a": 20,
-            "b": 85,
-            "c": 100,
-            "d": 20,
-            "e": 15,
-            "f": 50,
-            "g": 70
-        }
-    },
     {
         "name": "Radical Theocracy",
         "desc": "Radical Theocracy is a religious ideology that aims to spread its ideals by force. Once of the most popular variants is 'Radical Islam'.",
