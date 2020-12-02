@@ -21,7 +21,7 @@
 </head>
 <body>
 <script type="application/javascript"
-        src="questions.js">
+        src="quiz/questions.js">
 </script>
 <h1>RightValues</h1>
 <hr>
@@ -105,7 +105,7 @@
         return (100*(max+score)/(2*max)).toFixed(1)
     }
     function results() {
-        location.href = `results.html`
+        location.href = `quiz/results.html`
             + `?a=${calc_score(a,max_a)}`
             + `&b=${calc_score(b,max_b)}`
             + `&c=${calc_score(c,max_c)}`
