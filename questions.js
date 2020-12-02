@@ -29,7 +29,7 @@ questions = [
         }
     },
     {
-        "question": "A crackdown of pornography is beneficial to society.",
+        "question": "A crackdown on pornography is beneficial to society.",
         "i18n": {
         },
         "effect": {
@@ -198,7 +198,7 @@ questions = [
         }
     },
     {
-        "question": "Due to the fact that the action of joining a corporation is voluntary, there isn't true oppression within corporations.",
+        "question": "Because joining a corporation is voluntary, there isn't true oppression within corporations.",
         "i18n": {
         },
         "effect": {
@@ -395,7 +395,7 @@ questions = [
         }
     },
     {
-        "question": "A Good Leader should have the ability to pass on the throne to their family members.",
+        "question": "A good leader should have the ability to pass on the throne to their family members.",
         "i18n": {
         },
         "effect": {
