@@ -80,7 +80,7 @@ const i18n = {
         "ko": "뒤로"
     },
     "quiz-question-of": {
-        en(qn, questions) {return `Question ${qn + 1} of ${questions.length}`},
+        en(qn, questions) {return `問${qn + 1}（全${questions.length}問）`},
         de(qn, questions) {return `Frage ${qn +1} von ${questions.length}`},
         ko(qn, questions) {return `${questions.length}개 질문 중 ${qn +1} 번째`}
     },
@@ -143,37 +143,37 @@ const i18n = {
     },
     
        "result-a-label": {
-        "en": ["Revolutionary","Progressive","Reformist","Neutral","Conservative","Traditionalist","Reactionary"],
+        "en": ["革命主義","進歩主義","革新派","中立","保守派","伝統主義","復古主義"],
         "de": ["Reactionary","Progressive","Reformist","Neutral","Conservative","Traditionalist","Reactionary"],
         "ko": ["Reactionary","Progressive","Reformist","Neutral","Conservative","Traditionalist","Reactionary"]
     },
     "result-b-label": {
-        "en": ["Planned Economy","Interventionist","Regulationist","Neutral","Limited Regulation","Free-Markets","Laissez-faire"],
+        "en": ["計画経済","介入主義","介入派","中立","最小限の介入","自由市場主義","レッセフェール"],
         "de": ["Planned Economy","Interventionist","Regulationist","Neutral","Limited Regulation","Free-Markets","Laissez-faire"],
         "ko": ["Planned Economy","Interventionist","Regulationist","Neutral","Limited Regulation","Free-Markets","Laissez-faire"]
     },
     "result-c-label": {
-        "en": ["Totalitarian","Authoritarian","Statist","Neutral","Democratic","Libertarian","Anarchist"],
+        "en": ["全体主義","権威主義","国家重視","中立","民主主義","自由至上主義","無政府主義"],
         "de": ["Totalitarian","Authoritarian","Statist","Neutral","Democratic","Libertarian","Anarchist"],
         "ko": ["Totalitarian","Authoritarian","Statist","Neutral","Democratic","Libertarian","Anarchist"]
     },
     "result-d-label": {
-        "en": ["Relativist","Particularist","Pacifist","Neutral","Diplomatic Interventionism","Universalism","Imperialism"],
+        "en": ["相対主義","特殊主義","平和重視","中立","介入主義寄り","普遍主義","帝国主義"],
         "de": ["Relativist","Particularist","Pacifist","Neutral","Diplomatic Interventionism","Universalism","Imperialism"],
         "ko": ["Relativist","Particularist","Pacifist","Neutral","Diplomatic Interventionism","Universalism","Imperialism"]
     },
     "result-e-label": {
-        "en": ["Theocrat","Religious Authoritarianism","Religious Influence","Neutral","Anti-clericalism","Secular State","Antitheism"],
+        "en": ["神権政治","宗教的権威主義","教会国家寄り","中立","反聖職権","世俗国家","政教分離"],
         "de": ["Theocrat","Religious Authoritarianism","Religious Influence","Neutral","Anti-clericalism","Secular State","Antitheism"],
         "ko": ["Theocrat","Religious Authoritarianism","Religious Influence","Neutral","Anti-clericalism","Secular State","Antitheism"]
     },
     "result-f-label": {
-        "en": ["Transhumanism","Accelerationism","Pro-Technology","Neutral","Humanism","Decelerationism","Primitivism"],
+        "en": ["超人間主義","科学発展重視","科学賛成派","中立","慎重派","科学減速主義","原始主義"],
         "de": ["Transhumanism","Accelerationism","Pro-Technology","Neutral","Humanism","Decelerationism","Primitivism"],
         "ko": ["Transhumanism","Accelerationism","Pro-Technology","Neutral","Humanism","Decelerationism","Primitivism"]
     },
     "result-g-label": {
-        "en": ["Identitarian","Ethnic Nationalist","Race Realist","Neutral","Racial Equality","Anti-Racism","Racial Color Blindness"],
+        "en": ["排外主義","国粋主義","人種主義寄り","中立","人権重視","反人種主義","人種による区別を否定"],
         "de": ["Identitarian","Ethnic Nationalist","Race Realist","Neutral","Racial Equality","Anti-Racism","Racial Color Blindness"],
         "ko": ["Identitarian","Ethnic Nationalist","Race Realist","Neutral","Racial Equality","Anti-Racism","Racial Color Blindness"]
     },

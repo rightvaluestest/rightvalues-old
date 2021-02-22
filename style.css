@@ -43,7 +43,14 @@ p.question {
     justify-content: center;
     align-items: center;
     text-align: center;
-
+}
+p.ideodesc {
+	font-family: 'Montserrat', sans-serif;
+    color: #333333;
+    font-size: 18pt;
+    line-height: 18pt;
+    margin-top: 12pt;
+    margin-bottom: 0pt;
 }
 h1 {
     color: #222222;
