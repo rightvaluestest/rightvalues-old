@@ -43,12 +43,3 @@ replaced <h3> with <p class="ideodesc">
 
 #rus/style.css
 p.ideodesc{}
-
-#ja/
-I've put all my translations in here. I thought I should follow the three letter rule like "rus", but I didn't think "jap" would be appropriate.
-I've also notices that Japanese characters are not be displayed cleanly, so I have replaced Roboto and Montserrat with another font called "MORI PLUS 1p". I have also changed the CSS to utilise the font, and added some spaces between elements because the default styling does not work well with Japanese; it tends to make things look more stuffy. If this is a problem, however, I am happy to change it back.
-
-I have also added meta description to the index page, since I guessed that most Japanese who would land on this page would come through Google search.
-
-#[no JA translation]rightvaluestest.github.io
-I have deleted all reference to the Japanese translation, in case you decide not to implement it. 
