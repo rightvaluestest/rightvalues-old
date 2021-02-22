@@ -45,6 +45,13 @@ p.question {
     text-align: center;
 
 }
+p.result-description {
+   color: #333333;
+    font-size: 18pt;
+    line-height: 18pt;
+    margin-top: 12pt;
+    margin-bottom: 0pt;
+}
 h1 {
     color: #222222;
     font-family: 'Montserrat', sans-serif;
