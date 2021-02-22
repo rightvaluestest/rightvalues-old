@@ -1015,7 +1015,7 @@ questions = [
         }
     },
     {
-        "question": "Affirmative action should not be considered 'Racism'.",
+        "question": "Affirmative action is reverse discrimination.",
         "i18n": {
         },
         "effect": {
