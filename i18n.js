@@ -143,7 +143,7 @@ const i18n = {
     },
     
        "result-a-label": {
-        "en": ["Reactionary","Progressive","Reformist","Neutral","Conservative","Traditionalist","Reactionary"],
+        "en": ["Revolutionary","Progressive","Reformist","Neutral","Conservative","Traditionalist","Reactionary"],
         "de": ["Reactionary","Progressive","Reformist","Neutral","Conservative","Traditionalist","Reactionary"],
         "ko": ["Reactionary","Progressive","Reformist","Neutral","Conservative","Traditionalist","Reactionary"]
     },
