@@ -416,8 +416,8 @@ ideologies = [
         }
     },
     {
-        "name": "Centre-Right Politics",
-        "desc": "People in the Centre-Right are right-leaning Centrists. Apart from being moderately Conservative, they are neutral in most other views.",
+        "name": "Center-Right Politics",
+        "desc": "People in the Center-Right are right-leaning Centrists. Apart from being moderately Conservative, they are neutral in most other views.",
         "i18n": {
             "de": {
                 "name": "Centre-Rightism",
