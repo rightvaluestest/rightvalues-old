@@ -1015,7 +1015,7 @@ questions = [
         }
     },
     {
-        "question": "Affirmative action is reverse discrimination.",
+        "question": "Affirmative action is reverse racism",
         "i18n": {
         },
         "effect": {
