@@ -13,89 +13,91 @@
 </script>
 
 <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700%7CRoboto:400,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=M+PLUS+1p:300,400,700" rel="stylesheet">
 <link href='style.css' rel='stylesheet' type='text/css'>
-<title>RightValues Results</title>
-<link rel="icon" type="image/png" href="icon.png">
-<link rel="shortcut icon" type="image/png" href="icon.png">
+<title>診断結果｜RightValues</title>
+<link rel="icon" type="image/png" href="../icon.png">
+<link rel="shortcut icon" type="image/png" href="../icon.png">
 <meta charset="utf-8">
+<meta http-equiv="content-language" content="ja">
 
 <script type="application/javascript" src="quizideologies.js"> </script>
 </head>
 <body>
 <script src="quiz/ideologies.js"> </script>
+
 <h1>RightValues</h1>
 <hr>
-<h1 data-i18n="result-h1">Результаты</h1>
+<h1 class="results" data-i18n="result-h1">診断結果</h1>
 
-<h2>
-<span class="weight-300" id="a-label"></span></h2>
+<h2 class="results"><span class="weight-300" id="a-label"></span></h2>
 <div class="axis">
-    <img id="img-reform" src="value_images/reform.png" height="128pt"/>
+    <img id="img-reform" src="../value_images/reform.png" height="128pt"/>
     <div class="bar reform" id="bar-reform"><div class="text-wrapper" id="reform">
 	</div></div>
     <div class="bar preserve" id="bar-preserve"><div class="text-wrapper" id="preserve"></div></div>
-    <img id="img-preserve" src="value_images/preserve.png" height="128pt"/>
+    <img id="img-preserve" src="../value_images/preserve.png" height="128pt"/>
 </div>
-<h2><span class="weight-300" id="b-label"></span></h2>
+<h2 class="results"><span class="weight-300" id="b-label"></span></h2>
 <div class="axis">
-    <img id="img-stateown" src="value_images/stateown.png" height="128pt"/>
+    <img id="img-stateown" src="../value_images/stateown.png" height="128pt"/>
     <div class="bar stateown" id="bar-stateown"><div class="text-wrapper" id="stateown"></div></div>
     <div class="bar market" id="bar-market"><div class="text-wrapper" id="market"></div></div>
-    <img id="img-market" src="value_images/market.png" height="128pt"/>
+    <img id="img-market" src="../value_images/market.png" height="128pt"/>
 </div>
-<h2><span class="weight-300" id="c-label"></span></h2>
+<h2 class="results"><span class="weight-300" id="c-label"></span></h2>
 <div class="axis">
-    <img id="img-central" src="value_images/central.png" height="128pt"/>
+    <img id="img-central" src="../value_images/central.png" height="128pt"/>
     <div class="bar central" id="bar-central"><div class="text-wrapper" id="central"></div></div>
     <div class="bar decentral" id="bar-decentral"><div class="text-wrapper" id="decentral"></div></div>
-    <img id="img-decentral" src="value_images/decentral.png" height="128pt"/>
+    <img id="img-decentral" src="../value_images/decentral.png" height="128pt"/>
 </div>
-<h2><span class="weight-300" id="d-label"></span></h2>
+<h2 class="results"><span class="weight-300" id="d-label"></span></h2>
 <div class="axis">
-    <img id="img-world" src="value_images/world.png" height="128pt"/>
+    <img id="img-world" src="../value_images/world.png" height="128pt"/>
     <div class="bar world" id="bar-world"><div class="text-wrapper" id="world"></div></div>
     <div class="bar nation" id="bar-nation"><div class="text-wrapper" id="nation"></div></div>
-    <img id="img-nation" src="value_images/nation.png" height="128pt"/>
+    <img id="img-nation" src="../value_images/nation.png" height="128pt"/>
 </div>
-<h2><span class="weight-300" id="e-label"></span></h2>
+<h2 class="results"><span class="weight-300" id="e-label"></span></h2>
 <div class="axis">
-    <img id="img-religious" src="value_images/religious.png" height="128pt"/>
+    <img id="img-religious" src="../value_images/religious.png" height="128pt"/>
     <div class="bar religious" id="bar-religious"><div class="text-wrapper" id="religious"></div></div>
     <div class="bar secular" id="bar-secular"><div class="text-wrapper" id="secular"></div></div>
-    <img id="img-secular" src="value_images/secular.png" height="128pt"/>
+    <img id="img-secular" src="../value_images/secular.png" height="128pt"/>
 </div>
-<h2><span class="weight-300" id="f-label"></span></h2>
+<h2 class="results"><span class="weight-300" id="f-label"></span></h2>
 <div class="axis">
-    <img id="img-economy" src="value_images/economy.png" height="128pt"/>
+    <img id="img-economy" src="../value_images/economy.png" height="128pt"/>
     <div class="bar economy" id="bar-economy"><div class="text-wrapper" id="economy"></div></div>
     <div class="bar nature" id="bar-nature"><div class="text-wrapper" id="nature"></div></div>
-    <img id="img-nature" src="value_images/nature.png" height="128pt"/>
+    <img id="img-nature" src="../value_images/nature.png" height="128pt"/>
 </div>
-<h2><span class="weight-300" id="g-label"></span></h2>
+<h2 class="results"><span class="weight-300" id="g-label"></span></h2>
 <div class="axis">
-    <img id="img-race" src="value_images/race.png" height="128pt"/>
+    <img id="img-race" src="../value_images/race.png" height="128pt"/>
     <div class="bar race" id="bar-race"><div class="text-wrapper" id="race"></div></div>
     <div class="bar equality" id="bar-equality"><div class="text-wrapper" id="equality"></div></div>
-    <img id="img-equality" src="value_images/equality.png" height="128pt"/>
+    <img id="img-equality" src="../value_images/equality.png" height="128pt"/>
 </div>
 <br><br>
-<h1>Идеологии:</h1>
+<h1 class="results">思想判定</h1>
 <hr>
-<h2>Ближайшее совпадение: <span class="weight-300" id="ideology-label"></span></h2>
+<h2 class="results">あなたにもっとも近い思想：<span class="weight-300" id="ideology-label"></span></h2>
 <p class="ideodesc"><span class="weight-300" id="ideodesc-label"></span></p>
-<p><br>Вы можете отправить эти результаты, скопировав и вставив URL-адрес в верхней части страницы..</p>
-<h2>Другие идеологии</h2>
-    <p>С вашим ближайшим совпадением 100% и самым дальним 0%, вот насколько близко вы соответствуете другим идеологиям:</p>
+<p><br>URLをコピー、またはページ下部の画像を保存することで診断結果をシェアできます。</p>
+<h2 class="results">その他の近い思想</h2>
+    <p>もっとも近い思想を100%、もっとも遠いものを0％として、あなたの思想との距離を示しています。</p>
 <dl id="next-matches"></dl>
 
 
 <hr>
-<h2>Мне не нравятся мои результаты!</h2>
-    <p>Помните, что вы не предназначены набрать 100% ни в одной из категорий. Суть теста - проверить ваши взгляды. Если у вас есть предложения или конструктивная критика, заполните эту <a href="https://forms.gle/Puc4sjaSQqvwNu6q8">форму</a>.</p>
+<h2>結果が気に入らん！</h2>
+    <p>いずれの軸についても、100％をとる必要はありません。ご自身の価値観を把握し、問い直すためにご活用ください。その上で、改善に役立つご批判やご提案がございましたら、 <a href="https://forms.gle/Puc4sjaSQqvwNu6q8">こちら</a>よりご連絡ください。</p>
 <hr/>
 
     <canvas id="banner" width=800 height=1000 style="font-family:Montserrat"></canvas>
-<button class="button" onclick="location.href='index.html';" style="font-size:18pt;">Назад</button>
+<button class="button" onclick="location.href='index.html';" style="font-size:18pt;">戻る</button>
 
 <!-- JavaScript for the test itself -->
 <script type="application/javascript" src="i18n.js"></script>

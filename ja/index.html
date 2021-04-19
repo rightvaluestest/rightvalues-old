@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<head>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-165261047-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-165261047-1');
+</script>
+
+
+<link href="https://fonts.googleapis.com/css2?family=M+PLUS+1p:300,400,700" rel="stylesheet">
+<link href='style.css' rel='stylesheet' type='text/css'>
+<title>RightValues</title>
+<link rel="icon" type="image/png" href="../icon.png">
+<link rel="shortcut icon" type="image/png" href="../icon.png">
+<meta charset="utf-8">
+<meta http-equiv="content-language" content="ja">
+<meta name="description" content="質問に答えることで、あなたの価値観や似た立場の政治思想を知ることができる、右派/右翼向け政治診断テストです。">
+<meta name="google-site-verification" content="RkqiE7Cf34S7DX2hjmhJSYeYTprYnAU8Zncvznrc0HY" />
+</head>
+<body>
+<a href="https://github.com/rightvaluestest/rightvaluestest.github.io" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
+
+<select name="select" onChange="location.href=value;">
+  <option value="#">日本語 (By Choux)</option>
+  <option value="../index.html">English (original)</option>
+  <option value="../rus/index.html">Pусский (By LadomirXlebnikov)</option>
+</select>
+
+
+<h1>RightValues</h1>
+<hr>
+<button class="button" onclick="location.href='instructions.html';" style="font-size:36pt;">診断する</button>
+<img src="../img/allvalues.png" class="center" alt="The values being differentiated in this quiz" />
+
+<h2>RightValuesとは?</h2>
+    <p data-i18n="index-p-answer">RightValuesとは、 <a href="https://leftvalues.github.io/ target="_blank" rel="noopener noreferrer">LeftValues</a>から着想を得た、右派／右翼向け政治診断です。右のなかでも、あなたがどのような価値観をもっているのか診断します。 左寄りの方は正しい結果が得られませんので、LeftValuesをご利用ください。この診断では、表示される各文に対してどう考えるか、<b>「つよく同意する」</b>から<b>「まったく同意しない」</b>の範囲より答えていただきます。選択に応じてスコアがつけられ、最後まで回答すると、それぞれの価値観について取り得る最大スコアを100％とした確率が表示されます。正直にお答えください！<br /><br />
+    質問は、全部で<b><u><span id="numOfQuestions"></span></u></b>問あります。</p>
+
+<h2>診断結果について</h2>
+  <p>診断は、次に示す6つの「主軸」に基づいて下されます。各主軸は、対極の価値観同士を端に配置してあります。</p>
+
+  <p class="value-description"><b style="color:#0c5199;">進歩</b> <b>vs.</b> <b style="color:#42c2f5;">保守</b> (「文化」軸)<br/>あなたがリベラルか、保守かを表します。一方、「進歩」のスコアが高い方は、社会を革新させようとする政策や価値観を支持する傾向にあります。「進歩」寄りの方は文化左翼的な思想をもち、LGBTQの権利や人工妊娠中絶が合法であることを支持する傾向にあります。一方、「保守」寄りの方は伝統をまもることを重視し、大麻の解禁や中絶の権利の合法化に否定的な傾向があります。</p>
+
+	<p class="value-description"><b style="color:#174f8a;">介入</b> <b>vs.</b> <b style="color:#c7c406;">放任</b> (「経済」軸)<br/>「介入」のスコアが高い方は、政府が経済へ介入・干渉することに賛成します。「放任」派の方は、これらのことに否定的です。</p>
+
+	<p class="value-description"><b style="color:#9403fc;">専制</b> <b>vs.</b> <b style="color:#1fa3c4;">憲法</b> (「国家」軸)<br/>	「専制」寄りの方は、支配者の権利拡大に好意的です。一方、「憲法」寄りの方は支配層が憲法に制限されることを、さらに場合によっては他者の権利侵害を規制する基本原則（不可侵原則; Non-aggression principle）を前提とした無政府体制を、支持します。</p>
+		
+	<p class="value-description"><b style="color:#90bcd6;">自国</b> <b>vs.</b> <b style="color:#7F3300;">世界</b> (「外交」軸)<br/>「自国」のスコアが高い方は、他国の政策への介入に反対し、国内の問題解決や治安維持を望みます。一方、「世界」寄りの方は、自国ないしは国際社会のために、腐敗した政権や国家の転覆および廃止を積極的に望みます。</p>
+
+	<p class="value-description"><b style="color:#d48817;">融合</b> <b>vs.</b> <b style="color:#d1ccae;">分離</b> (「政教」軸)<br/>
+	「融合」派の方は宗教団体による政治ないし政権を求めます。「分離」のスコアが高い方は、政教分離を強く求める傾向にあります。なお、この軸は個人の宗教観とは独立して判断されます。</p>
+
+	<p class="value-description"><b style="color:#389cd1;">減速</b> <b>vs.</b> <b style="color:#c4b631;">加速</b> (科学発展)<br/>
+        「減速」の方は科学や技術の発展を減速させ、現在や過去の文化を維持することに賛成します。「加速」派の方は、投資などを通して発展を促進させることを支持します。また、科学発展は市場へ利益があると考える場合も多くあります。</p>
+
+	<p class="value-description"><b style="color:#27577A;">民族</b> <b>vs.</b> <b style="color:#C4A717;">平等</b> (社会)<br/>
+    「民族」のスコアが高い方は、各民族には各民族の強みや弱みがあると考え、それに基づいた役割分担を支持する傾向にあります。「平等」のスコアが高い方は、人種や民族という概念に強い意味を見いださず、個人の性格をより重視すべきであると考える傾向にあります。</p>
+	<br>
+	
+
+<h2>「もっとも近い思想」とは？</h2>
+    <p>LeftValuesでは、発想元の<a href="https://8values-ja.github.io/index.html" target="_blank" rel="noopener noreferrer">8values</a>や<a href="https://leftvalues.github.io/ target="_blank" rel="noopener noreferrer">LeftValues</a>と似たように、あなたの回答に最も近い思想を診断します。現在36種類の思想が登録されており、順次拡大予定です。ご提案がありましたら、お気軽にご連絡ください。</p>
+<h2>結果が気に入らん！</h2>
+    <p data-i18n="index-p-scores">いずれの軸についても、この診断では100％をとる必要はありません。ご自身の価値観を把握し、問い直すためにご活用ください。その上で、改善に役立つご批判やご提案がございましたら、 <a href="https://forms.gle/Puc4sjaSQqvwNu6q8">こちら</a>のメールフォームにてご連絡ください（英語推奨）。</p>
+
+<h2>公式リリースしました！</h2>
+	<p>今後も開発・改良を続けていきます。エラー等がございましたら、<a href="https://forms.gle/Puc4sjaSQqvwNu6q8">こちら</a>よりご連絡ください（英語推奨）。</p>
+	<p><br/><br/>
+    8valuesはMIT Licenseに基づいてライセンスされており、「無制限("without restriction")」に、「ソフトウェアの複製を使用、複写、変更、結合、掲載、頒布、サブライセンス、および/または販売する ("use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software")」権利が認められています。従って、LeftValuesは著作権を侵害することなく、適法的に8valuesへ変更を加えています。また、LeftValuesも同MIT Licenseを適用しています。RightValuesはLeftValues基にして制作されました。</p>
+<br>
+
+<button class="button" onclick="location.href='about.html';" style="font-size:18pt;">RightValuesについて</button>
+
+
+
+<!-- This is the script for the page itself -->
+<script type="application/javascript" src="quizquestions.js"></script>
+<script type="text/javascript">
+    document.getElementById("numOfQuestions").innerHTML = questions.length 
+</script>
+</body>
