@@ -1,7 +1,7 @@
 questions = [
     //preserve (Conserve) vs Reform 
     {
-        "question": "Culturally Right-Wing parties generally fits my views.",
+        "question": "Homosexuality is against my personal moral values.",
         "i18n": {
         },
         "effect": {
@@ -15,11 +15,11 @@ questions = [
         }
     },
     {
-        "question": "Slowly improving society by changing it little by little over time is the best way to run it.",
+        "question": "Gender is a social construct.",
         "i18n": {
         },
         "effect": {
-            "a": -5,
+            "a": 5,
             "b": 0,
             "c": 0,
             "d": 0,
@@ -155,7 +155,7 @@ questions = [
         }
     },
     {
-        "question": "Liberalism in modern times has descended into Post-Modernism.",
+        "question": "I disagree with most of the values that Progressivism advocates.",
         "i18n": {
         },
         "effect": {
@@ -184,7 +184,7 @@ questions = [
         }
     },
     {
-        "question": "The phrase 'The freer the market, the freer the people' is correct in my opinion.",
+        "question": "The freer the market, the freer the people.",
         "i18n": {
         },
         "effect": {
@@ -212,7 +212,7 @@ questions = [
         }
     },
     {
-        "question": "Economic regulation reduces the positive benefits of Capitalism.",
+        "question": "Economic regulation causes economic stagnation and the overall reduction of productivity.",
         "i18n": {
         },
         "effect": {
@@ -226,7 +226,7 @@ questions = [
         }
     },
     {
-        "question": "The majority of the Rich deserve their property and money.",
+        "question": "The majority of the rich deserve to keep their property and money.",
         "i18n": {
         },
         "effect": {
