@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<head>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-165261047-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-165261047-1');
+</script>
+
+<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700%7CRoboto:400,700" rel="stylesheet">
+<link href='style.css' rel='stylesheet' type='text/css'>
+<title>RightValues</title>
+<link rel="icon" type="image/png" href="icon.png">
+<link rel="shortcut icon" type="image/png" href="icon.png">
+<meta name="google-site-verification" content="RkqiE7Cf34S7DX2hjmhJSYeYTprYnAU8Zncvznrc0HY" />
+<meta charset="utf-8">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+<a href="https://github.com/rightvaluestest/rightvaluestest.github.io" class="github-corner" aria-label="Github에서 소스 코드 보기"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
+
+<div id="langpicker">	
+  <select name="select" onChange="location.href=value;">
+  <option value="#">English (Original)</option>
+  <option value="rus/index.html">Pусский (LadomirXlebnikov)</option>
+  <option value="ja/index.html">日本語 (Choux)</option>
+  <option value="zh-cn/index.html">简体中文 (Songyon)</option>
+  <option value="ko/index.html">한국어 (Mizeery)</option>
+</div>
+	
+</select>
+<h1>RightValues</h1>
+<hr>
+<button class="button" onclick="location.href='instructions.html';" style="font-size:36pt;">클릭해서 시작하기!</button>
+<img src="img/allvalues.png" class="center" alt="The values being differentiated in this quiz" />
+
+<h2>RightValues란 무엇인가요?</h2>
+    <p data-i18n="index-p-answer">Rightvalues는 <a href="https://leftvalues.github.io/ target="_blank" rel="noopener noreferrer">LeftValues</a>의 대안으로 우익 스펙트럼 상에서 당신의 위치를 파악하기 위해 LeftValues를 바탕으로 만들어진 우익 설문입니다. 만약 당신이 우파가 아니라면, 이 설문은 분명 당신에게 적합하지 않습니다. 대신 LeftValues를 찾으세요. 각 문항을 살펴보고 <b>적극 동의</b>부터 <b>동의</b>, <b>중립/모르겠다</b>, <b>비동의</b>, <b>적극 비동의</b>까지의 답변중 하나를 선택하면, 각각의 답변이 당신의 점수에 조금씩 영향을 주게 될 것입니다. 설문 마지막에 당신의 답변에 기초한 점수가 각각의 가치(values)에 대해 가질 수 있는 최대값에 대한 백분율로 표시됩니다. 최대한 정직하게 대답하세요!<br /><br />
+    질문은 총 <b><u><span id="numOfQuestions"></span></u></b> 문항이 있습니다.</p>
+
+<h2>가치(values)는 무엇인가요?</h2>
+  <p>현재 6개의 축이 있습니다. 각각의 축은 아래와 같은 상반되는 두 개의 가치를 갖게 됩니다.:</p>
+
+<p><b style="color:#0c5199;">개혁</b> <b>대</b> <b style="color:#42c2f5;">보존</b> (문화축)<br/>
+        이것은 자유주의 대 보수주의와 같은 의미입니다. 개혁 점수가 높은 사람들은 문화적으로 좌익이며 LGBTQ의 권리와 낙태와 같은 것들을 지지합니다. 보존 점수가 높은 사람들은 문화를 보존하기를 원하며 보통 대마나 낙태의 합법화를 지지하지 않습니다.</p>
+
+	<p><b style="color:#174f8a;">시장개입</b> <b>대</b> <b style="color:#c7c406;">자유방임</b> (경제축)<br/>
+        시장개입 점수가 높은 사람들은 정부가 경제를 규제하기를 선호하는 경향이 있습니다. 자유방임 점수가 높은 사람들은 그러한 조치를 거부하고 자유 시장 경제에 가치를 두는 경향이 있습니다.
+
+	<p><b style="color:#9403fc;">독재</b> <b>대</b> <b style="color:#1fa3c4;">분권</b> (권력축)<br/>
+	독재 점수가 높은 사람들은 통치자의 권리 확대에 긍정적입니다. 분권 점수가 높은 사람들은 지배층이 분권 되는 것에 긍정적이며 극단적으로는 타인의 권리 침해를 규제하는 기본 원칙 (불가침 원칙; Non-aggression principle)을 전제로 한 무정부 체제를 지지합니다.
+		
+	<p><b style="color:#90bcd6;">자국주의</b> <b>대</b> <b style="color:#7F3300;">국제주의</b> (외교축)<br/>
+        자국주의 점수가 높은 사람은 다른 나라의 정책 개입에 반대하고 국내 문제 해결과 치안 유지를 바랍니다. 한편, 국제주의 점수가 높은 사람은 자국 내지는 국제사회를 위해 부패한 정권이나 국가의 전복 및 폐지를 적극적으로 지지합니다.</p>
+
+	<p><b style="color:#d48817;">신정주의</b> <b>대</b> <b style="color:#d1ccae;">세속주의</b> (정교관계축)<br/>
+        신정주의 점수가 높은 사람들은 종교 단체에 의한 정치 내지 정권을 선호하는 경향이 있습니다. 세속주의 점수가 높은 사람들은 정교 분리를 요구하는 경향이 있습니다. 이것은 개인의 종교적 신념과 관련이 없습니다.</p>
+
+	<p><b style="color:#389cd1;">기술 발달 감속</b> <b>대</b> <b style="color:#c4b631;">기술 발달 가속</b> (기술축)<br/>
+        기술 발달 감속 점수가 높은 사람들은 기술 발전이 더딘 것을 선호하는 경향이 있으며 현재 또는 과거 생활 방식을 보존하고자 합니다. 기술 발달 가속 점수가 높은 사람들은 가속이 시장에 많은 이점을 가져다 준다고 생각하는 경향이 있습니다.</p>
+
+	<p><b style="color:#27577A;">인종주의</b> <b>대</b> <b style="color:#C4A717;">평등주의</b> (사회축)<br/>
+        인종주의 점수가 높은 사람들은 각 인종이 다른 역할, 장점 및 약점을 가지고 있다고 생각합니다. 평등주의 점수가 높은 사람들은 인종이 중요하지 않다고 생각하고, 인종보다 그들의 성격에 더 맞는 사람들을 보아야 한다고 생각합니다.</p>
+	<br>
+	
+
+<h2>결과 아래에 뜨는 '가장 가까운 성향'은 무엇인가요?</h2>
+    <p>8Values, LeftValues와 비슷하게, 이 설문은 특정한 우파 이념과 당신을 짝지으려 할 것입니다. 현재 36개의 가능한 이념이 있고, 미래에는 더 많은 이념들이 있을 수 있습니다. 이는 진행중인 작업이며, 의도한대로 작동하지 않을 수도 있습니다. 제안은 언제나 환영합니다.</p>
+<h2>제 점수가 마음에 들지 않습니다!</h2>
+    <p data-i18n="index-p-scores">어떠한 범주에서든 100% 의 점수를 얻을 수 없다는 것을 인지해주세요. 이 설문의 목적은 당신 자신의 관점에 직면하는 것에 있습니다. 제안이나 건설적인 비판이있는 경우 이 <a href="https://forms.gle/Puc4sjaSQqvwNu6q8">짧은 양식</a>을 작성해주세요.</p>
+
+<h2>공식 출시!</h2>
+	<p>업데이트 될 예정이며 오류가있는 경우 이 <a href="https://forms.gle/Puc4sjaSQqvwNu6q8">양식</a>을 통해 알려주세요.</p>
+	<p><br/><br/>
+    8values is licensed under the MIT License, which permits "without restriction" the rights to "use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+	copies of the Software". LeftValues is licensed under the MIT License, which permits "without restriction" the rights to "use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+	copies of the Software". RightValues is thus able to legally modify the original 8values without infringing on any copyright. RightValues is based on LeftValues and 8Values.</p>
+<br>
+
+<button class="button" onclick="location.href='about.html';" style="font-size:18pt;">이 사이트에 대해서</button>
+
+
+
+<!-- This is the script for the page itself -->
+<script type="application/javascript" src="quizquestions.js"></script>
+<script type="text/javascript">
+    document.getElementById("numOfQuestions").innerHTML = questions.length 
+</script>
+</body>
