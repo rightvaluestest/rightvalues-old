@@ -148,14 +148,14 @@ const i18n = {
         "ko": ["Reactionary","Progressive","Reformist","Neutral","Conservative","Traditionalist","Reactionary"]
     },
     "result-b-label": {
-        "en": ["Planned Economy","Interventionist","Regulationist","Neutral","Limited Regulation","Free-Markets","Laissez-faire"],
-        "de": ["Planned Economy","Interventionist","Regulationist","Neutral","Limited Regulation","Free-Markets","Laissez-faire"],
-        "ko": ["Planned Economy","Interventionist","Regulationist","Neutral","Limited Regulation","Free-Markets","Laissez-faire"]
+        "en": ["Laissez-Faire","Free Markets","Limited Regulation","Neutral","Regulationist","Interventionist","Planned Economy"],
+        "de": ["Laissez-Faire","Free Markets","Limited Regulation","Neutral","Regulationist","Interventionist","Planned Economy"],
+        "ko": ["Laissez-Faire","Free Markets","Limited Regulation","Neutral","Regulationist","Interventionist","Planned Economy"]
     },
     "result-c-label": {
-        "en": ["Totalitarian","Authoritarian","Statist","Neutral","Democratic","Libertarian","Anarchist"],
-        "de": ["Totalitarian","Authoritarian","Statist","Neutral","Democratic","Libertarian","Anarchist"],
-        "ko": ["Totalitarian","Authoritarian","Statist","Neutral","Democratic","Libertarian","Anarchist"]
+        "en": ["Anarchist","Libertarian","Liberal","Neutral","Statist","Authoritarian","Totalitarian"],
+        "de": ["Anarchist","Libertarian","Liberal","Neutral","Statist","Authoritarian","Totalitarian"],
+        "ko": ["Anarchist","Libertarian","Liberal","Neutral","Statist","Authoritarian","Totalitarian"]
     },
     "result-d-label": {
         "en": ["Relativist","Particularist","Pacifist","Neutral","Diplomatic Interventionism","Universalism","Imperialism"],
